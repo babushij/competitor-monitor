@@ -1,0 +1,46 @@
+<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Competitor Monitor</title>
+<style>
+body{font-family:system-ui;margin:0;background:#0f172a;color:#e2e8f0}
+header{padding:16px;background:#1e293b;font-weight:700;font-size:20px}
+.cards{display:flex;gap:12px;padding:16px;flex-wrap:wrap}
+.card{background:#1e293b;padding:14px;border-radius:10px;flex:1;min-width:140px}
+.card b{display:block;font-size:26px;color:#38bdf8}
+.ctl{padding:0 16px;display:flex;gap:8px}
+select,input{padding:8px;border-radius:6px;border:0;font-size:15px}
+table{width:100%;border-collapse:collapse;font-size:14px;margin-top:12px}
+th,td{padding:8px;border-bottom:1px solid #334155;text-align:left}
+th{background:#1e293b;position:sticky;top:0}
+#lock{position:fixed;inset:0;background:#0f172a;display:flex;align-items:center;justify-content:center}
+</style></head><body>
+<div id="lock"><input id="pw" type="password" placeholder="Password" onkeydown="if(event.key=='Enter')unlock()"></div>
+<header>Competitor Sold Tracker</header>
+<div class="cards">
+ <div class="card">Sold last 7 days<b id="c7">–</b></div>
+ <div class="card">Avg days listed<b id="cd">–</b></div>
+ <div class="card">Avg sold price<b id="cp">–</b></div>
+</div>
+<div class="ctl"><select id="dealer"><option value="">All dealers</option></select>
+<input id="q" placeholder="Search make, model, VIN"></div>
+<table><thead><tr><th>Sold</th><th>Dealer</th><th>Vehicle</th><th>VIN</th><th>Price</th><th>Miles</th><th>Days</th></tr></thead><tbody id="rows"></tbody></table>
+<script>
+const PW="Ac5604592"; let sold=[];
+function unlock(){ if(pw.value===PW){lock.remove();load();} }
+async function load(){
+ sold=(await (await fetch("data/sold.json?"+Date.now())).json()).reverse();
+ [...new Set(sold.map(s=>s.dealer))].forEach(d=>dealer.add(new Option(d,d)));
+ render();
+}
+function render(){
+ const f=q.value.toLowerCase(), d=dealer.value;
+ const list=sold.filter(s=>(!d||s.dealer==d)&&(`${s.year} ${s.make} ${s.model} ${s.vin}`.toLowerCase().includes(f)));
+ const wk=new Date(Date.now()-7*864e5).toISOString().slice(0,10);
+ c7.textContent=list.filter(s=>s.sold_detected>=wk).length;
+ const avg=k=>list.length?Math.round(list.reduce((a,s)=>a+(s[k]||0),0)/list.length):0;
+ cd.textContent=avg("days_listed"); cp.textContent="$"+avg("price").toLocaleString();
+ rows.innerHTML=list.map(s=>`<tr><td>${s.sold_detected}</td><td>${s.dealer}</td>
+  <td><a style="color:#38bdf8" href="${s.url}" target="_blank">${s.year} ${s.make} ${s.model}</a></td>
+  <td>${s.vin}</td><td>$${(s.price||0).toLocaleString()}</td><td>${(s.miles||0).toLocaleString()}</td><td>${s.days_listed}</td></tr>`).join("");
+}
+dealer.onchange=render; q.oninput=render;
+</script></body></html>
