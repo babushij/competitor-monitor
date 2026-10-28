@@ -12,6 +12,9 @@ DEALERS = {
     "oaks": {"name": "Oaks Automotive",
              "url": "https://oaksauto513.com/inventory/",
              "generic": True},
+    "cincyautomall": {"name": "Cincy AutoMall",
+             "url": "https://cincyautomall.com/inventory",
+             "generic": True},
 }
 
 CARD_JS = """() => {
