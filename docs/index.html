@@ -19,17 +19,21 @@ th{background:#1e293b;position:sticky;top:0}
  <div class="card">Sold last 7 days<b id="c7">–</b></div>
  <div class="card">Avg days listed<b id="cd">–</b></div>
  <div class="card">Avg sold price<b id="cp">–</b></div>
+ <div class="card">On lot now<b id="inv">–</b><small id="invd"></small></div>
 </div>
 <div class="ctl"><select id="dealer"><option value="">All dealers</option></select>
 <input id="q" placeholder="Search make, model, VIN"></div>
 <table><thead><tr><th>Sold</th><th>Dealer</th><th>Vehicle</th><th>VIN</th><th>Price</th><th>Miles</th><th>Days</th></tr></thead><tbody id="rows"></tbody></table>
 <script>
-const PW="Ac5604592"; let sold=[];
+const PW="Ac5604592"; let sold=[]; const DEALERS={gtx:"GTX"};
 function unlock(){ if(pw.value===PW){lock.remove();load();} }
 async function load(){
  sold=(await (await fetch("data/sold.json?"+Date.now())).json()).reverse();
  [...new Set(sold.map(s=>s.dealer))].forEach(d=>dealer.add(new Option(d,d)));
  render();
+ let tot=0,parts=[];
+ for(const [k,n] of Object.entries(DEALERS)){try{const s=await (await fetch(`data/${k}_state.json?`+Date.now())).json();const c=Object.keys(s).length;tot+=c;parts.push(`${n} ${c}`);}catch(e){}}
+ inv.textContent=tot; invd.textContent=parts.join(" · ");
 }
 function render(){
  const f=q.value.toLowerCase(), d=dealer.value;
