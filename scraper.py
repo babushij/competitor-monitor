@@ -9,13 +9,43 @@ DEALERS = {
     "gtx": {"name": "GTX Auto Group",
             "url": "https://usedcarscincinnati.com/Inventory/All",
             "card": "li:has(a[href*='Details?stock='])"},
-    "oaks": {"name": "Oaks Automotive",
-             "url": "https://oaksauto513.com/inventory/",
-             "generic": True},
+    # Oaks: blocked by Cloudflare from GitHub (own site and CarGurus) - parked
     "cincyautomall": {"name": "Cincy AutoMall",
              "url": "https://cincyautomall.com/inventory",
-             "generic": True},
+             "dcs": True},
 }
+
+DCS_JS = """() => [...document.querySelectorAll('.i13r_optVin')].map(v => {
+  let c = v;
+  while (c.parentElement && c.parentElement.querySelectorAll('.i13r_optVin').length === 1) c = c.parentElement;
+  const q = s => (c.querySelector(s) || {}).textContent || '';
+  const a = c.querySelector('a[href*="/vdp/"]');
+  return {vin: ((v.textContent || '').match(/[A-HJ-NPR-Z0-9]{17}/) || [''])[0],
+          title: q('.vehicleTitle'), trim: q('.vehicleTrim'), miles: q('.i13r_optMileage'),
+          text: c.textContent || '', href: a ? a.href : ''};
+})"""
+
+def scrape_dcs(page, d):
+    cars = {}
+    for n in range(1, 25):
+        page.goto(f"{d['url']}?PageSize=100&page={n}", wait_until="domcontentloaded", timeout=120000)
+        page.wait_for_timeout(8000)
+        new = 0
+        for r in page.evaluate(DCS_JS):
+            if not r["vin"] or r["vin"] in cars: continue
+            t = " ".join(r["title"].split()).split(" ", 2)
+            amounts = [int(x.replace(",", "")) for x in re.findall(r"\$\s?([\d,]{4,7})", r["text"])]
+            amounts = [x for x in amounts if 1500 <= x < 300000]
+            mi = re.search(r"([\d,]+)", r["miles"])
+            cars[r["vin"]] = {"vin": r["vin"], "year": t[0] if t else "",
+                "make": t[1] if len(t) > 1 else "",
+                "model": ((t[2] if len(t) > 2 else "") + " " + " ".join(r["trim"].split())).strip(),
+                "price": min(amounts) if amounts else None,
+                "miles": int(mi.group(1).replace(",", "")) if mi else None, "url": r["href"]}
+            new += 1
+        print(f"  {d['name']} page {n}: +{new} (total {len(cars)})")
+        if new == 0: break
+    return cars
 
 CARD_JS = """() => {
  const re=/\\b[A-HJ-NPR-Z0-9]{17}\\b/g, out=[];
@@ -72,6 +102,7 @@ def parse_card(text, href):
             "url": href}
 
 def scrape(page, d):
+    if d.get("dcs"): return scrape_dcs(page, d)
     if d.get("generic"): return scrape_generic(page, d)
     page.goto(d["url"], wait_until="networkidle", timeout=120000)
     page.wait_for_timeout(5000)
