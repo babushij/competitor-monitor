@@ -25,7 +25,7 @@ th{background:#1e293b;position:sticky;top:0}
 <input id="q" placeholder="Search make, model, VIN"></div>
 <table><thead><tr><th>Sold</th><th>Dealer</th><th>Vehicle</th><th>VIN</th><th>Price</th><th>Miles</th><th>Days</th></tr></thead><tbody id="rows"></tbody></table>
 <script>
-const PW="Ac5604592"; let sold=[]; const DEALERS={gtx:"GTX",cincyautomall:"Cincy AutoMall",becks:"Beck's",cag:"Cincinnati Auto",premier:"Premier"};
+const PW="Ac5604592"; let sold=[]; const DEALERS={gtx:"GTX",cincyautomall:"Cincy AutoMall",becks:"Beck's",cag:"Cincinnati Auto",premier:"Premier",nw:"NW"};
 function unlock(){ if(pw.value===PW){lock.remove();load();} }
 async function load(){
  sold=(await (await fetch("data/sold.json?"+Date.now())).json()).reverse();
