@@ -17,6 +17,9 @@ DEALERS = {
              "cfs": True},    "premier": {"name": "Premier Automotive",
              "url": "https://www.premier-autoinc.com/inventory",
              "cfs": True},
+    "nw": {"name": "NW Automotive",
+             "url": "https://www.nag-cars.com/newandusedcars",
+             "dcs2": "/vdp/"},
     "cag": {"name": "Cincinnati Auto Group",
              "url": "https://www.cag513.com/cars-for-sale",
              "linkcards": "/Inventory/Details/"},
@@ -214,7 +217,34 @@ def scrape_cfs(page, d, key):
     print(f"  {d['name']}: {looked} VIN lookups")
     return cars
 
+def parse_card_text(t):
+    ym = re.search(r"\b((?:19|20)\d{2})\s+([A-Za-z][A-Za-z\-]+)\s+(.+?)(?=\s+(?:\$|Price|Mileage|Miles|VIN|Stock|Color|\d{1,3},\d{3}\s*(?:mi|Miles))|$)", t, re.I)
+    amounts = [int(x.replace(",", "")) for x in re.findall(r"\$\s?([\d,]{4,7})", t)]
+    amounts = [x for x in amounts if 1500 <= x < 300000]
+    mi = re.search(r"Mileage:?\s*([\d,]+)", t, re.I) or re.search(r"([\d,]{2,9})\s*(?:mi\b|miles\b)", t, re.I)
+    return {"year": ym.group(1) if ym else "", "make": ym.group(2) if ym else "",
+            "model": ym.group(3).strip()[:50] if ym else "",
+            "price": min(amounts) if amounts else None,
+            "miles": int(mi.group(1).replace(",", "")) if mi else None}
+
+def scrape_dcs2(page, d):
+    cars, seen = {}, set()
+    for n in range(1, 25):
+        page.goto(f"{d['url']}?PageSize=100&page={n}", wait_until="domcontentloaded", timeout=120000)
+        page.wait_for_timeout(8000)
+        new = 0
+        for r in page.evaluate(LINK_JS, d["dcs2"]):
+            if r["id"] in seen: continue
+            seen.add(r["id"]); new += 1
+            if len(r["vins"]) != 1: continue
+            cars[r["vins"][0]] = {"vin": r["vins"][0], **parse_card_text(r["text"]), "url": r["href"]}
+            if len(cars) <= 2: print("  sample text:", r["text"][:250])
+        print(f"  {d['name']} page {n}: +{new} (total {len(cars)})")
+        if new == 0: break
+    return cars
+
 def scrape(page, d, key=None):
+    if d.get("dcs2"): return scrape_dcs2(page, d)
     if d.get("cfs"): return scrape_cfs(page, d, key)
     if d.get("linkcards"): return scrape_linkcards(page, d, key)
     if d.get("dcs"): return scrape_dcs(page, d)
