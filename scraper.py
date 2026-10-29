@@ -48,6 +48,7 @@ def scrape_linkcards(page, d, key):
     lid2vin = {v.get("lid"): k for k, v in old.items() if v.get("lid")}
     looked = 0
     page.goto(d["url"], wait_until="domcontentloaded", timeout=120000); page.wait_for_timeout(7000)
+    set_sort(page, "ascendingDateCreated")
     cars, seen = {}, set()
     for n in range(1, 40):
         new = 0
@@ -97,7 +98,7 @@ DCS_JS = """() => [...document.querySelectorAll('.i13r_optVin')].map(v => {
 def scrape_dcs(page, d):
     cars = {}
     for n in range(1, 25):
-        page.goto(f"{d['url']}?PageSize=100&page={n}", wait_until="domcontentloaded", timeout=120000)
+        page.goto(f"{d['url']}?PageSize=100&sortby=old&page={n}", wait_until="domcontentloaded", timeout=120000)
         page.wait_for_timeout(8000)
         new = 0
         for r in page.evaluate(DCS_JS):
@@ -177,12 +178,23 @@ CFS_JS = """() => [...document.querySelectorAll('li.vehicle-snapshot')].map(c =>
           info: vals.join(' | ')};
 })"""
 
+def set_sort(page, value):
+    for sel in page.query_selector_all("select"):
+        try:
+            vals = sel.eval_on_selector_all("option", "os => os.map(o => o.value)") if False else sel.evaluate("e => [...e.options].map(o => o.value)")
+            if value in vals:
+                sel.select_option(value); page.wait_for_timeout(6000)
+                print(f"  sorted by {value}"); return True
+        except Exception as e: print("  sort failed", e)
+    print(f"  sort option {value} not found"); return False
+
 def scrape_cfs(page, d, key):
     base = re.match(r"https?://[^/]+", d["url"]).group()
     sf = DATA / f"{key}_state.json"
     old = json.loads(sf.read_text()) if sf.exists() else {}
     lid2vin = {v.get("lid"): k for k, v in old.items() if v.get("lid")}
     page.goto(d["url"], wait_until="domcontentloaded", timeout=120000); page.wait_for_timeout(6000)
+    set_sort(page, "YearOldest")
     rows = {}
     for n in range(1, 40):
         new = 0
@@ -230,7 +242,7 @@ def parse_card_text(t):
 def scrape_dcs2(page, d):
     cars, seen = {}, set()
     for n in range(1, 25):
-        page.goto(f"{d['url']}?PageSize=100&page={n}", wait_until="domcontentloaded", timeout=120000)
+        page.goto(f"{d['url']}?PageSize=100&sortby=old&page={n}", wait_until="domcontentloaded", timeout=120000)
         page.wait_for_timeout(8000)
         new = 0
         for r in page.evaluate(LINK_JS, d["dcs2"]):
