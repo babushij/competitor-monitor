@@ -14,7 +14,7 @@ DEALERS = {
              "url": "https://cincyautomall.com/inventory",
              "dcs": True},    "becks": {"name": "Beck's Auto Group",
              "url": "https://www.becksautogroup.com/inventory",
-             "dcs": True},
+             "cfs": True},
 }
 
 DCS_JS = """() => [...document.querySelectorAll('.i13r_optVin')].map(v => {
@@ -103,7 +103,55 @@ def parse_card(text, href):
             "miles": int(miles.group(1).replace(",", "")) if miles else None,
             "url": href}
 
-def scrape(page, d):
+CFS_JS = """() => [...document.querySelectorAll('li.vehicle-snapshot')].map(c => {
+  const a = c.querySelector('a[href*="/details/"]');
+  const vals = [...c.querySelectorAll('.vehicle-snapshot__main-info-item')].map(x => x.textContent.replace(/\\s+/g,' ').trim());
+  return {href: a ? a.getAttribute('href') : '', title: ((c.querySelector('.vehicle-snapshot__title')||{}).textContent||'').trim(),
+          info: vals.join(' | ')};
+})"""
+
+def scrape_cfs(page, d, key):
+    base = re.match(r"https?://[^/]+", d["url"]).group()
+    sf = DATA / f"{key}_state.json"
+    old = json.loads(sf.read_text()) if sf.exists() else {}
+    lid2vin = {v.get("lid"): k for k, v in old.items() if v.get("lid")}
+    page.goto(d["url"], wait_until="domcontentloaded", timeout=120000); page.wait_for_timeout(6000)
+    rows = {}
+    for n in range(1, 40):
+        new = 0
+        for r in page.evaluate(CFS_JS):
+            m = re.search(r"/(\d+)/?$", r["href"] or "")
+            if m and m.group(1) not in rows: rows[m.group(1)] = r; new += 1
+        print(f"  {d['name']} page {n}: +{new} (total {len(rows)})")
+        if new == 0 and n > 1: break
+        nxt = None
+        for sel in ["a[rel=next]", "[aria-label*='Next' i]", ".pagination a:has-text('Next')", "a:has-text('Next')", "button:has-text('Next')", ".pagination a:has-text('›')", ".pagination a:has-text('»')"]:
+            for el in page.query_selector_all(sel):
+                if el.is_visible(): nxt = el; break
+            if nxt: break
+        if not nxt: break
+        try: nxt.click(); page.wait_for_timeout(5000)
+        except Exception as e: print("  next failed", e); break
+    cars, looked = {}, 0
+    for lid, r in rows.items():
+        vin = lid2vin.get(lid)
+        if not vin:
+            try:
+                html = page.request.get(base + r["href"], timeout=60000).text()
+                v = VIN_RE.search(html); vin = v.group() if v else None; looked += 1
+            except Exception as e: print("  detail failed", lid, e)
+        if not vin: continue
+        t = r["title"].split(" ", 2)
+        pr = re.search(r"Price \$([\d,]+)", r["info"]); mi = re.search(r"Mileage ([\d,]+)", r["info"])
+        cars[vin] = {"vin": vin, "lid": lid, "year": t[0] if t else "", "make": t[1] if len(t) > 1 else "",
+                     "model": t[2] if len(t) > 2 else "",
+                     "price": int(pr.group(1).replace(",", "")) if pr else None,
+                     "miles": int(mi.group(1).replace(",", "")) if mi else None, "url": base + r["href"]}
+    print(f"  {d['name']}: {looked} VIN lookups")
+    return cars
+
+def scrape(page, d, key=None):
+    if d.get("cfs"): return scrape_cfs(page, d, key)
     if d.get("dcs"): return scrape_dcs(page, d)
     if d.get("generic"): return scrape_generic(page, d)
     page.goto(d["url"], wait_until="networkidle", timeout=120000)
@@ -135,5 +183,5 @@ def update(key, name, cars):
 with sync_playwright() as p:
     page = p.chromium.launch().new_page(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", viewport={"width":1366,"height":900})
     for key, d in DEALERS.items():
-        try: update(key, d["name"], scrape(page, d))
+        try: update(key, d["name"], scrape(page, d, key))
         except Exception as e: print(f"{d['name']} FAILED: {e}")
