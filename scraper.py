@@ -36,7 +36,11 @@ LINK_JS = """(pat) => {
   return Object.values(out);
 }"""
 
-def scrape_linkcards(page, d):
+def scrape_linkcards(page, d, key):
+    sf = DATA / f"{key}_state.json"
+    old = json.loads(sf.read_text()) if sf.exists() else {}
+    lid2vin = {v.get("lid"): k for k, v in old.items() if v.get("lid")}
+    looked = 0
     page.goto(d["url"], wait_until="domcontentloaded", timeout=120000); page.wait_for_timeout(7000)
     cars, seen = {}, set()
     for n in range(1, 40):
@@ -44,15 +48,19 @@ def scrape_linkcards(page, d):
         for r in page.evaluate(LINK_JS, d["linkcards"]):
             if r["id"] in seen: continue
             seen.add(r["id"]); new += 1
-            if len(r["vins"]) != 1:
-                if n == 1 and new < 3: print("  card w/o single VIN:", r["vins"], r["text"][:150])
-                continue
+            vin = r["vins"][0] if len(r["vins"]) == 1 else lid2vin.get(r["id"])
+            if not vin:
+                try:
+                    v = VIN_RE.search(page.request.get(r["href"], timeout=60000).text()); looked += 1
+                    vin = v.group() if v else None
+                except Exception as e: print("  detail failed", r["id"], e)
+            if not vin: continue
             t = r["text"]
-            ym = re.search(r"\b((?:19|20)\d{2})\s+([A-Za-z][A-Za-z\-]+)\s+(.+?)(?=\s+(?:\$|Price|Mileage|Miles|VIN|Stock|\d{1,3},\d{3}\s*(?:mi|Miles))|$)", t)
+            ym = re.search(r"\b((?:19|20)\d{2})\s+([A-Za-z][A-Za-z\-]+)\s+(.+?)(?=\s+(?:\$|Price|Mileage|Miles|VIN|Stock|\d{1,3},\d{3}\s*(?:mi|Miles))|$)", t, re.I)
             amounts = [int(x.replace(",", "")) for x in re.findall(r"\$\s?([\d,]{4,7})", t)]
             amounts = [x for x in amounts if 1500 <= x < 300000]
             mi = re.search(r"([\d,]{2,9})\s*(?:mi\b|miles\b|Miles\b)", t) or re.search(r"Mileage:?\s*([\d,]+)", t)
-            cars[r["vins"][0]] = {"vin": r["vins"][0], "year": ym.group(1) if ym else "",
+            cars[vin] = {"vin": vin, "lid": r["id"], "year": ym.group(1) if ym else "",
                 "make": ym.group(2) if ym else "", "model": ym.group(3).strip()[:50] if ym else "",
                 "price": min(amounts) if amounts else None,
                 "miles": int(mi.group(1).replace(",", "")) if mi else None, "url": r["href"]}
@@ -67,6 +75,7 @@ def scrape_linkcards(page, d):
         if not nxt: break
         try: nxt.click(); page.wait_for_timeout(5000)
         except Exception as e: print("  next failed", e); break
+    print(f"  {d['name']}: {looked} VIN lookups")
     return cars
 
 DCS_JS = """() => [...document.querySelectorAll('.i13r_optVin')].map(v => {
@@ -204,7 +213,7 @@ def scrape_cfs(page, d, key):
 
 def scrape(page, d, key=None):
     if d.get("cfs"): return scrape_cfs(page, d, key)
-    if d.get("linkcards"): return scrape_linkcards(page, d)
+    if d.get("linkcards"): return scrape_linkcards(page, d, key)
     if d.get("dcs"): return scrape_dcs(page, d)
     if d.get("generic"): return scrape_generic(page, d)
     page.goto(d["url"], wait_until="networkidle", timeout=120000)
