@@ -1077,28 +1077,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-10-29"
  },
- "2GNAXTEV6M6161463": {
-  "vin": "2GNAXTEV6M6161463",
-  "year": "2021",
-  "make": "Chevrolet",
-  "model": "Equinox AWD 4dr LT w/2FL",
-  "price": 9900,
-  "miles": 147044,
-  "url": "https://cincyautomall.com/vdp/21127609/Used-2021-Chevrolet-Equinox-AWD-4dr-LT-w2FL-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-29"
- },
- "2GNAXUEV1M6139487": {
-  "vin": "2GNAXUEV1M6139487",
-  "year": "2021",
-  "make": "Chevrolet",
-  "model": "Equinox AWD 4dr LT w/1LT",
-  "price": 10900,
-  "miles": 121136,
-  "url": "https://cincyautomall.com/vdp/23247221/Used-2021-Chevrolet-Equinox-AWD-4dr-LT-w1LT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-29"
- },
  "2GNAXTEV4M6162160": {
   "vin": "2GNAXTEV4M6162160",
   "year": "2021",
@@ -6113,6 +6091,28 @@
   "miles": 96584,
   "url": "https://cincyautomall.com/vdp/24284174/Used-2024-Volvo-XC90-B5-AWD-Core-Bright-Theme-7P-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
+  "last_seen": "2026-10-29"
+ },
+ "3GNAXTEV9MS162110": {
+  "vin": "3GNAXTEV9MS162110",
+  "year": "2021",
+  "make": "Chevrolet",
+  "model": "Equinox AWD 4dr LT w/2FL",
+  "price": 9900,
+  "miles": 145364,
+  "url": "https://cincyautomall.com/vdp/21293983/Used-2021-Chevrolet-Equinox-AWD-4dr-LT-w2FL-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ "3GNAXHEV9MS124664": {
+  "vin": "3GNAXHEV9MS124664",
+  "year": "2021",
+  "make": "Chevrolet",
+  "model": "Equinox FWD 4dr LS w/1LS",
+  "price": 9280,
+  "miles": 150663,
+  "url": "https://cincyautomall.com/vdp/23332070/Used-2021-Chevrolet-Equinox-FWD-4dr-LS-w1LS-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-10-29",
   "last_seen": "2026-10-29"
  }
 }

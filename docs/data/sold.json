@@ -26,5 +26,33 @@
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-10-29",
   "days_listed": 1
+ },
+ {
+  "vin": "2GNAXTEV6M6161463",
+  "year": "2021",
+  "make": "Chevrolet",
+  "model": "Equinox AWD 4dr LT w/2FL",
+  "price": 9900,
+  "miles": 147044,
+  "url": "https://cincyautomall.com/vdp/21127609/Used-2021-Chevrolet-Equinox-AWD-4dr-LT-w2FL-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-10-28",
+  "last_seen": "2026-10-29",
+  "dealer": "Cincy AutoMall",
+  "sold_detected": "2026-10-29",
+  "days_listed": 1
+ },
+ {
+  "vin": "2GNAXUEV1M6139487",
+  "year": "2021",
+  "make": "Chevrolet",
+  "model": "Equinox AWD 4dr LT w/1LT",
+  "price": 10900,
+  "miles": 121136,
+  "url": "https://cincyautomall.com/vdp/23247221/Used-2021-Chevrolet-Equinox-AWD-4dr-LT-w1LT-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-10-28",
+  "last_seen": "2026-10-29",
+  "dealer": "Cincy AutoMall",
+  "sold_detected": "2026-10-29",
+  "days_listed": 1
  }
 ]
