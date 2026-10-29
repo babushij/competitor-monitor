@@ -12,6 +12,8 @@ DEALERS = {
     # Oaks: blocked by Cloudflare from GitHub (own site and CarGurus) - parked
     "cincyautomall": {"name": "Cincy AutoMall",
              "url": "https://cincyautomall.com/inventory",
+             "dcs": True},    "becks": {"name": "Beck's Auto Group",
+             "url": "https://www.becksautogroup.com/inventory",
              "dcs": True},
 }
 
