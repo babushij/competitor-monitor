@@ -14,8 +14,60 @@ DEALERS = {
              "url": "https://cincyautomall.com/inventory",
              "dcs": True},    "becks": {"name": "Beck's Auto Group",
              "url": "https://www.becksautogroup.com/inventory",
-             "cfs": True},
+             "cfs": True},    "cag": {"name": "Cincinnati Auto Group",
+             "url": "https://www.cag513.com/cars-for-sale",
+             "linkcards": "/Inventory/Details/"},
 }
+
+LINK_JS = """(pat) => {
+  const vre = /\\b[A-HJ-NPR-Z0-9]{17}\\b/g, out = {};
+  for (const a of document.querySelectorAll('a[href*="' + pat + '"]')) {
+    const id = a.getAttribute('href').split(pat)[1].split(/[?#/]/)[0];
+    if (!id || out[id]) continue;
+    let c = a;
+    while (c.parentElement) {
+      const ids = new Set([...c.parentElement.querySelectorAll('a[href*="' + pat + '"]')].map(x => x.getAttribute('href').split(pat)[1].split(/[?#/]/)[0]));
+      if (ids.size > 1) break;
+      c = c.parentElement;
+    }
+    const v = [...new Set(c.outerHTML.match(vre) || [])];
+    out[id] = {id, href: a.href, vins: v, text: (c.innerText || '').replace(/\\s+/g, ' ').trim()};
+  }
+  return Object.values(out);
+}"""
+
+def scrape_linkcards(page, d):
+    page.goto(d["url"], wait_until="domcontentloaded", timeout=120000); page.wait_for_timeout(7000)
+    cars, seen = {}, set()
+    for n in range(1, 40):
+        new = 0
+        for r in page.evaluate(LINK_JS, d["linkcards"]):
+            if r["id"] in seen: continue
+            seen.add(r["id"]); new += 1
+            if len(r["vins"]) != 1:
+                if n == 1 and new < 3: print("  card w/o single VIN:", r["vins"], r["text"][:150])
+                continue
+            t = r["text"]
+            ym = re.search(r"\b((?:19|20)\d{2})\s+([A-Za-z][A-Za-z\-]+)\s+(.+?)(?=\s+(?:\$|Price|Mileage|Miles|VIN|Stock|\d{1,3},\d{3}\s*(?:mi|Miles))|$)", t)
+            amounts = [int(x.replace(",", "")) for x in re.findall(r"\$\s?([\d,]{4,7})", t)]
+            amounts = [x for x in amounts if 1500 <= x < 300000]
+            mi = re.search(r"([\d,]{2,9})\s*(?:mi\b|miles\b|Miles\b)", t) or re.search(r"Mileage:?\s*([\d,]+)", t)
+            cars[r["vins"][0]] = {"vin": r["vins"][0], "year": ym.group(1) if ym else "",
+                "make": ym.group(2) if ym else "", "model": ym.group(3).strip()[:50] if ym else "",
+                "price": min(amounts) if amounts else None,
+                "miles": int(mi.group(1).replace(",", "")) if mi else None, "url": r["href"]}
+            if len(cars) <= 2: print("  sample text:", t[:250])
+        print(f"  {d['name']} page {n}: +{new} (total {len(cars)})")
+        if new == 0 and n > 1: break
+        nxt = None
+        for sel in ["a[rel=next]", "[aria-label*='Next' i]", ".pagination a:has-text('Next')", "a:has-text('Next')", "button:has-text('Next')", ".pagination a:has-text('›')", ".pagination a:has-text('»')"]:
+            for el in page.query_selector_all(sel):
+                if el.is_visible(): nxt = el; break
+            if nxt: break
+        if not nxt: break
+        try: nxt.click(); page.wait_for_timeout(5000)
+        except Exception as e: print("  next failed", e); break
+    return cars
 
 DCS_JS = """() => [...document.querySelectorAll('.i13r_optVin')].map(v => {
   let c = v;
@@ -152,6 +204,7 @@ def scrape_cfs(page, d, key):
 
 def scrape(page, d, key=None):
     if d.get("cfs"): return scrape_cfs(page, d, key)
+    if d.get("linkcards"): return scrape_linkcards(page, d)
     if d.get("dcs"): return scrape_dcs(page, d)
     if d.get("generic"): return scrape_generic(page, d)
     page.goto(d["url"], wait_until="networkidle", timeout=120000)
