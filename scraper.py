@@ -14,7 +14,10 @@ DEALERS = {
              "url": "https://cincyautomall.com/inventory",
              "dcs": True},    "becks": {"name": "Beck's Auto Group",
              "url": "https://www.becksautogroup.com/inventory",
-             "cfs": True},    "cag": {"name": "Cincinnati Auto Group",
+             "cfs": True},    "premier": {"name": "Premier Automotive",
+             "url": "https://www.premier-autoinc.com/inventory",
+             "cfs": True},
+    "cag": {"name": "Cincinnati Auto Group",
              "url": "https://www.cag513.com/cars-for-sale",
              "linkcards": "/Inventory/Details/"},
 }
