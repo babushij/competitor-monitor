@@ -264,12 +264,22 @@ def update(key, name, cars):
     sold = json.loads(soldf.read_text()) if soldf.exists() else []
     if len(cars) < 0.5 * max(len(state), 1):   # safety: bad scrape, don't mark mass sold
         print(f"{name}: only {len(cars)} cars, skipping"); return
+    # a car that shows up again was never sold - pull it back off the sold list
+    back = [s for s in sold if s.get("dealer") == name and s["vin"] in cars]
+    if back:
+        print(f"{name}: {len(back)} reappeared, removed from sold")
+        sold = [s for s in sold if not (s.get("dealer") == name and s["vin"] in cars)]
     for vin, c in cars.items():
         prev = state.get(vin, {"first_seen": TODAY})
-        state[vin] = {**c, "first_seen": prev["first_seen"], "last_seen": TODAY}
+        state[vin] = {**c, "first_seen": prev["first_seen"], "last_seen": TODAY, "misses": 0}
     for vin in [v for v in state if v not in cars]:
-        c = state.pop(vin)
-        days = (datetime.date.today() - datetime.date.fromisoformat(c["first_seen"])).days
+        c = state[vin]
+        c["misses"] = c.get("misses", 0) + 1
+        if c["misses"] < 2:      # must be missing on 2 runs in a row before we call it sold
+            continue
+        state.pop(vin)
+        c.pop("misses", None)
+        days = (datetime.date.fromisoformat(c["last_seen"]) - datetime.date.fromisoformat(c["first_seen"])).days
         sold.append({**c, "dealer": name, "sold_detected": TODAY, "days_listed": days})
     sf.write_text(json.dumps(state, indent=1))
     soldf.write_text(json.dumps(sold, indent=1))
