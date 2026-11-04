@@ -297,8 +297,45 @@ def update(key, name, cars):
     soldf.write_text(json.dumps(sold, indent=1))
     print(f"{name}: {len(cars)} active")
 
+def still_listed(page, c):
+    try:
+        r = page.goto(c["url"], wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(3000)
+        if r is None or r.status >= 400: return False
+        return c["vin"].upper() in page.content().upper()
+    except Exception as e:
+        print("  check error", c["vin"], e); return None
+
+def verify_sold(page):
+    soldf = DATA / "sold.json"
+    sold = json.loads(soldf.read_text()) if soldf.exists() else []
+    keymap = {d["name"]: k for k, d in DEALERS.items()}
+    keep, back = [], 0
+    for c in sold:
+        if c.get("verified") or not c.get("url"):
+            keep.append(c); continue
+        alive = still_listed(page, c)
+        if alive is None: keep.append(c); continue      # couldn't check, try next run
+        if alive:
+            back += 1
+            k = keymap.get(c["dealer"])
+            if k:
+                sf = DATA / f"{k}_state.json"
+                st = json.loads(sf.read_text()) if sf.exists() else {}
+                car = {x: v for x, v in c.items() if x not in ("dealer", "sold_detected", "days_listed")}
+                car["misses"] = 0
+                st[c["vin"]] = car
+                sf.write_text(json.dumps(st, indent=1))
+            print("  still listed, not sold:", c["dealer"], c["year"], c["make"], c["model"])
+        else:
+            c["verified"] = True; keep.append(c)
+    soldf.write_text(json.dumps(keep, indent=1))
+    print(f"Verify: {back} were still listed and removed, {len(keep)} sold confirmed")
+
 with sync_playwright() as p:
     page = p.chromium.launch().new_page(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", viewport={"width":1366,"height":900})
     for key, d in DEALERS.items():
         try: update(key, d["name"], scrape(page, d, key))
         except Exception as e: print(f"{d['name']} FAILED: {e}")
+    try: verify_sold(page)
+    except Exception as e: print("verify FAILED", e)
