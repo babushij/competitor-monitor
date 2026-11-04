@@ -6,7 +6,11 @@ header{padding:16px;background:#1e293b;font-weight:700;font-size:20px}
 .cards{display:flex;gap:12px;padding:16px;flex-wrap:wrap}
 .card{background:#1e293b;padding:14px;border-radius:10px;flex:1;min-width:140px}
 .card b{display:block;font-size:26px;color:#38bdf8}
-.ctl{padding:0 16px;display:flex;gap:8px}
+.ctl{padding:0 16px;display:flex;gap:8px;flex-wrap:wrap}
+.rng{padding:12px 16px 0;display:flex;gap:6px;flex-wrap:wrap}
+.rng button{padding:8px 12px;border-radius:16px;border:0;background:#1e293b;color:#e2e8f0;font-size:14px}
+.rng button.on{background:#38bdf8;color:#0f172a;font-weight:700}
+th{cursor:pointer;user-select:none}
 select,input{padding:8px;border-radius:6px;border:0;font-size:15px}
 table{width:100%;border-collapse:collapse;font-size:14px;margin-top:12px}
 th,td{padding:8px;border-bottom:1px solid #334155;text-align:left}
@@ -15,15 +19,16 @@ th{background:#1e293b;position:sticky;top:0}
 </style></head><body>
 <div id="lock"><input id="pw" type="password" placeholder="Password" onkeydown="if(event.key=='Enter')unlock()"></div>
 <header>Competitor Sold Tracker</header>
+<div class="rng" id="rng"></div>
 <div class="cards">
- <div class="card">Sold last 7 days<b id="c7">–</b></div>
+ <div class="card"><span id="c7l">Sold last 7 days</span><b id="c7">–</b></div>
  <div class="card">Avg days listed<b id="cd">–</b></div>
  <div class="card">Avg sold price<b id="cp">–</b></div>
  <div class="card">On lot now<b id="inv">–</b><small id="invd"></small></div>
 </div>
 <div class="ctl"><select id="dealer"><option value="">All dealers</option></select>
 <input id="q" placeholder="Search make, model, VIN"></div>
-<table><thead><tr><th>Sold</th><th>Dealer</th><th>Vehicle</th><th>VIN</th><th>Price</th><th>Miles</th><th>Days</th></tr></thead><tbody id="rows"></tbody></table>
+<table><thead><tr><th data-k="sold_detected">Sold</th><th data-k="dealer">Dealer</th><th data-k="year">Year</th><th data-k="make">Make</th><th data-k="model">Model</th><th data-k="vin">VIN</th><th data-k="price">Price</th><th data-k="miles">Miles</th><th data-k="days_listed">Days</th></tr></thead><tbody id="rows"></tbody></table>
 <script>
 const PW="Ac5604592"; let sold=[]; const DEALERS={gtx:"GTX",cincyautomall:"Cincy AutoMall",becks:"Beck's",cag:"Cincinnati Auto",premier:"Premier",nw:"NW"};
 function unlock(){ if(pw.value===PW){lock.remove();load();} }
@@ -35,15 +40,26 @@ async function load(){
  for(const [k,n] of Object.entries(DEALERS)){try{const s=await (await fetch(`data/${k}_state.json?`+Date.now())).json();const c=Object.keys(s).length;tot+=c;parts.push(`${n} ${c}`);}catch(e){}}
  inv.textContent=tot; invd.textContent=parts.join(" · ");
 }
+const RANGES=[["7 days",7],["30 days",30],["90 days",90],["Year to date","ytd"],["Last year","ly"],["All","all"]];
+let range=7, sk="sold_detected", sdir=-1;
+RANGES.forEach(([l,v])=>{const b=document.createElement("button");b.textContent=l;b.onclick=()=>{range=v;render();};b.dataset.v=v;rng.appendChild(b);});
+function bounds(){const t=new Date(),y=t.getFullYear(),iso=d=>d.toISOString().slice(0,10);
+ if(range==="all")return["0000","9999"]; if(range==="ytd")return[`${y}-01-01`,"9999"];
+ if(range==="ly")return[`${y-1}-01-01`,`${y-1}-12-31`]; return[iso(new Date(Date.now()-range*864e5)),"9999"];}
+document.querySelectorAll("th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k; if(sk===k)sdir=-sdir; else{sk=k;sdir=1;} render();});
 function render(){
- const f=q.value.toLowerCase(), d=dealer.value;
- const list=sold.filter(s=>(!d||s.dealer==d)&&(`${s.year} ${s.make} ${s.model} ${s.vin}`.toLowerCase().includes(f)));
- const wk=new Date(Date.now()-7*864e5).toISOString().slice(0,10);
- c7.textContent=list.filter(s=>s.sold_detected>=wk).length;
+ const f=q.value.toLowerCase(), d=dealer.value, [a,b]=bounds();
+ const lbl=RANGES.find(r=>String(r[1])===String(range))[0];
+ document.querySelectorAll("#rng button").forEach(x=>x.classList.toggle("on",x.dataset.v===String(range)));
+ c7l.textContent="Sold · "+lbl;
+ const list=sold.filter(s=>(!d||s.dealer==d)&&s.sold_detected>=a&&s.sold_detected<=b&&(`${s.year} ${s.make} ${s.model} ${s.vin}`.toLowerCase().includes(f)));
+ list.sort((x,y)=>{let p=x[sk],r=y[sk]; if(typeof p==="string"||typeof r==="string"){p=String(p??"").toLowerCase();r=String(r??"").toLowerCase();} else{p=p??0;r=r??0;} return p<r?-sdir:p>r?sdir:0;});
+ document.querySelectorAll("th[data-k]").forEach(th=>{th.textContent=th.textContent.replace(/ [▲▼]$/,"")+(th.dataset.k===sk?(sdir>0?" ▲":" ▼"):"");});
+ c7.textContent=list.length;
  const avg=k=>list.length?Math.round(list.reduce((a,s)=>a+(s[k]||0),0)/list.length):0;
  cd.textContent=avg("days_listed"); cp.textContent="$"+avg("price").toLocaleString();
- rows.innerHTML=list.map(s=>`<tr><td>${s.sold_detected}</td><td>${s.dealer}</td>
-  <td><a style="color:#38bdf8" href="${s.url}" target="_blank">${s.year} ${s.make} ${s.model}</a></td>
+ rows.innerHTML=list.map(s=>`<tr><td>${s.sold_detected}</td><td>${s.dealer}</td><td>${s.year}</td>
+  <td><a style="color:#38bdf8" href="${s.url}" target="_blank">${s.make}</a></td><td>${s.model}</td>
   <td>${s.vin}</td><td>$${(s.price||0).toLocaleString()}</td><td>${(s.miles||0).toLocaleString()}</td><td>${s.days_listed}</td></tr>`).join("");
 }
 dealer.onchange=render; q.oninput=render;
