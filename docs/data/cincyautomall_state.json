@@ -273,7 +273,7 @@
   "url": "https://cincyautomall.com/vdp/24417721/Used-2017-Buick-Enclave-AWD-4dr-Leather-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "5GAERBKW6KJ145597": {
   "vin": "5GAERBKW6KJ145597",
@@ -718,18 +718,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "2GNFLEEK3G6277887": {
-  "vin": "2GNFLEEK3G6277887",
-  "year": "2016",
-  "make": "Chevrolet",
-  "model": "Equinox AWD 4dr LS",
-  "price": 8900,
-  "miles": 110288,
-  "url": "https://cincyautomall.com/vdp/23946376/Used-2016-Chevrolet-Equinox-AWD-4dr-LS-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "2GNALCEKXH6263761": {
   "vin": "2GNALCEKXH6263761",
@@ -1223,18 +1211,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "3GNAXKEV4NL179662": {
-  "vin": "3GNAXKEV4NL179662",
-  "year": "2022",
-  "make": "Chevrolet",
-  "model": "Equinox FWD 4dr LT w/1LT",
-  "price": 12900,
-  "miles": 92687,
-  "url": "https://cincyautomall.com/vdp/24385120/Used-2022-Chevrolet-Equinox-FWD-4dr-LT-w1LT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "3GNAXKEGXPS211475": {
   "vin": "3GNAXKEGXPS211475",
   "year": "2023",
@@ -1654,18 +1630,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "KL79MRSL2NB092101": {
-  "vin": "KL79MRSL2NB092101",
-  "year": "2022",
-  "make": "Chevrolet",
-  "model": "TrailBlazer AWD 4dr LT",
-  "price": 11480,
-  "miles": 151319,
-  "url": "https://cincyautomall.com/vdp/23901716/Used-2022-Chevrolet-TrailBlazer-AWD-4dr-LT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "1GNKRGKD2GJ121826": {
   "vin": "1GNKRGKD2GJ121826",
@@ -2987,18 +2951,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "2HGFE2F54SH539358": {
-  "vin": "2HGFE2F54SH539358",
-  "year": "2025",
-  "make": "Honda",
-  "model": "Civic Sedan Sport CVT",
-  "price": 22900,
-  "miles": 44466,
-  "url": "https://cincyautomall.com/vdp/24417717/Used-2025-Honda-Civic-Sedan-Sport-CVT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "2HGFC3A52JH754738": {
   "vin": "2HGFC3A52JH754738",
   "year": "2018",
@@ -3731,18 +3683,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "1C4BJWDG5FL635318": {
-  "vin": "1C4BJWDG5FL635318",
-  "year": "2015",
-  "make": "Jeep",
-  "model": "Wrangler Unlimited 4WD 4dr Sport",
-  "price": 12780,
-  "miles": 140960,
-  "url": "https://cincyautomall.com/vdp/20573597/Used-2015-Jeep-Wrangler-Unlimited-4WD-4dr-Sport-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "1C4BJWEG3HL666911": {
   "vin": "1C4BJWEG3HL666911",
   "year": "2017",
@@ -3814,18 +3754,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "KNDNB4H31R6322968": {
-  "vin": "KNDNB4H31R6322968",
-  "year": "2024",
-  "make": "Kia",
-  "model": "Carnival LX FWD w/Seat Pkg",
-  "price": 25900,
-  "miles": 37563,
-  "url": "https://cincyautomall.com/vdp/24332841/Used-2024-Kia-Carnival-LX-FWD-wSeat-Pkg-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "KNDC4DLC1P5137802": {
   "vin": "KNDC4DLC1P5137802",
@@ -4667,18 +4595,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "W1X8N23YXRN284349": {
-  "vin": "W1X8N23YXRN284349",
-  "year": "2024",
-  "make": "Mercedes-Benz",
-  "model": "Sprinter Cab Chassis 3500XD Standard Roof I4 Diesel HO 144\" RWD",
-  "price": 38900,
-  "miles": 73,
-  "url": "https://cincyautomall.com/vdp/24376111/Used-2024-MercedesBenz-Sprinter-Cab-Chassis-3500XD-Standard-Roof-I4-Diesel-HO-144-RWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "W1X8N36Y4RN289807": {
   "vin": "W1X8N36Y4RN289807",
   "year": "2024",
@@ -4725,7 +4641,7 @@
   "url": "https://cincyautomall.com/vdp/24248379/Used-2026-MercedesBenz-Sprinter-Passenger-Van-2500-High-Roof-I4-Diesel-170-RWD-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "WDZPE7DD9GP223371": {
   "vin": "WDZPE7DD9GP223371",
@@ -5038,18 +4954,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "JN8BT3CB7PW194486": {
-  "vin": "JN8BT3CB7PW194486",
-  "year": "2023",
-  "make": "Nissan",
-  "model": "Rogue AWD SL",
-  "price": 19900,
-  "miles": 60268,
-  "url": "https://cincyautomall.com/vdp/24444219/Used-2023-Nissan-Rogue-AWD-SL-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "5N1BT3AB1PC800571": {
   "vin": "5N1BT3AB1PC800571",
@@ -5744,8 +5648,8 @@
   "miles": 35801,
   "url": "https://cincyautomall.com/vdp/24444218/Used-2026-Toyota-Camry-LE-Natl-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
+  "last_seen": "2026-11-04",
+  "misses": 0
  },
  "7MUDAABG3PV046157": {
   "vin": "7MUDAABG3PV046157",
@@ -6419,18 +6323,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "1FTBW2CM1KKB28241": {
-  "vin": "1FTBW2CM1KKB28241",
-  "year": "2019",
-  "make": "Ford",
-  "model": "Transit Van T-350 148\" Med Rf 9500 GVWR Sliding RH Dr",
-  "price": 15900,
-  "miles": 165241,
-  "url": "https://cincyautomall.com/vdp/24448525/Used-2019-Ford-Transit-Van-T350-148-Med-Rf-9500-GVWR-Sliding-RH-Dr-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "1FTYE1ZM6KKA67371": {
   "vin": "1FTYE1ZM6KKA67371",
   "year": "2019",
@@ -6694,18 +6586,6 @@
   "first_seen": "2026-10-31",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "5YJ3E1EA6JF030855": {
-  "vin": "5YJ3E1EA6JF030855",
-  "year": "2018",
-  "make": "Tesla",
-  "model": "Model 3 Long Range Battery RWD",
-  "price": null,
-  "miles": 103204,
-  "url": "https://cincyautomall.com/vdp/24459556/Used-2018-Tesla-Model-3-Long-Range-Battery-RWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "KNAE25LA2J6013829": {
   "vin": "KNAE25LA2J6013829",

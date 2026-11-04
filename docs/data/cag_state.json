@@ -194,19 +194,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "3GNCA13B19S500677": {
-  "vin": "3GNCA13B19S500677",
-  "lid": "6c7aa7f1-6e06-4234-bb0c-a7e3efae2eff",
-  "year": "2009",
-  "make": "Chevrolet",
-  "model": "HHR LS",
-  "price": 2498,
-  "miles": 219868,
-  "url": "https://www.cag513.com/Inventory/Details/6c7aa7f1-6e06-4234-bb0c-a7e3efae2eff",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "2G1FG1EW4F9225375": {
   "vin": "2G1FG1EW4F9225375",
   "lid": "6c5b01c8-8917-413b-a813-eb63fb2b8bad",
@@ -440,19 +427,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "1FT8W3BT2DEA36694": {
-  "vin": "1FT8W3BT2DEA36694",
-  "lid": "c1b13856-4e00-4989-ba23-e51080ceed91",
-  "year": "2013",
-  "make": "Ford",
-  "model": "F-350 Super Duty Crew Cab",
-  "price": 24998,
-  "miles": 167283,
-  "url": "https://www.cag513.com/Inventory/Details/c1b13856-4e00-4989-ba23-e51080ceed91",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "1GCHTBEN5J1105056": {
   "vin": "1GCHTBEN5J1105056",
@@ -896,19 +870,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "5N1BA08C38N609565": {
-  "vin": "5N1BA08C38N609565",
-  "lid": "665aa577-ed8d-4f0f-8fd4-91e36deb0e7b",
-  "year": "2008",
-  "make": "Nissan",
-  "model": "Armada SE FFV",
-  "price": 2397,
-  "miles": 215318,
-  "url": "https://www.cag513.com/Inventory/Details/665aa577-ed8d-4f0f-8fd4-91e36deb0e7b",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "JTHBJ46GX92293083": {
   "vin": "JTHBJ46GX92293083",
   "lid": "b7969bb5-aac1-4654-82cd-3cf07b668351",
@@ -921,19 +882,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "2C4RC1BG7HR705152": {
-  "vin": "2C4RC1BG7HR705152",
-  "lid": "c27f61b9-55e2-4015-b99f-5581f3eae222",
-  "year": "2017",
-  "make": "Chrysler",
-  "model": "Pacifica Touring-L",
-  "price": 13498,
-  "miles": 77906,
-  "url": "https://www.cag513.com/Inventory/Details/c27f61b9-55e2-4015-b99f-5581f3eae222",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "3VW2K7AJXEM257784": {
   "vin": "3VW2K7AJXEM257784",

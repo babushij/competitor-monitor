@@ -181,19 +181,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "WAUF2AFC6HN118061": {
-  "vin": "WAUF2AFC6HN118061",
-  "lid": "132612149",
-  "year": "2017",
-  "make": "Audi",
-  "model": "A6 3.0T quattro Premium Plus",
-  "price": 14995,
-  "miles": 92472,
-  "url": "https://www.premier-autoinc.com/details/used-2017-audi-a6/132612149",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "WA1LMAFE4FD029913": {
   "vin": "WA1LMAFE4FD029913",
   "lid": "129538315",
@@ -1832,19 +1819,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "KMHC65LC2JU076520": {
-  "vin": "KMHC65LC2JU076520",
-  "lid": "130114612",
-  "year": "2018",
-  "make": "Hyundai",
-  "model": "Ioniq Hybrid Blue",
-  "price": 13495,
-  "miles": 63160,
-  "url": "https://www.premier-autoinc.com/details/used-2018-hyundai-ioniq-hybrid/130114612",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "KM8J2CA42JU655753": {
   "vin": "KM8J2CA42JU655753",
   "lid": "130020041",
@@ -1910,19 +1884,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "KM8J3CA21GU247796": {
-  "vin": "KM8J3CA21GU247796",
-  "lid": "117178607",
-  "year": "2016",
-  "make": "Hyundai",
-  "model": "Tucson Limited",
-  "price": 10495,
-  "miles": 106973,
-  "url": "https://www.premier-autoinc.com/details/used-2016-hyundai-tucson/117178607",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "5NPEJ4J22MH114097": {
   "vin": "5NPEJ4J22MH114097",
   "lid": "129042851",
@@ -1961,19 +1922,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "KM8K3CAB4NU903670": {
-  "vin": "KM8K3CAB4NU903670",
-  "lid": "123569589",
-  "year": "2022",
-  "make": "Hyundai",
-  "model": "Kona SEL",
-  "price": 12495,
-  "miles": 122756,
-  "url": "https://www.premier-autoinc.com/details/used-2022-hyundai-kona/123569589",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "5NPD74LF0KH479207": {
   "vin": "5NPD74LF0KH479207",
@@ -2675,7 +2623,7 @@
   "url": "https://www.premier-autoinc.com/details/used-2019-mercedes-benz-metris/129090374",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "W1N4M4HB1MW102681": {
   "vin": "W1N4M4HB1MW102681",
@@ -2774,7 +2722,7 @@
   "year": "1985",
   "make": "Mercedes-Benz",
   "model": "500-Class",
-  "price": 8995,
+  "price": 7995,
   "miles": 129465,
   "url": "https://www.premier-autoinc.com/details/used-1985-mercedes-benz-500-class/128486058",
   "first_seen": "2026-10-29",
@@ -3548,19 +3496,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "4T3L6RFV7MU014921": {
-  "vin": "4T3L6RFV7MU014921",
-  "lid": "131331217",
-  "year": "2021",
-  "make": "Toyota",
-  "model": "RAV4 Hybrid LE",
-  "price": 23995,
-  "miles": 53327,
-  "url": "https://www.premier-autoinc.com/details/used-2021-toyota-rav4-hybrid/131331217",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "JTDKN3DU7F1996411": {
   "vin": "JTDKN3DU7F1996411",
   "lid": "131691294",
@@ -3717,19 +3652,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "5TDDK3EHXCS168855": {
-  "vin": "5TDDK3EHXCS168855",
-  "lid": "130684325",
-  "year": "2012",
-  "make": "Toyota",
-  "model": "Highlander Limited",
-  "price": 13995,
-  "miles": 127081,
-  "url": "https://www.premier-autoinc.com/details/used-2012-toyota-highlander/130684325",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "2T1BURHE9HC925976": {
   "vin": "2T1BURHE9HC925976",
   "lid": "132383840",
@@ -3768,19 +3690,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "2T3C1RFV9PW244530": {
-  "vin": "2T3C1RFV9PW244530",
-  "lid": "130252162",
-  "year": "2023",
-  "make": "Toyota",
-  "model": "RAV4 XLE Premium",
-  "price": 23995,
-  "miles": 24890,
-  "url": "https://www.premier-autoinc.com/details/used-2023-toyota-rav4/130252162",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "4T1BK1FK5DU535689": {
   "vin": "4T1BK1FK5DU535689",
@@ -4532,6 +4441,19 @@
   "price": 17995,
   "miles": 80272,
   "url": "https://www.premier-autoinc.com/details/used-2024-hyundai-elantra-hybrid/133185095",
+  "first_seen": "2026-11-04",
+  "last_seen": "2026-11-04",
+  "misses": 0
+ },
+ "1HGCT1A78HA008599": {
+  "vin": "1HGCT1A78HA008599",
+  "lid": "133300749",
+  "year": "2017",
+  "make": "Honda",
+  "model": "Accord EX",
+  "price": 14995,
+  "miles": 109276,
+  "url": "https://www.premier-autoinc.com/details/used-2017-honda-accord/133300749",
   "first_seen": "2026-11-04",
   "last_seen": "2026-11-04",
   "misses": 0

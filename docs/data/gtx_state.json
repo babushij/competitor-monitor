@@ -791,18 +791,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "2C3CDZBT7JH232559": {
-  "vin": "2C3CDZBT7JH232559",
-  "year": "2018",
-  "make": "DODGE",
-  "model": "CHALLENGER - R/T",
-  "price": 16897,
-  "miles": 120333,
-  "url": "/Inventory/Details?stock=GTX232559",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "2C3CDXBG2NH239206": {
   "vin": "2C3CDXBG2NH239206",
   "year": "2022",
@@ -1450,18 +1438,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "5FNYF6H52HB010949": {
-  "vin": "5FNYF6H52HB010949",
-  "year": "2017",
-  "make": "HONDA",
-  "model": "PILOT - EXL",
-  "price": 13499,
-  "miles": 140394,
-  "url": "/Inventory/Details?stock=GTX010949",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "5FNYF6H98HB075467": {
   "vin": "5FNYF6H98HB075467",
@@ -2411,18 +2387,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "ML32A3HJ3LH000264": {
-  "vin": "ML32A3HJ3LH000264",
-  "year": "2020",
-  "make": "MITSUBISHI",
-  "model": "MIRAGE - ES",
-  "price": 7999,
-  "miles": 48324,
-  "url": "/Inventory/Details?stock=GTX000264",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "JA4ARUAU7MU023352": {
   "vin": "JA4ARUAU7MU023352",
   "year": "2021",
@@ -2506,18 +2470,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "1N6AF0LX4EN104378": {
-  "vin": "1N6AF0LX4EN104378",
-  "year": "2014",
-  "make": "NISSAN",
-  "model": "NV - 2500",
-  "price": 15999,
-  "miles": 109091,
-  "url": "/Inventory/Details?stock=GTX104378",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "3N6CM0KN5LK693152": {
   "vin": "3N6CM0KN5LK693152",
@@ -2807,18 +2759,6 @@
   "last_seen": "2026-11-04",
   "misses": 0
  },
- "4S4BRDLC3B2382989": {
-  "vin": "4S4BRDLC3B2382989",
-  "year": "2011",
-  "make": "SUBARU",
-  "model": "OUTBACK - 3.6R LIMITED",
-  "price": 9997,
-  "miles": 74546,
-  "url": "/Inventory/Details?stock=GTX382989",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
  "4S4BSANC2H3340753": {
   "vin": "4S4BSANC2H3340753",
   "year": "2017",
@@ -3022,18 +2962,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "5TDYZ3DC4HS895211": {
-  "vin": "5TDYZ3DC4HS895211",
-  "year": "2017",
-  "make": "TOYOTA",
-  "model": "SIENNA - XLE",
-  "price": 21997,
-  "miles": 95051,
-  "url": "/Inventory/Details?stock=GTX895211",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "3TMDZ5BN8HM033351": {
   "vin": "3TMDZ5BN8HM033351",
@@ -3478,30 +3406,6 @@
   "first_seen": "2026-10-31",
   "last_seen": "2026-11-04",
   "misses": 0
- },
- "JF2SJAEC3EH458463": {
-  "vin": "JF2SJAEC3EH458463",
-  "year": "2014",
-  "make": "SUBARU",
-  "model": "FORESTER - 2.5I PREMIUM",
-  "price": 12799,
-  "miles": 67806,
-  "url": "/Inventory/Details?stock=GTX458463",
-  "first_seen": "2026-10-31",
-  "last_seen": "2026-11-02",
-  "misses": 1
- },
- "JF1GH6D66BH810008": {
-  "vin": "JF1GH6D66BH810008",
-  "year": "2011",
-  "make": "SUBARU",
-  "model": "IMPREZA - OUTBACK SPORT",
-  "price": 9997,
-  "miles": 59290,
-  "url": "/Inventory/Details?stock=GTX810008",
-  "first_seen": "2026-10-31",
-  "last_seen": "2026-11-02",
-  "misses": 1
  },
  "JTEBU5JR1K5695856": {
   "vin": "JTEBU5JR1K5695856",
