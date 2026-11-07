@@ -145,7 +145,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-10-31",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "WAUB4CF51JA064848",
@@ -159,7 +160,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-10-31",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "19XFC1F32ME010499",
@@ -173,7 +175,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-10-31",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "1C6RR7WMXES269514",
@@ -187,7 +190,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-10-31",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "WAUTNAF59KA030888",
@@ -383,7 +387,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "5UX33EX08R9U41390",
@@ -397,21 +402,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
- },
- {
-  "vin": "1GCGSBECXR1195278",
-  "year": "2024",
-  "make": "Chevrolet",
-  "model": "Colorado 2WD Crew Cab WT",
-  "price": null,
-  "miles": 19292,
-  "url": "https://cincyautomall.com/vdp/24444213/Used-2024-Chevrolet-Colorado-2WD-Crew-Cab-WT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-29",
-  "dealer": "Cincy AutoMall",
-  "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "1FT8W3DT4SED65276",
@@ -425,7 +417,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "1FTBW2CM5JKB35773",
@@ -439,7 +432,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "1C4SJVBT7NS160432",
@@ -453,7 +447,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "1C4JJXN64PW591819",
@@ -467,7 +462,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "5XXGT4L37HG157117",
@@ -481,7 +477,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "3C6LRVVG9SE514811",
@@ -495,7 +492,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "3TMAZ5CN7PM212867",
@@ -509,7 +507,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 1
+  "days_listed": 1,
+  "verified": true
  },
  {
   "vin": "JTEAAAAH7PJ135889",
@@ -523,7 +522,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "1N4AA6AP1GC446897",
@@ -537,7 +537,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "4T1BD1EB5FU047745",
@@ -552,7 +553,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "3FA6P0UU5JR273719",
@@ -567,7 +569,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "5NPE34AF2JH633563",
@@ -582,7 +585,8 @@
   "last_seen": "2026-10-29",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "5FNRL6H78KB108731",
@@ -596,7 +600,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "3GCPYJEK9NG216732",
@@ -610,7 +615,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "ZASPAKBN8K7C71485",
@@ -624,7 +630,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "2C3CK6CT5BH573799",
@@ -638,7 +645,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "WAUENAF46KA062925",
@@ -652,7 +660,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "3VW217AU3GM058978",
@@ -666,67 +675,8 @@
   "last_seen": "2026-10-29",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-02",
-  "days_listed": 0
- },
- {
-  "vin": "WDDGF81XX8F086827",
-  "lid": "9a91f613-6a27-46c6-9167-0245e095acbc",
-  "year": "2008",
-  "make": "Mercedes-Benz",
-  "model": "C-Class Sedan",
-  "price": 10998,
-  "miles": 44309,
-  "url": "https://www.cag513.com/Inventory/Details/9a91f613-6a27-46c6-9167-0245e095acbc",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-02",
-  "days_listed": 0
- },
- {
-  "vin": "3FA6P0VP6HR240912",
-  "lid": "9948e544-10fa-4d52-99ec-16d1d31526da",
-  "year": "2017",
-  "make": "Ford",
-  "model": "Fusion V6 Sport",
-  "price": 12998,
-  "miles": 98801,
-  "url": "https://www.cag513.com/Inventory/Details/9948e544-10fa-4d52-99ec-16d1d31526da",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-02",
-  "days_listed": 0
- },
- {
-  "vin": "1C4HJXDN4JW248216",
-  "lid": "c5b06b8b-88cf-4f9a-9a59-9dbf5930349e",
-  "year": "2018",
-  "make": "Jeep",
-  "model": "Wrangler Unlimited Sport",
-  "price": 15198,
-  "miles": 108771,
-  "url": "https://www.cag513.com/Inventory/Details/c5b06b8b-88cf-4f9a-9a59-9dbf5930349e",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-02",
-  "days_listed": 0
- },
- {
-  "vin": "1C4HJXFN3LW133073",
-  "lid": "8157a893-6817-4858-aee9-444b8b4aad5a",
-  "year": "2020",
-  "make": "Jeep",
-  "model": "Wrangler Unlimited Rubicon",
-  "price": 16397,
-  "miles": 157164,
-  "url": "https://www.cag513.com/Inventory/Details/8157a893-6817-4858-aee9-444b8b4aad5a",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-02",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "1GNSKBKC3GR465651",
@@ -810,7 +760,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "1GTP9EEL4KZ155542",
@@ -824,7 +775,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "2HGFC3A59JH755627",
@@ -838,7 +790,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "WMWSX3C55DT466750",
@@ -852,7 +805,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "3N1CP5BV9PL487925",
@@ -866,7 +820,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "1C6RRFFG3MN572832",
@@ -880,7 +835,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "YV4612RK5G2854145",
@@ -894,7 +850,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 3
+  "days_listed": 3,
+  "verified": true
  },
  {
   "vin": "WBAJE7C58KWW18184",
@@ -909,7 +866,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "5UXFE83518L162262",
@@ -924,7 +882,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "1FTEW1EP8MKD25683",
@@ -939,7 +898,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "000000000FLA83428",
@@ -954,7 +914,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JTJHY7AX1A4036853",
@@ -969,7 +930,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JM3TCBDY0J0201079",
@@ -984,7 +946,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JF1ZCAC18D1601333",
@@ -999,7 +962,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JTEBU5JR8K5704245",
@@ -1014,7 +978,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "2T3DK4DV9BW039399",
@@ -1029,7 +994,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "1GNWGEFG2H1302488",
@@ -1044,7 +1010,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "2C4RDGBGXJR338690",
@@ -1059,7 +1026,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "1FMCU9DZ2LUC57068",
@@ -1074,7 +1042,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "1HGCR2E50FA205728",
@@ -1089,7 +1058,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "1HGCT1B76GA011157",
@@ -1104,7 +1074,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "KMHC65LC2JU099697",
@@ -1119,7 +1090,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "KMHC65LC6KU106684",
@@ -1134,7 +1106,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JN1CV6AR8DM763013",
@@ -1149,7 +1122,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "5N1AL1GS3SC339454",
@@ -1164,7 +1138,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JF1ZNAA11D1722380",
@@ -1179,7 +1154,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "5YFS4MCE8PP147016",
@@ -1194,7 +1170,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "2T1BU4EEXDC993592",
@@ -1209,7 +1186,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "WVWN87CD8NW161707",
@@ -1224,7 +1202,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "WVWAR7AN4ME004333",
@@ -1239,7 +1218,8 @@
   "last_seen": "2026-10-31",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "WBA4W3C59JAC97712",
@@ -1253,7 +1233,8 @@
   "last_seen": "2026-10-31",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "2C3CDZAGXGH315870",
@@ -1267,7 +1248,8 @@
   "last_seen": "2026-10-31",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "JF1VA1A61F9837426",
@@ -1281,82 +1263,8 @@
   "last_seen": "2026-10-31",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
- },
- {
-  "vin": "1G1YY25U975104883",
-  "lid": "838de283-e526-46c1-815e-4803c69b4625",
-  "year": "2007",
-  "make": "Chevrolet",
-  "model": "Corvette Base",
-  "price": 16598,
-  "miles": 163804,
-  "url": "https://www.cag513.com/Inventory/Details/838de283-e526-46c1-815e-4803c69b4625",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 2
- },
- {
-  "vin": "1GKDM19W81B519908",
-  "lid": "e893aa1f-c32d-49d6-83ce-b321d391d6bb",
-  "year": "2001",
-  "make": "GMC",
-  "model": "Safari Extended Length Passenger",
-  "price": 12998,
-  "miles": 29829,
-  "url": "https://www.cag513.com/Inventory/Details/e893aa1f-c32d-49d6-83ce-b321d391d6bb",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 2
- },
- {
-  "vin": "2HGFA16818H303632",
-  "lid": "9b97367b-89fb-4438-8d0c-67508131221a",
-  "year": "2008",
-  "make": "Honda",
-  "model": "Civic EX",
-  "price": 8498,
-  "miles": 101591,
-  "url": "https://www.cag513.com/Inventory/Details/9b97367b-89fb-4438-8d0c-67508131221a",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 2
- },
- {
-  "vin": "YV4902BZ0E1179881",
-  "lid": "3098a8d7-da9f-4731-aeac-a9e38377b7c7",
-  "year": "2014",
-  "make": "Volvo",
-  "model": "XC70 T6",
-  "price": 11898,
-  "miles": 112766,
-  "url": "https://www.cag513.com/Inventory/Details/3098a8d7-da9f-4731-aeac-a9e38377b7c7",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 2
- },
- {
-  "vin": "1G1YY25U665123809",
-  "lid": "cb5073ef-4a47-489d-97a8-f79ad7060f95",
-  "year": "2006",
-  "make": "Chevrolet",
-  "model": "Corvette Base",
-  "price": 34998,
-  "miles": 74299,
-  "url": "https://www.cag513.com/Inventory/Details/cb5073ef-4a47-489d-97a8-f79ad7060f95",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "2C3CDZBT7JH232559",
@@ -1471,20 +1379,6 @@
   "days_listed": 2
  },
  {
-  "vin": "2GNFLEEK3G6277887",
-  "year": "2016",
-  "make": "Chevrolet",
-  "model": "Equinox AWD 4dr LS",
-  "price": 8900,
-  "miles": 110288,
-  "url": "https://cincyautomall.com/vdp/23946376/Used-2016-Chevrolet-Equinox-AWD-4dr-LS-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-02",
-  "dealer": "Cincy AutoMall",
-  "sold_detected": "2026-11-04",
-  "days_listed": 5
- },
- {
   "vin": "3GNAXKEV4NL179662",
   "year": "2022",
   "make": "Chevrolet",
@@ -1496,7 +1390,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "KL79MRSL2NB092101",
@@ -1510,7 +1405,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "2HGFE2F54SH539358",
@@ -1524,7 +1420,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "1C4BJWDG5FL635318",
@@ -1538,7 +1435,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "KNDNB4H31R6322968",
@@ -1552,7 +1450,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "W1X8N23YXRN284349",
@@ -1566,7 +1465,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "JN8BT3CB7PW194486",
@@ -1580,7 +1480,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 5
+  "days_listed": 5,
+  "verified": true
  },
  {
   "vin": "1FTBW2CM1KKB28241",
@@ -1594,7 +1495,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "5YJ3E1EA6JF030855",
@@ -1608,7 +1510,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Cincy AutoMall",
   "sold_detected": "2026-11-04",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
   "vin": "JTDBR32EX42024180",
@@ -1623,7 +1526,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "2T3DF4DV6BW120476",
@@ -1638,7 +1542,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Beck's Auto Group",
   "sold_detected": "2026-11-04",
-  "days_listed": 2
+  "days_listed": 2,
+  "verified": true
  },
  {
   "vin": "WAUF2AFC6HN118061",
@@ -1653,7 +1558,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "KMHC65LC2JU076520",
@@ -1668,7 +1574,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "KM8J3CA21GU247796",
@@ -1683,7 +1590,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "KM8K3CAB4NU903670",
@@ -1698,7 +1606,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "4T3L6RFV7MU014921",
@@ -1713,7 +1622,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "5TDDK3EHXCS168855",
@@ -1728,7 +1638,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "2T3C1RFV9PW244530",
@@ -1743,7 +1654,8 @@
   "last_seen": "2026-11-02",
   "dealer": "Premier Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "SALGS2RU3LA405657",
@@ -1757,7 +1669,8 @@
   "last_seen": "2026-11-02",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "WMWLU5C55H2C46287",
@@ -1771,7 +1684,8 @@
   "last_seen": "2026-11-02",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "5TDBK3EH8CS153679",
@@ -1785,7 +1699,8 @@
   "last_seen": "2026-11-02",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "days_listed": 4,
+  "verified": true
  },
  {
   "vin": "2HGFC2F79JH559434",
@@ -1799,66 +1714,23 @@
   "last_seen": "2026-11-02",
   "dealer": "NW Automotive",
   "sold_detected": "2026-11-04",
-  "days_listed": 0
+  "days_listed": 0,
+  "verified": true
  },
  {
-  "vin": "3GNCA13B19S500677",
-  "lid": "6c7aa7f1-6e06-4234-bb0c-a7e3efae2eff",
-  "year": "2009",
-  "make": "Chevrolet",
-  "model": "HHR LS",
-  "price": 2498,
-  "miles": 219868,
-  "url": "https://www.cag513.com/Inventory/Details/6c7aa7f1-6e06-4234-bb0c-a7e3efae2eff",
+  "vin": "WD3PG2EA5K3509911",
+  "lid": "129090374",
+  "year": "2019",
+  "make": "Mercedes-Benz",
+  "model": "Metris Cargo",
+  "price": null,
+  "miles": 47750,
+  "url": "https://www.premier-autoinc.com/details/used-2019-mercedes-benz-metris/129090374",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 4
- },
- {
-  "vin": "1FT8W3BT2DEA36694",
-  "lid": "c1b13856-4e00-4989-ba23-e51080ceed91",
-  "year": "2013",
-  "make": "Ford",
-  "model": "F-350 Super Duty Crew Cab",
-  "price": 24998,
-  "miles": 167283,
-  "url": "https://www.cag513.com/Inventory/Details/c1b13856-4e00-4989-ba23-e51080ceed91",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 4
- },
- {
-  "vin": "5N1BA08C38N609565",
-  "lid": "665aa577-ed8d-4f0f-8fd4-91e36deb0e7b",
-  "year": "2008",
-  "make": "Nissan",
-  "model": "Armada SE FFV",
-  "price": 2397,
-  "miles": 215318,
-  "url": "https://www.cag513.com/Inventory/Details/665aa577-ed8d-4f0f-8fd4-91e36deb0e7b",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 4
- },
- {
-  "vin": "2C4RC1BG7HR705152",
-  "lid": "c27f61b9-55e2-4015-b99f-5581f3eae222",
-  "year": "2017",
-  "make": "Chrysler",
-  "model": "Pacifica Touring-L",
-  "price": 13498,
-  "miles": 77906,
-  "url": "https://www.cag513.com/Inventory/Details/c27f61b9-55e2-4015-b99f-5581f3eae222",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-02",
-  "dealer": "Cincinnati Auto Group",
-  "sold_detected": "2026-11-04",
-  "days_listed": 4
+  "last_seen": "2026-11-04",
+  "dealer": "Premier Automotive",
+  "sold_detected": "2026-11-07",
+  "days_listed": 6,
+  "verified": true
  }
 ]

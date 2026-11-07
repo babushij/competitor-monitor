@@ -8,7 +8,7 @@
   "miles": 1,
   "url": "https://www.nag-cars.com/vdp/18174859/Used-2018-Forest-River-Hemisphere-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1F66F5DN7L0A00130": {
@@ -20,7 +20,7 @@
   "miles": 7722,
   "url": "https://www.nag-cars.com/vdp/19035165/Used-2020-Ford-F53-Motorhome-Stripped-Chassis-158-WB-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WDDUG8GB7JA418415": {
@@ -32,7 +32,7 @@
   "miles": 62368,
   "url": "https://www.nag-cars.com/vdp/22948048/BuyHerePayHere-2018-MercedesBenz-SClass-S-560-4MATIC-Sedan-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUM2AFR2GA019397": {
@@ -45,18 +45,18 @@
   "url": "https://www.nag-cars.com/vdp/23715072/BuyHerePayHere-2016-Audi-A5-2dr-Cpe-Auto-Premium-Plus-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "JTHSM5BC8H5003758": {
   "vin": "JTHSM5BC8H5003758",
   "year": "2017",
   "make": "Lexus",
   "model": "RC RC 300 AWD",
-  "price": 21493,
+  "price": 20993,
   "miles": 99123,
   "url": "https://www.nag-cars.com/vdp/23718565/BuyHerePayHere-2017-Lexus-RC-RC-300-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBA1F7C51FV367307": {
@@ -69,7 +69,7 @@
   "url": "https://www.nag-cars.com/vdp/23752476/BuyHerePayHere-2015-BMW-2-Series-2dr-Cpe-228i-xDrive-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "5XXGR4A63EG264429": {
   "vin": "5XXGR4A63EG264429",
@@ -80,7 +80,7 @@
   "miles": 54615,
   "url": "https://www.nag-cars.com/vdp/23843914/BuyHerePayHere-2014-Kia-Optima-4dr-Sdn-SX-Turbo-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1GKKNULS6HZ222827": {
@@ -92,7 +92,7 @@
   "miles": 121462,
   "url": "https://www.nag-cars.com/vdp/23914644/BuyHerePayHere-2017-GMC-Acadia-AWD-4dr-SLT-wSLT1-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KNDNB4H32R6304916": {
@@ -104,7 +104,7 @@
   "miles": 75193,
   "url": "https://www.nag-cars.com/vdp/23926629/BuyHerePayHere-2024-Kia-Carnival-LX-FWD-wSeat-Pkg-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WDDUG8FB2FA194902": {
@@ -112,11 +112,11 @@
   "year": "2015",
   "make": "Mercedes-Benz",
   "model": "S-Class 4dr Sdn S 550 4MATIC",
-  "price": 18993,
+  "price": 18593,
   "miles": 92038,
   "url": "https://www.nag-cars.com/vdp/24057078/BuyHerePayHere-2015-MercedesBenz-SClass-4dr-Sdn-S-550-4MATIC-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2C4RC1BG5NR117312": {
@@ -124,11 +124,11 @@
   "year": "2022",
   "make": "Chrysler",
   "model": "Pacifica Touring L FWD",
-  "price": 12993,
+  "price": 12593,
   "miles": 121599,
   "url": "https://www.nag-cars.com/vdp/24060061/BuyHerePayHere-2022-Chrysler-Pacifica-Touring-L-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KMHEC4A48FA122707": {
@@ -136,11 +136,11 @@
   "year": "2015",
   "make": "Hyundai",
   "model": "Sonata Hybrid 4dr Sdn",
-  "price": 9993,
+  "price": 9593,
   "miles": 52829,
   "url": "https://www.nag-cars.com/vdp/24068889/BuyHerePayHere-2015-Hyundai-Sonata-Hybrid-4dr-Sdn-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1C6JJTEG0PL515072": {
@@ -148,11 +148,11 @@
   "year": "2023",
   "make": "Jeep",
   "model": "Gladiator Mojave 4x4",
-  "price": 23993,
+  "price": 23593,
   "miles": 121852,
   "url": "https://www.nag-cars.com/vdp/24080529/BuyHerePayHere-2023-Jeep-Gladiator-Mojave-4x4-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "W1K3G4FB6LW045301": {
@@ -164,7 +164,7 @@
   "miles": 49083,
   "url": "https://www.nag-cars.com/vdp/24081111/BuyHerePayHere-2020-MercedesBenz-AClass-A-220-4MATIC-Sedan-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WDDHF8JB2FB092683": {
@@ -172,11 +172,11 @@
   "year": "2015",
   "make": "Mercedes-Benz",
   "model": "E-Class 4dr Sdn E 350 Luxury 4MATIC",
-  "price": 10993,
+  "price": 10093,
   "miles": 109545,
   "url": "https://www.nag-cars.com/vdp/24081112/BuyHerePayHere-2015-MercedesBenz-EClass-4dr-Sdn-E-350-Luxury-4MATIC-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "19UDE2F7XGA007479": {
@@ -184,11 +184,11 @@
   "year": "2016",
   "make": "Acura",
   "model": "ILX 4dr Sdn w/Premium Pkg",
-  "price": 11493,
+  "price": 11093,
   "miles": 112655,
   "url": "https://www.nag-cars.com/vdp/24088479/BuyHerePayHere-2016-Acura-ILX-4dr-Sdn-wPremium-Pkg-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KM8J3CAL5KU848176": {
@@ -200,7 +200,7 @@
   "miles": 91525,
   "url": "https://www.nag-cars.com/vdp/24117236/BuyHerePayHere-2019-Hyundai-Tucson-SEL-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBXHT3C33J5F92179": {
@@ -212,7 +212,7 @@
   "miles": 80892,
   "url": "https://www.nag-cars.com/vdp/24136897/BuyHerePayHere-2018-BMW-X1-xDrive28i-Sports-Activity-Vehicle-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3LN6L2J93ER829433": {
@@ -224,7 +224,7 @@
   "miles": 83219,
   "url": "https://www.nag-cars.com/vdp/24141368/BuyHerePayHere-2014-Lincoln-MKZ-4dr-Sdn-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1G1ZB5ST3KF130370": {
@@ -236,7 +236,7 @@
   "miles": 75188,
   "url": "https://www.nag-cars.com/vdp/24166229/BuyHerePayHere-2019-Chevrolet-Malibu-4dr-Sdn-LS-w1LS-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAU8DAF88MN021226": {
@@ -248,7 +248,7 @@
   "miles": 26821,
   "url": "https://www.nag-cars.com/vdp/24166237/BuyHerePayHere-2021-Audi-A8-L-55-TFSI-quattro-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2HGFB2F54CH559118": {
@@ -260,7 +260,7 @@
   "miles": 69474,
   "url": "https://www.nag-cars.com/vdp/24170810/BuyHerePayHere-2012-Honda-Civic-4dr-Auto-LX-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2C4RC1L72JR248285": {
@@ -268,11 +268,11 @@
   "year": "2018",
   "make": "Chrysler",
   "model": "Pacifica Hybrid Touring L FWD",
-  "price": 10993,
+  "price": 10593,
   "miles": 136852,
   "url": "https://www.nag-cars.com/vdp/24177922/BuyHerePayHere-2018-Chrysler-Pacifica-Hybrid-Touring-L-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBA8A9C57JK622724": {
@@ -284,7 +284,7 @@
   "miles": 96046,
   "url": "https://www.nag-cars.com/vdp/24190472/BuyHerePayHere-2018-BMW-3-Series-320i-Sedan-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "58ABK1GG8HU060757": {
@@ -296,7 +296,7 @@
   "miles": 107189,
   "url": "https://www.nag-cars.com/vdp/24195068/BuyHerePayHere-2017-Lexus-ES-350-ES-350-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5UXTR9C53JLC82487": {
@@ -308,7 +308,7 @@
   "miles": 76908,
   "url": "https://www.nag-cars.com/vdp/24205883/BuyHerePayHere-2018-BMW-X3-xDrive30i-Sports-Activity-Vehicle-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5UXFG2C59DL787686": {
@@ -320,7 +320,7 @@
   "miles": 101260,
   "url": "https://www.nag-cars.com/vdp/24210285/BuyHerePayHere-2013-BMW-X6-AWD-4dr-xDrive35i-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WDC0G4KB1KV121489": {
@@ -332,7 +332,7 @@
   "miles": 96495,
   "url": "https://www.nag-cars.com/vdp/24219236/BuyHerePayHere-2019-MercedesBenz-GLC-GLC-300-4MATIC-SUV-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2HGFC2F51JH603814": {
@@ -344,7 +344,7 @@
   "miles": 113916,
   "url": "https://www.nag-cars.com/vdp/24226292/BuyHerePayHere-2018-Honda-Civic-LX-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUGMAF41KA030945": {
@@ -356,7 +356,7 @@
   "miles": 92026,
   "url": "https://www.nag-cars.com/vdp/24234479/BuyHerePayHere-2019-Audi-A4-Premium-40-TFSI-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KMHRB8A32MU089296": {
@@ -368,7 +368,7 @@
   "miles": 94345,
   "url": "https://www.nag-cars.com/vdp/24250854/BuyHerePayHere-2021-Hyundai-Venue-SE-IVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1J4PP2GK0BW556235": {
@@ -380,7 +380,7 @@
   "miles": 192967,
   "url": "https://www.nag-cars.com/vdp/24268051/BuyHerePayHere-2011-Jeep-Liberty-RWD-4dr-Sport-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1J4BA3H12AL187059": {
@@ -392,7 +392,7 @@
   "miles": 145903,
   "url": "https://www.nag-cars.com/vdp/24284115/BuyHerePayHere-2010-Jeep-Wrangler-Unlimited-4WD-4dr-Sport-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FA6P8TH3F5428913": {
@@ -404,7 +404,7 @@
   "miles": 67643,
   "url": "https://www.nag-cars.com/vdp/24293838/BuyHerePayHere-2015-Ford-Mustang-2dr-Fastback-EcoBoost-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1G4PR5SK2H4111570": {
@@ -416,7 +416,7 @@
   "miles": 82791,
   "url": "https://www.nag-cars.com/vdp/24293839/BuyHerePayHere-2017-Buick-Verano-4dr-Sdn-Sport-Touring-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1G1ZD5ST1JF268868": {
@@ -428,7 +428,7 @@
   "miles": 61590,
   "url": "https://www.nag-cars.com/vdp/24300011/BuyHerePayHere-2018-Chevrolet-Malibu-4dr-Sdn-LT-w1LT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KNAE25LAXK6064383": {
@@ -440,7 +440,7 @@
   "miles": 92321,
   "url": "https://www.nag-cars.com/vdp/24304233/BuyHerePayHere-2019-Kia-Stinger-Premium-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FMJK1K57BEF12885": {
@@ -452,7 +452,7 @@
   "miles": 160971,
   "url": "https://www.nag-cars.com/vdp/24313543/BuyHerePayHere-2011-Ford-Expedition-EL-2WD-4dr-Limited-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1GCHTBENXL1195274": {
@@ -464,7 +464,7 @@
   "miles": 71489,
   "url": "https://www.nag-cars.com/vdp/24313544/BuyHerePayHere-2020-Chevrolet-Colorado-4WD-Ext-Cab-128-Work-Truck-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "W1N0G8EB1MV318179": {
@@ -476,7 +476,7 @@
   "miles": 101733,
   "url": "https://www.nag-cars.com/vdp/24313551/BuyHerePayHere-2021-MercedesBenz-GLC-GLC-300-4MATIC-SUV-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3KPF24AD5LE202650": {
@@ -488,7 +488,7 @@
   "miles": 86891,
   "url": "https://www.nag-cars.com/vdp/24320647/BuyHerePayHere-2020-Kia-Forte-LXS-IVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JM3TCADY0M0513417": {
@@ -500,7 +500,7 @@
   "miles": 51240,
   "url": "https://www.nag-cars.com/vdp/24320653/BuyHerePayHere-2021-Mazda-9-Grand-Touring-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBA7F0C58JGM23693": {
@@ -512,7 +512,7 @@
   "miles": 95003,
   "url": "https://www.nag-cars.com/vdp/24320655/BuyHerePayHere-2018-BMW-7-Series-750i-Sedan-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FTEW1E55JKE72456": {
@@ -524,7 +524,7 @@
   "miles": 133230,
   "url": "https://www.nag-cars.com/vdp/24328298/BuyHerePayHere-2018-Ford-150-XL-4WD-SuperCrew-55-Box-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBXJG7C05L5P31425": {
@@ -536,7 +536,7 @@
   "miles": 53799,
   "url": "https://www.nag-cars.com/vdp/24328299/BuyHerePayHere-2020-BMW-X1-sDrive28i-Sports-Activity-Vehicle-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAU78LFFXG1088741": {
@@ -548,7 +548,7 @@
   "miles": 83829,
   "url": "https://www.nag-cars.com/vdp/24332819/BuyHerePayHere-2016-Audi-A3-2dr-Cabriolet-quattro-20T-Premium-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1C4HJXDN1MW606022": {
@@ -556,11 +556,11 @@
   "year": "2021",
   "make": "Jeep",
   "model": "Wrangler Unlimited Sport 4x4",
-  "price": 25993,
+  "price": 24993,
   "miles": 22409,
   "url": "https://www.nag-cars.com/vdp/24361493/BuyHerePayHere-2021-Jeep-Wrangler-Unlimited-Sport-4x4-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUAUGFF1K1022015": {
@@ -572,7 +572,7 @@
   "miles": 81278,
   "url": "https://www.nag-cars.com/vdp/24361497/BuyHerePayHere-2019-Audi-A3-Sedan-Premium-40-TFSI-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUDNAF44JA039282": {
@@ -584,7 +584,7 @@
   "miles": 69431,
   "url": "https://www.nag-cars.com/vdp/24361498/BuyHerePayHere-2018-Audi-A4-20-TFSI-Premium-S-Tronic-quattro-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KM8J33A40LU272443": {
@@ -596,7 +596,7 @@
   "miles": 75183,
   "url": "https://www.nag-cars.com/vdp/24361499/BuyHerePayHere-2020-Hyundai-Tucson-Value-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JN1BJ0RR8GM271126": {
@@ -608,7 +608,7 @@
   "miles": 72106,
   "url": "https://www.nag-cars.com/vdp/24361500/BuyHerePayHere-2016-Infiniti-QX50-AWD-4dr-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5N1AZ2MS7KN112345": {
@@ -620,7 +620,7 @@
   "miles": 95661,
   "url": "https://www.nag-cars.com/vdp/24361501/BuyHerePayHere-2019-Nissan-Murano-AWD-Platinum-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WA1UFAFL8GA001631": {
@@ -632,7 +632,7 @@
   "miles": 123529,
   "url": "https://www.nag-cars.com/vdp/24365936/BuyHerePayHere-2016-Audi-allroad-4dr-Wgn-Premium-Plus-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2FMHK6C8XJBA10774": {
@@ -644,7 +644,7 @@
   "miles": 69733,
   "url": "https://www.nag-cars.com/vdp/24376087/BuyHerePayHere-2018-Ford-Flex-SEL-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBA3R1C58FF774550": {
@@ -656,7 +656,7 @@
   "miles": 97872,
   "url": "https://www.nag-cars.com/vdp/24376090/BuyHerePayHere-2015-BMW-4-Series-2dr-Cpe-435i-RWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FT8W3DT7PEE09830": {
@@ -668,7 +668,7 @@
   "miles": 107184,
   "url": "https://www.nag-cars.com/vdp/24380655/BuyHerePayHere-2023-Ford-Super-Duty-F350-DRW-XL-4WD-Crew-Cab-8-Box-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3GYFNBE38ES660100": {
@@ -680,7 +680,7 @@
   "miles": 94081,
   "url": "https://www.nag-cars.com/vdp/24380656/BuyHerePayHere-2014-Cadillac-SRX-FWD-4dr-Luxury-Collection-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5N1DL0MM8LC503649": {
@@ -692,7 +692,7 @@
   "miles": 93165,
   "url": "https://www.nag-cars.com/vdp/24380657/BuyHerePayHere-2020-Infiniti-QX60-LUXE-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUB4CF51KA080484": {
@@ -705,7 +705,7 @@
   "url": "https://www.nag-cars.com/vdp/24385089/BuyHerePayHere-2019-Audi-S5-Sportback-Premium-Plus-30-TFSI-quattro-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "1C4BJWDG2DL632454": {
   "vin": "1C4BJWDG2DL632454",
@@ -716,7 +716,7 @@
   "miles": 104165,
   "url": "https://www.nag-cars.com/vdp/24389049/BuyHerePayHere-2013-Jeep-Wrangler-Unlimited-4WD-4dr-Sport-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2C3CCAGGXKH611007": {
@@ -728,7 +728,7 @@
   "miles": 101205,
   "url": "https://www.nag-cars.com/vdp/24391501/BuyHerePayHere-2019-Chrysler-300-300S-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1GNEVFKW1MJ158821": {
@@ -740,7 +740,7 @@
   "miles": 51448,
   "url": "https://www.nag-cars.com/vdp/24392059/BuyHerePayHere-2021-Chevrolet-Traverse-AWD-4dr-LS-w1LS-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FMJU1JT4LEA42682": {
@@ -752,7 +752,7 @@
   "miles": 111552,
   "url": "https://www.nag-cars.com/vdp/24395045/BuyHerePayHere-2020-Ford-Expedition-XLT-4x4-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5LMJJ2MT3JEL07631": {
@@ -764,7 +764,7 @@
   "miles": 74480,
   "url": "https://www.nag-cars.com/vdp/24395047/BuyHerePayHere-2018-Lincoln-Navigator-4x2-Premiere-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "55SWF8DB3KU296136": {
@@ -776,7 +776,7 @@
   "miles": 87902,
   "url": "https://www.nag-cars.com/vdp/24398995/BuyHerePayHere-2019-MercedesBenz-CClass-C-300-Sedan-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2HKRM3H70EH547200": {
@@ -789,7 +789,7 @@
   "url": "https://www.nag-cars.com/vdp/24403375/BuyHerePayHere-2014-Honda-CRV-2WD-5dr-EXL-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "1C4PJMBX5MD241726": {
   "vin": "1C4PJMBX5MD241726",
@@ -800,7 +800,7 @@
   "miles": 67219,
   "url": "https://www.nag-cars.com/vdp/24407589/BuyHerePayHere-2021-Jeep-Cherokee-Trailhawk-4x4-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FATP8UH1H5245157": {
@@ -812,7 +812,7 @@
   "miles": 96188,
   "url": "https://www.nag-cars.com/vdp/24414216/BuyHerePayHere-2017-Ford-Mustang-EcoBoost-Premium-Convertible-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2FMPK3K94JBB09207": {
@@ -824,7 +824,7 @@
   "miles": 76578,
   "url": "https://www.nag-cars.com/vdp/24414218/BuyHerePayHere-2018-Ford-Edge-Titanium-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KMHC65LC7JU100715": {
@@ -837,7 +837,7 @@
   "url": "https://www.nag-cars.com/vdp/24414219/BuyHerePayHere-2018-Hyundai-Ioniq-Hybrid-Blue-Hatchback-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "SALWV2SV0JA802620": {
   "vin": "SALWV2SV0JA802620",
@@ -848,7 +848,7 @@
   "miles": 100250,
   "url": "https://www.nag-cars.com/vdp/24414220/BuyHerePayHere-2018-Land-Rover-Range-Rover-Sport-V6-Supercharged-HSE-Dynamic-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JM3KFABM7L0847090": {
@@ -860,7 +860,7 @@
   "miles": 65909,
   "url": "https://www.nag-cars.com/vdp/24414221/BuyHerePayHere-2020-Mazda-CX5-Sport-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JC1NFAEK9H0105763": {
@@ -872,7 +872,7 @@
   "miles": 11496,
   "url": "https://www.nag-cars.com/vdp/24414736/BuyHerePayHere-2017-Fiat-124-Spider-Lusso-Convertible-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2HGFC2F65LH564124": {
@@ -885,7 +885,7 @@
   "url": "https://www.nag-cars.com/vdp/24417702/BuyHerePayHere-2020-Honda-Civic-Sedan-LX-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "WBA3B5C5XFF963468": {
   "vin": "WBA3B5C5XFF963468",
@@ -896,7 +896,7 @@
   "miles": 110933,
   "url": "https://www.nag-cars.com/vdp/24417704/BuyHerePayHere-2015-BMW-3-Series-4dr-Sdn-328i-xDrive-AWD-SULEV-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JN1DF0BB2RM742794": {
@@ -908,7 +908,7 @@
   "miles": 24598,
   "url": "https://www.nag-cars.com/vdp/24421570/BuyHerePayHere-2024-Nissan-Ariya-EVOLVE-e4ORCE-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "TRUC5AFV9J1012334": {
@@ -920,7 +920,7 @@
   "miles": 84359,
   "url": "https://www.nag-cars.com/vdp/24421571/BuyHerePayHere-2018-Audi-TT-Coupe-20-TFSI-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "19UUA8F54EA000098": {
@@ -932,7 +932,7 @@
   "miles": 126868,
   "url": "https://www.nag-cars.com/vdp/24430063/BuyHerePayHere-2014-Acura-TL-4dr-Sdn-Auto-2WD-Tech-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1G4ZP5SS4HU155102": {
@@ -945,7 +945,7 @@
   "url": "https://www.nag-cars.com/vdp/24430073/BuyHerePayHere-2017-Buick-LaCrosse-4dr-Sdn-Essence-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "JA4ATWAA1NZ001046": {
   "vin": "JA4ATWAA1NZ001046",
@@ -956,7 +956,7 @@
   "miles": 98686,
   "url": "https://www.nag-cars.com/vdp/24430077/BuyHerePayHere-2022-Mitsubishi-Eclipse-Cross-SE-SAWC-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2FMPK3K97LBA16104": {
@@ -968,7 +968,7 @@
   "miles": 76125,
   "url": "https://www.nag-cars.com/vdp/24434232/BuyHerePayHere-2020-Ford-Edge-Titanium-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5UXTY5C06M9G28663": {
@@ -980,7 +980,7 @@
   "miles": 79481,
   "url": "https://www.nag-cars.com/vdp/24436646/BuyHerePayHere-2021-BMW-X3-xDrive30i-Sports-Activity-Vehicle-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KM8K1CAA1LU566739": {
@@ -992,7 +992,7 @@
   "miles": 79351,
   "url": "https://www.nag-cars.com/vdp/24436647/BuyHerePayHere-2020-Hyundai-Kona-SE-Auto-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1G6AW5SX5H0186756": {
@@ -1004,7 +1004,7 @@
   "miles": 93579,
   "url": "https://www.nag-cars.com/vdp/24437203/BuyHerePayHere-2017-Cadillac-CTS-4dr-Sdn-20L-Turbo-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KL4MMDS27MB073009": {
@@ -1016,7 +1016,7 @@
   "miles": 81443,
   "url": "https://www.nag-cars.com/vdp/24444174/BuyHerePayHere-2021-Buick-Encore-GX-FWD-4dr-Select-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "SHHFK7H49JU237799": {
@@ -1028,7 +1028,7 @@
   "miles": 78266,
   "url": "https://www.nag-cars.com/vdp/24444176/BuyHerePayHere-2018-Honda-Civic-Sport-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JM3KFBBL0H0139770": {
@@ -1040,7 +1040,7 @@
   "miles": 100403,
   "url": "https://www.nag-cars.com/vdp/24444177/BuyHerePayHere-2017-Mazda-CX5-Sport-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "ZARFANBN8L7636227": {
@@ -1052,7 +1052,7 @@
   "miles": 67244,
   "url": "https://www.nag-cars.com/vdp/24444185/BuyHerePayHere-2020-Alfa-Romeo-Giulia-Ti-Sport-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WP0AB2A75DL060589": {
@@ -1064,7 +1064,7 @@
   "miles": 54837,
   "url": "https://www.nag-cars.com/vdp/22759607/BuyHerePayHere-2013-Porsche-Panamera-4dr-HB-S-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5YJXCDE2XJF118230": {
@@ -1072,11 +1072,11 @@
   "year": "2018",
   "make": "Tesla",
   "model": "Model X 75D AWD",
-  "price": 22493,
+  "price": 22093,
   "miles": 78164,
   "url": "https://www.nag-cars.com/vdp/23818698/BuyHerePayHere-2018-Tesla-Model-X-75D-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF1VA2S64L9820698": {
@@ -1088,7 +1088,7 @@
   "miles": 61425,
   "url": "https://www.nag-cars.com/vdp/23938398/BuyHerePayHere-2020-Subaru-WRX-STI-Manual-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF2SJAGC2JH527781": {
@@ -1096,11 +1096,11 @@
   "year": "2018",
   "make": "Subaru",
   "model": "Forester 2.5i Premium CVT",
-  "price": 13493,
+  "price": 13093,
   "miles": 99360,
   "url": "https://www.nag-cars.com/vdp/24080535/BuyHerePayHere-2018-Subaru-Forester-25i-Premium-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3VWBM7BU7PM026735": {
@@ -1112,7 +1112,7 @@
   "miles": 42853,
   "url": "https://www.nag-cars.com/vdp/24157429/BuyHerePayHere-2023-Volkswagen-Jetta-Sport-Auto-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JN1BJ1AW3MW421232": {
@@ -1124,7 +1124,7 @@
   "miles": 107621,
   "url": "https://www.nag-cars.com/vdp/24157437/BuyHerePayHere-2021-Nissan-Rogue-Sport-AWD-S-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5YFB4MDE9PP003134": {
@@ -1136,7 +1136,7 @@
   "miles": 93264,
   "url": "https://www.nag-cars.com/vdp/24190470/BuyHerePayHere-2023-Toyota-Corolla-LE-CVT-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF1VA1H61L9827206": {
@@ -1148,7 +1148,7 @@
   "miles": 107861,
   "url": "https://www.nag-cars.com/vdp/24268059/BuyHerePayHere-2020-Subaru-WRX-Limited-Manual-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF2GPABC5H8206226": {
@@ -1160,7 +1160,7 @@
   "miles": 126214,
   "url": "https://www.nag-cars.com/vdp/24272632/BuyHerePayHere-2017-Subaru-Crosstrek-20i-Premium-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JTDKN3DU5F0415820": {
@@ -1172,7 +1172,7 @@
   "miles": 123622,
   "url": "https://www.nag-cars.com/vdp/24279924/BuyHerePayHere-2015-Toyota-Prius-5dr-HB-Four-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "4T1BK36B58U273089": {
@@ -1184,7 +1184,7 @@
   "miles": 223973,
   "url": "https://www.nag-cars.com/vdp/24288955/BuyHerePayHere-2008-Toyota-Avalon-4dr-Sdn-XL-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "LYV402TM8HB147161": {
@@ -1196,7 +1196,7 @@
   "miles": 108562,
   "url": "https://www.nag-cars.com/vdp/24320652/BuyHerePayHere-2017-Volvo-S60-T5-AWD-Inscription-Platinum-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JTEBU5JR9G5394095": {
@@ -1208,7 +1208,7 @@
   "miles": 144060,
   "url": "https://www.nag-cars.com/vdp/24320654/BuyHerePayHere-2016-Toyota-4Runner-4WD-4dr-V6-Limited-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF1GPAA64F8231955": {
@@ -1220,7 +1220,7 @@
   "miles": 98203,
   "url": "https://www.nag-cars.com/vdp/24332816/BuyHerePayHere-2015-Subaru-Impreza-Wagon-5dr-CVT-20i-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "4S4BTACC9L3132183": {
@@ -1232,7 +1232,7 @@
   "miles": 130252,
   "url": "https://www.nag-cars.com/vdp/24361495/BuyHerePayHere-2020-Subaru-Outback-Premium-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WVGKMPE28MP034549": {
@@ -1244,7 +1244,7 @@
   "miles": 79379,
   "url": "https://www.nag-cars.com/vdp/24361496/BuyHerePayHere-2021-Volkswagen-ID4-Pro-S-RWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "4T1T11AK7PU081903": {
@@ -1256,7 +1256,7 @@
   "miles": 102538,
   "url": "https://www.nag-cars.com/vdp/24380660/BuyHerePayHere-2023-Toyota-Camry-SE-Auto-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WP1AA2A55JLB06319": {
@@ -1268,7 +1268,7 @@
   "miles": 51986,
   "url": "https://www.nag-cars.com/vdp/24385086/BuyHerePayHere-2018-Porsche-Macan-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF2GTALC0JH213309": {
@@ -1280,7 +1280,7 @@
   "miles": 62894,
   "url": "https://www.nag-cars.com/vdp/24391505/BuyHerePayHere-2018-Subaru-Crosstrek-20i-Limited-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3VW117AU6KM509129": {
@@ -1292,7 +1292,7 @@
   "miles": 121760,
   "url": "https://www.nag-cars.com/vdp/24392060/BuyHerePayHere-2019-Volkswagen-Golf-SportWagen-18T-S-Auto-4MOTION-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF2GTAMCXJH350403": {
@@ -1304,7 +1304,7 @@
   "miles": 88673,
   "url": "https://www.nag-cars.com/vdp/24395048/BuyHerePayHere-2018-Subaru-Crosstrek-20i-Limited-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "4S3GTAA65H3710472": {
@@ -1316,7 +1316,7 @@
   "miles": 102849,
   "url": "https://www.nag-cars.com/vdp/24403376/BuyHerePayHere-2017-Subaru-Impreza-20i-5door-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF2GTALC5JH289463": {
@@ -1328,7 +1328,7 @@
   "miles": 82935,
   "url": "https://www.nag-cars.com/vdp/24403380/BuyHerePayHere-2018-Subaru-Crosstrek-20i-Limited-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2T3W1RFV1LC083373": {
@@ -1340,7 +1340,7 @@
   "miles": 118951,
   "url": "https://www.nag-cars.com/vdp/24414217/BuyHerePayHere-2020-Toyota-RAV4-XLE-FWD-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5N1BT3BB6PC861252": {
@@ -1352,7 +1352,7 @@
   "miles": 90599,
   "url": "https://www.nag-cars.com/vdp/24417705/BuyHerePayHere-2023-Nissan-Rogue-AWD-SV-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3N1AB8CV8RY330513": {
@@ -1364,7 +1364,7 @@
   "miles": 54423,
   "url": "https://www.nag-cars.com/vdp/24434230/BuyHerePayHere-2024-Nissan-Sentra-SV-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5N1AT2MV6JC789540": {
@@ -1376,7 +1376,7 @@
   "miles": 107280,
   "url": "https://www.nag-cars.com/vdp/24437204/BuyHerePayHere-2018-Nissan-Rogue-AWD-SV-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JTDZN3EU7HJ063592": {
@@ -1388,7 +1388,7 @@
   "miles": 121341,
   "url": "https://www.nag-cars.com/vdp/24437205/BuyHerePayHere-2017-Toyota-Prius-V-Two-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5YJ3E1EA9MF939726": {
@@ -1400,7 +1400,7 @@
   "miles": 77227,
   "url": "https://www.nag-cars.com/vdp/24444171/BuyHerePayHere-2021-Tesla-Model-3-Standard-Range-Plus-RWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3KPF54AD6RE699143": {
@@ -1412,7 +1412,7 @@
   "miles": 30464,
   "url": "https://www.nag-cars.com/vdp/24448513/BuyHerePayHere-2024-Kia-Forte-GTLine-IVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KM8J33A22HU328307": {
@@ -1424,7 +1424,7 @@
   "miles": 87399,
   "url": "https://www.nag-cars.com/vdp/24448515/BuyHerePayHere-2017-Hyundai-Tucson-Limited-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "W04GV8SX5J1066011": {
@@ -1436,7 +1436,7 @@
   "miles": 77003,
   "url": "https://www.nag-cars.com/vdp/24448516/BuyHerePayHere-2018-Buick-Regal-TourX-5dr-Wgn-Essence-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JTEAAAAH6NJ105201": {
@@ -1448,7 +1448,7 @@
   "miles": 93465,
   "url": "https://www.nag-cars.com/vdp/24448517/BuyHerePayHere-2022-Toyota-Venza-LE-AWD-Natl-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUENAF44JN008143": {
@@ -1460,7 +1460,7 @@
   "miles": 81487,
   "url": "https://www.nag-cars.com/vdp/24403378/BuyHerePayHere-2018-Audi-A4-20-TFSI-Premium-Plus-S-Tronic-quattro-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3KPF34AD7ME313148": {
@@ -1472,7 +1472,7 @@
   "miles": 88982,
   "url": "https://www.nag-cars.com/vdp/24453008/BuyHerePayHere-2021-Kia-Forte-GTLine-IVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUBNCF54JA006178": {
@@ -1484,7 +1484,7 @@
   "miles": 71023,
   "url": "https://www.nag-cars.com/vdp/24453012/BuyHerePayHere-2018-Audi-A5-Sportback-20-TFSI-Premium-Plus-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1C4RJFAGXKC736710": {
@@ -1496,7 +1496,7 @@
   "miles": 124865,
   "url": "https://www.nag-cars.com/vdp/24453003/BuyHerePayHere-2019-Jeep-Grand-Cherokee-Laredo-E-4x4-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1FAHP2KT2EG133624": {
@@ -1508,7 +1508,7 @@
   "miles": 79151,
   "url": "https://www.nag-cars.com/vdp/24453005/BuyHerePayHere-2014-Ford-Taurus-4dr-Sdn-SHO-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JM1BM1K7XE1205498": {
@@ -1520,7 +1520,7 @@
   "miles": 54203,
   "url": "https://www.nag-cars.com/vdp/24453013/BuyHerePayHere-2014-Mazda-MAZDA3-5dr-HB-Auto-i-Sport-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBA4J3C59JBG91154": {
@@ -1532,7 +1532,7 @@
   "miles": 100549,
   "url": "https://www.nag-cars.com/vdp/24304236/BuyHerePayHere-2018-BMW-4-Series-430i-xDrive-Gran-Coupe-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1HGCV1F13KA077979": {
@@ -1544,7 +1544,7 @@
   "miles": 104130,
   "url": "https://www.nag-cars.com/vdp/24398994/BuyHerePayHere-2019-Honda-Accord-LX-15T-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3MVDMADM4MM214483": {
@@ -1556,7 +1556,7 @@
   "miles": 77647,
   "url": "https://www.nag-cars.com/vdp/24459540/BuyHerePayHere-2021-Mazda-CX30-Premium-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5UXKU2C50F0F96107": {
@@ -1569,7 +1569,7 @@
   "url": "https://www.nag-cars.com/vdp/24459542/BuyHerePayHere-2015-BMW-X6-AWD-4dr-xDrive35i-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-04",
-  "misses": 0
+  "misses": 1
  },
  "5YJ3E1EA6PF397117": {
   "vin": "5YJ3E1EA6PF397117",
@@ -1580,7 +1580,7 @@
   "miles": 128107,
   "url": "https://www.nag-cars.com/vdp/24459543/BuyHerePayHere-2023-Tesla-Model-3-RWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JF2SJAHC9GH417852": {
@@ -1592,7 +1592,7 @@
   "miles": 43435,
   "url": "https://www.nag-cars.com/vdp/24459545/BuyHerePayHere-2016-Subaru-Forester-4dr-CVT-25i-Limited-PZEV-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3HGGK5H83FM726944": {
@@ -1604,7 +1604,7 @@
   "miles": 73247,
   "url": "https://www.nag-cars.com/vdp/24460120/BuyHerePayHere-2015-Honda-Fit-5dr-HB-CVT-EXL-wNavi-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "5FNYF6H29MB070775": {
@@ -1616,7 +1616,7 @@
   "miles": 105535,
   "url": "https://www.nag-cars.com/vdp/24459541/BuyHerePayHere-2021-Honda-Pilot-Special-Edition-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KMHDH4AE0DU830841": {
@@ -1628,7 +1628,7 @@
   "miles": 50854,
   "url": "https://www.nag-cars.com/vdp/24459546/BuyHerePayHere-2013-Hyundai-Elantra-4dr-Sdn-Auto-GLS-PZEV-Ulsan-Plant-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "KNDPM3AC1N7977286": {
@@ -1640,7 +1640,7 @@
   "miles": 70732,
   "url": "https://www.nag-cars.com/vdp/24459547/BuyHerePayHere-2022-Kia-Sportage-LX-FWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUENAF40KA003143": {
@@ -1652,7 +1652,7 @@
   "miles": 105982,
   "url": "https://www.nag-cars.com/vdp/24459548/BuyHerePayHere-2019-Audi-A4-Premium-Plus-45-TFSI-quattro-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3N1CN8FV5ML812485": {
@@ -1664,7 +1664,7 @@
   "miles": 30532,
   "url": "https://www.nag-cars.com/vdp/24460119/BuyHerePayHere-2021-Nissan-Versa-SR-CVT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "JTHR9JBH9M2042634": {
@@ -1676,7 +1676,7 @@
   "miles": 88381,
   "url": "https://www.nag-cars.com/vdp/24460121/BuyHerePayHere-2021-Lexus-UX-UX-250h-F-SPORT-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1C6RR7VT4DS702574": {
@@ -1688,7 +1688,7 @@
   "miles": 116451,
   "url": "https://www.nag-cars.com/vdp/24463023/BuyHerePayHere-2013-RAM-1500-4WD-Crew-Cab-149-Laramie-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "3GNAXSEV9JL125509": {
@@ -1700,7 +1700,7 @@
   "miles": 23615,
   "url": "https://www.nag-cars.com/vdp/24463024/BuyHerePayHere-2018-Chevrolet-Equinox-AWD-4dr-LT-w1LT-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "2LMPJ8LR2JBL26337": {
@@ -1712,7 +1712,7 @@
   "miles": 91205,
   "url": "https://www.nag-cars.com/vdp/24463025/BuyHerePayHere-2018-Lincoln-MKX-Reserve-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WP1AA2A5XJLB07790": {
@@ -1724,7 +1724,7 @@
   "miles": 32254,
   "url": "https://www.nag-cars.com/vdp/24463026/BuyHerePayHere-2018-Porsche-Macan-AWD-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "1C4PJMBN3KD116459": {
@@ -1736,7 +1736,7 @@
   "miles": 102832,
   "url": "https://www.nag-cars.com/vdp/24466750/BuyHerePayHere-2019-Jeep-Cherokee-Trailhawk-Elite-4x4-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WAUD8AF22KN121107": {
@@ -1748,7 +1748,7 @@
   "miles": 97341,
   "url": "https://www.nag-cars.com/vdp/24466759/BuyHerePayHere-2019-Audi-A6-Premium-45-TFSI-quattro-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "misses": 0
  },
  "WBA2M7C05L7E99262": {
@@ -1760,7 +1760,223 @@
   "miles": 104991,
   "url": "https://www.nag-cars.com/vdp/24466761/BuyHerePayHere-2020-BMW-2-Series-230i-Convertible-for-sale-in-Cincinnati-OH-45216",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "5TDBW5G15HS150441": {
+  "vin": "5TDBW5G15HS150441",
+  "year": "2017",
+  "make": "Toyota",
+  "model": "Sequoia SR5 4WD FFV (Natl)",
+  "price": 26993,
+  "miles": 108706,
+  "url": "https://www.nag-cars.com/vdp/24479079/BuyHerePayHere-2017-Toyota-Sequoia-SR5-4WD-FFV-Natl-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "1G1YY32G945116676": {
+  "vin": "1G1YY32G945116676",
+  "year": "2004",
+  "make": "Chevrolet",
+  "model": "Corvette 2dr Convertible",
+  "price": 19593,
+  "miles": 55506,
+  "url": "https://www.nag-cars.com/vdp/24470956/BuyHerePayHere-2004-Chevrolet-Corvette-2dr-Convertible-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "1G11Z5S31LU101374": {
+  "vin": "1G11Z5S31LU101374",
+  "year": "2020",
+  "make": "Chevrolet",
+  "model": "Impala 4dr Sdn LT w/1LT",
+  "price": 13093,
+  "miles": 102148,
+  "url": "https://www.nag-cars.com/vdp/24470957/BuyHerePayHere-2020-Chevrolet-Impala-4dr-Sdn-LT-w1LT-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "2GNAXVEX7L6226106": {
+  "vin": "2GNAXVEX7L6226106",
+  "year": "2020",
+  "make": "Chevrolet",
+  "model": "Equinox AWD 4dr LT w/2LT",
+  "price": 12093,
+  "miles": 112125,
+  "url": "https://www.nag-cars.com/vdp/24470958/BuyHerePayHere-2020-Chevrolet-Equinox-AWD-4dr-LT-w2LT-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "3N1CN8EV9ML871900": {
+  "vin": "3N1CN8EV9ML871900",
+  "year": "2021",
+  "make": "Nissan",
+  "model": "Versa SV CVT",
+  "price": 9593,
+  "miles": 104855,
+  "url": "https://www.nag-cars.com/vdp/24470964/BuyHerePayHere-2021-Nissan-Versa-SV-CVT-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "JN8AY2NC4J9555661": {
+  "vin": "JN8AY2NC4J9555661",
+  "year": "2018",
+  "make": "Nissan",
+  "model": "Armada 4x4 SV",
+  "price": 17093,
+  "miles": 79710,
+  "url": "https://www.nag-cars.com/vdp/24470967/BuyHerePayHere-2018-Nissan-Armada-4x4-SV-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "WDD3G4FB3KW020502": {
+  "vin": "WDD3G4FB3KW020502",
+  "year": "2019",
+  "make": "Mercedes-Benz",
+  "model": "A-Class A 220 4MATIC Sedan",
+  "price": 15993,
+  "miles": 88725,
+  "url": "https://www.nag-cars.com/vdp/24470971/BuyHerePayHere-2019-MercedesBenz-AClass-A-220-4MATIC-Sedan-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "3VW4T7AU2GM049580": {
+  "vin": "3VW4T7AU2GM049580",
+  "year": "2016",
+  "make": "Volkswagen",
+  "model": "Golf GTI 4dr HB DSG S",
+  "price": 13993,
+  "miles": 94786,
+  "url": "https://www.nag-cars.com/vdp/24475123/BuyHerePayHere-2016-Volkswagen-Golf-GTI-4dr-HB-DSG-S-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "WBXHT3C38GP883755": {
+  "vin": "WBXHT3C38GP883755",
+  "year": "2016",
+  "make": "BMW",
+  "model": "X1 AWD 4dr xDrive28i",
+  "price": 11593,
+  "miles": 94419,
+  "url": "https://www.nag-cars.com/vdp/24475128/BuyHerePayHere-2016-BMW-X1-AWD-4dr-xDrive28i-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "WDDSJ4GB0JN697538": {
+  "vin": "WDDSJ4GB0JN697538",
+  "year": "2018",
+  "make": "Mercedes-Benz",
+  "model": "CLA CLA 250 4MATIC Coupe",
+  "price": 12993,
+  "miles": 99835,
+  "url": "https://www.nag-cars.com/vdp/24475129/BuyHerePayHere-2018-MercedesBenz-CLA-CLA-250-4MATIC-Coupe-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "1FTFW1ET4EKF96162": {
+  "vin": "1FTFW1ET4EKF96162",
+  "year": "2014",
+  "make": "Ford",
+  "model": "150 4WD SuperCrew 145\" XL",
+  "price": 6592,
+  "miles": 198425,
+  "url": "https://www.nag-cars.com/vdp/24479071/BuyHerePayHere-2014-Ford-150-4WD-SuperCrew-145-XL-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "1GNSKCKJ9JR260606": {
+  "vin": "1GNSKCKJ9JR260606",
+  "year": "2018",
+  "make": "Chevrolet",
+  "model": "Tahoe 4WD 4dr Premier",
+  "price": 26593,
+  "miles": 104406,
+  "url": "https://www.nag-cars.com/vdp/24479072/BuyHerePayHere-2018-Chevrolet-Tahoe-4WD-4dr-Premier-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "1G1YL2D74E5106354": {
+  "vin": "1G1YL2D74E5106354",
+  "year": "2014",
+  "make": "Chevrolet",
+  "model": "Corvette Stingray 2dr Z51 Cpe w/3LT",
+  "price": 34593,
+  "miles": 73820,
+  "url": "https://www.nag-cars.com/vdp/24479073/BuyHerePayHere-2014-Chevrolet-Corvette-Stingray-2dr-Z51-Cpe-w3LT-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "2T1BURHE7FC444122": {
+  "vin": "2T1BURHE7FC444122",
+  "year": "2015",
+  "make": "Toyota",
+  "model": "Corolla 4dr Sdn Auto L (Natl)",
+  "price": 12593,
+  "miles": 86873,
+  "url": "https://www.nag-cars.com/vdp/24479076/BuyHerePayHere-2015-Toyota-Corolla-4dr-Sdn-Auto-L-Natl-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "KL4CJESM3NB515152": {
+  "vin": "KL4CJESM3NB515152",
+  "year": "2022",
+  "make": "Buick",
+  "model": "Encore AWD 4dr Preferred",
+  "price": 16093,
+  "miles": 36081,
+  "url": "https://www.nag-cars.com/vdp/24479078/BuyHerePayHere-2022-Buick-Encore-AWD-4dr-Preferred-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "5XYZWDLAXJG529307": {
+  "vin": "5XYZWDLAXJG529307",
+  "year": "2018",
+  "make": "Hyundai",
+  "model": "Santa Fe Sport 2.0T Ultimate Auto AWD",
+  "price": 12593,
+  "miles": 114050,
+  "url": "https://www.nag-cars.com/vdp/24479080/BuyHerePayHere-2018-Hyundai-Santa-Fe-Sport-20T-Ultimate-Auto-AWD-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "5UXCR6C58KLK88928": {
+  "vin": "5UXCR6C58KLK88928",
+  "year": "2019",
+  "make": "BMW",
+  "model": "X5 xDrive40i Sports Activity Vehicle",
+  "price": 19593,
+  "miles": 105013,
+  "url": "https://www.nag-cars.com/vdp/24479082/BuyHerePayHere-2019-BMW-X5-xDrive40i-Sports-Activity-Vehicle-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
+  "misses": 0
+ },
+ "MAJ3S2GE8LC337948": {
+  "vin": "MAJ3S2GE8LC337948",
+  "year": "2020",
+  "make": "Ford",
+  "model": "EcoSport SE FWD",
+  "price": 13093,
+  "miles": 36881,
+  "url": "https://www.nag-cars.com/vdp/24479083/BuyHerePayHere-2020-Ford-EcoSport-SE-FWD-for-sale-in-Cincinnati-OH-45216",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07",
   "misses": 0
  }
 }
