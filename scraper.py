@@ -20,7 +20,7 @@ DEALERS = {
     "nw": {"name": "NW Automotive",
              "url": "https://www.nag-cars.com/newandusedcars",
              "dcs2": "/vdp/"},
-    "cag": {"name": "Cincinnati Auto Group",
+    "cag": {"name": "Cincinnati Auto Group", "no_verify": True,
              "url": "https://www.cag513.com/cars-for-sale",
              "linkcards": "/Inventory/Details/"},
 }
@@ -312,6 +312,8 @@ def verify_sold(page):
     keymap = {d["name"]: k for k, d in DEALERS.items()}
     keep, back = [], 0
     for c in sold:
+        if DEALERS.get(keymap.get(c["dealer"]), {}).get("no_verify"):
+            c["verified"] = True                     # this site keeps sold-car pages up, page check is useless
         if c.get("verified") or not c.get("url"):
             keep.append(c); continue
         alive = still_listed(page, c)
