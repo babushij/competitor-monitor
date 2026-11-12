@@ -281,7 +281,8 @@ def scrape_am(page, d):
         for r in page.evaluate(AM_JS):
             v = r["vin"].upper()
             if len(v) != 17 or v in cars: continue
-            c = parse_card_text(r["text"])
+            c = parse_card_text(r["text"].split(" View Photos")[0] + " " + r["text"])
+            c["model"] = re.sub(r"\s+View.*$", "", c["model"]).strip()
             m = re.search(r"([\d,]+)", r["miles"] or "")
             if m: c["miles"] = int(m.group(1).replace(",", ""))
             cars[v] = {"vin": v, **c, "url": r["href"]}
