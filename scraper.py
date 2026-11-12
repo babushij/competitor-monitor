@@ -377,10 +377,16 @@ def verify_sold(page):
     soldf.write_text(json.dumps(keep, indent=1))
     print(f"Verify: {back} were still listed and removed, {len(keep)} sold confirmed")
 
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 with sync_playwright() as p:
-    page = p.chromium.launch().new_page(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", viewport={"width":1366,"height":900})
+    browser = p.chromium.launch()
+    def fresh():
+        return browser.new_context(user_agent=UA, viewport={"width":1366,"height":900}, ignore_https_errors=True).new_page()
     for key, d in DEALERS.items():
+        page = fresh()           # own tab per dealer so one site's error can't break the next
         try: update(key, d["name"], scrape(page, d, key))
         except Exception as e: print(f"{d['name']} FAILED: {e}")
+        finally: page.context.close()
+    page = fresh()
     try: verify_sold(page)
     except Exception as e: print("verify FAILED", e)
