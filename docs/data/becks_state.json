@@ -77,19 +77,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "19UUA96599A002425": {
-  "vin": "19UUA96599A002425",
-  "lid": "129515843",
-  "year": "2009",
-  "make": "Acura",
-  "model": "TL",
-  "price": 9495,
-  "miles": 121508,
-  "url": "https://www.becksautogroup.com/details/used-2009-acura-tl/129515843",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "ZARFANAN8K7599776": {
   "vin": "ZARFANAN8K7599776",
   "lid": "128741895",
@@ -1805,19 +1792,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "5TDDK3EH3BS085069": {
-  "vin": "5TDDK3EH3BS085069",
-  "lid": "130540488",
-  "year": "2011",
-  "make": "Toyota",
-  "model": "Highlander Limited",
-  "price": 12495,
-  "miles": 135536,
-  "url": "https://www.becksautogroup.com/details/used-2011-toyota-highlander/130540488",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "3TMCZ5AN3JM127494": {
   "vin": "3TMCZ5AN3JM127494",

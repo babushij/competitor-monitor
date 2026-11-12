@@ -153,7 +153,7 @@
   "url": "https://cincyautomall.com/vdp/24434266/Used-2019-BMW-X4-M40i-Sports-Activity-Coupe-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "5UXZV4C59D0B21947": {
   "vin": "5UXZV4C59D0B21947",
@@ -1163,18 +1163,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "2GNAXUEVXN6114475": {
-  "vin": "2GNAXUEVXN6114475",
-  "year": "2022",
-  "make": "Chevrolet",
-  "model": "Equinox AWD 4dr LT w/1LT",
-  "price": 10900,
-  "miles": 159423,
-  "url": "https://cincyautomall.com/vdp/23152845/Used-2022-Chevrolet-Equinox-AWD-4dr-LT-w1LT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "3GNAXKEGXPS211475": {
   "vin": "3GNAXKEGXPS211475",
   "year": "2023",
@@ -1425,7 +1413,7 @@
   "url": "https://cincyautomall.com/vdp/24434264/Used-2018-Chevrolet-Silverado-1500-4WD-Double-Cab-1435-LT-w2LT-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "3GCUKPEC6JG147573": {
   "vin": "3GCUKPEC6JG147573",
@@ -1691,18 +1679,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "2C3CDXJGXKH640659": {
-  "vin": "2C3CDXJGXKH640659",
-  "year": "2019",
-  "make": "Dodge",
-  "model": "Charger SXT AWD",
-  "price": 18900,
-  "miles": 78637,
-  "url": "https://cincyautomall.com/vdp/24444216/Used-2019-Dodge-Charger-SXT-AWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "2C3CDXBG5MH522231": {
   "vin": "2C3CDXBG5MH522231",
   "year": "2021",
@@ -1882,18 +1858,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "1FADP5AU7DL531654": {
-  "vin": "1FADP5AU7DL531654",
-  "year": "2013",
-  "make": "Ford",
-  "model": "C-Max Hybrid 5dr HB SE",
-  "price": 6900,
-  "miles": 117822,
-  "url": "https://cincyautomall.com/vdp/21343098/Used-2013-Ford-CMax-Hybrid-5dr-HB-SE-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "1FDXE4FS5HDC30407": {
   "vin": "1FDXE4FS5HDC30407",
@@ -2939,18 +2903,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "5NPD74LF4KH420029": {
-  "vin": "5NPD74LF4KH420029",
-  "year": "2019",
-  "make": "Hyundai",
-  "model": "Elantra SE Auto",
-  "price": 9900,
-  "miles": 89949,
-  "url": "https://cincyautomall.com/vdp/20165563/Used-2019-Hyundai-Elantra-SE-Auto-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "KMHLW4AK8PU014021": {
   "vin": "KMHLW4AK8PU014021",
   "year": "2023",
@@ -3034,18 +2986,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "5NPEL4JA0LH029193": {
-  "vin": "5NPEL4JA0LH029193",
-  "year": "2020",
-  "make": "Hyundai",
-  "model": "Sonata SEL 2.5L",
-  "price": 11900,
-  "miles": 100237,
-  "url": "https://cincyautomall.com/vdp/24434265/Used-2020-Hyundai-Sonata-SEL-25L-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "5NPEJ4J28LH012432": {
   "vin": "5NPEJ4J28LH012432",
@@ -3562,18 +3502,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "JKAVFDG16NB521451": {
-  "vin": "JKAVFDG16NB521451",
-  "year": "2022",
-  "make": "Kawasaki",
-  "model": "Brute Force 750",
-  "price": null,
-  "miles": 1,
-  "url": "https://cincyautomall.com/vdp/22816682/Used-2022-Kawasaki-Brute-Force-750-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "KNDC4DLC1P5137802": {
   "vin": "KNDC4DLC1P5137802",
@@ -4163,18 +4091,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "W1NWH5AB2SX045346": {
-  "vin": "W1NWH5AB2SX045346",
-  "year": "2025",
-  "make": "Mercedes-Benz",
-  "model": "G-Class AMG G 63 SUV",
-  "price": 222900,
-  "miles": 7223,
-  "url": "https://cincyautomall.com/vdp/23840975/Used-2025-MercedesBenz-GClass-AMG-G-63-SUV-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "WDCTG4GB6JJ367711": {
   "vin": "WDCTG4GB6JJ367711",
   "year": "2018",
@@ -4391,18 +4307,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "W1X8N23Y9RN275660": {
-  "vin": "W1X8N23Y9RN275660",
-  "year": "2024",
-  "make": "Mercedes-Benz",
-  "model": "Sprinter Cab Chassis 3500XD Standard Roof I4 Diesel HO 144\" RWD",
-  "price": 38900,
-  "miles": 333,
-  "url": "https://cincyautomall.com/vdp/24376110/Used-2024-MercedesBenz-Sprinter-Cab-Chassis-3500XD-Standard-Roof-I4-Diesel-HO-144-RWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "W1X8N36Y4RN289807": {
   "vin": "W1X8N36Y4RN289807",
   "year": "2024",
@@ -4559,18 +4463,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "1N6AD0FV9DN728868": {
-  "vin": "1N6AD0FV9DN728868",
-  "year": "2013",
-  "make": "Nissan",
-  "model": "Frontier 4WD Crew Cab LWB Auto SL",
-  "price": 9900,
-  "miles": 158131,
-  "url": "https://cincyautomall.com/vdp/24368418/Used-2013-Nissan-Frontier-4WD-Crew-Cab-LWB-Auto-SL-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "1N6ED1FK8PN642503": {
   "vin": "1N6ED1FK8PN642503",
   "year": "2023",
@@ -4582,18 +4474,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "3N1CP5CV9LL501914": {
-  "vin": "3N1CP5CV9LL501914",
-  "year": "2020",
-  "make": "Nissan",
-  "model": "Kicks SV FWD",
-  "price": 7900,
-  "miles": 116436,
-  "url": "https://cincyautomall.com/vdp/24444221/Used-2020-Nissan-Kicks-SV-FWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "3N6CM0KN0MK693593": {
   "vin": "3N6CM0KN0MK693593",
@@ -4618,18 +4498,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "5N1DR2MM0JC612713": {
-  "vin": "5N1DR2MM0JC612713",
-  "year": "2018",
-  "make": "Nissan",
-  "model": "Pathfinder 4x4 Platinum",
-  "price": 8950,
-  "miles": 141138,
-  "url": "https://cincyautomall.com/vdp/23918866/Used-2018-Nissan-Pathfinder-4x4-Platinum-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "5N1AT2MT0FC851214": {
   "vin": "5N1AT2MT0FC851214",
@@ -4763,18 +4631,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "5N1BT3AB1PC800571": {
-  "vin": "5N1BT3AB1PC800571",
-  "year": "2023",
-  "make": "Nissan",
-  "model": "Rogue AWD S",
-  "price": 15900,
-  "miles": 79228,
-  "url": "https://cincyautomall.com/vdp/24102977/Used-2023-Nissan-Rogue-AWD-S-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "5N1BT3BB2SC777129": {
   "vin": "5N1BT3BB2SC777129",
   "year": "2025",
@@ -4871,18 +4727,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "3N1AB8BV9SY335856": {
-  "vin": "3N1AB8BV9SY335856",
-  "year": "2025",
-  "make": "Nissan",
-  "model": "Sentra S CVT",
-  "price": 19900,
-  "miles": 27929,
-  "url": "https://cincyautomall.com/vdp/24205907/Used-2025-Nissan-Sentra-S-CVT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "1N6BA1F49KN516172": {
   "vin": "1N6BA1F49KN516172",
   "year": "2019",
@@ -4930,18 +4774,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "WP1AE2A24HLA75617": {
-  "vin": "WP1AE2A24HLA75617",
-  "year": "2017",
-  "make": "Porsche",
-  "model": "Cayenne S E-Hybrid AWD",
-  "price": 18500,
-  "miles": 97363,
-  "url": "https://cincyautomall.com/vdp/24230089/Used-2017-Porsche-Cayenne-S-EHybrid-AWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "WP1AA2AY3KDA10159": {
   "vin": "WP1AA2AY3KDA10159",
@@ -5301,7 +5133,7 @@
   "url": "https://cincyautomall.com/vdp/24300037/Used-2021-Tesla-Model-Y-Long-Range-AWD-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "4T1D21FBXLU012109": {
   "vin": "4T1D21FBXLU012109",
@@ -5411,18 +5243,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "4T1DAACK1TU741350": {
-  "vin": "4T1DAACK1TU741350",
-  "year": "2026",
-  "make": "Toyota",
-  "model": "Camry LE (Natl)",
-  "price": 26900,
-  "miles": 35801,
-  "url": "https://cincyautomall.com/vdp/24444218/Used-2026-Toyota-Camry-LE-Natl-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "7MUDAABG3PV046157": {
   "vin": "7MUDAABG3PV046157",
   "year": "2023",
@@ -5458,18 +5278,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "5TDJZRFH1HS511642": {
-  "vin": "5TDJZRFH1HS511642",
-  "year": "2017",
-  "make": "Toyota",
-  "model": "Highlander XLE V6 AWD (Natl)",
-  "price": 16900,
-  "miles": 159967,
-  "url": "https://cincyautomall.com/vdp/24272656/Used-2017-Toyota-Highlander-XLE-V6-AWD-Natl-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "5TDEBRCH1NS092956": {
   "vin": "5TDEBRCH1NS092956",
@@ -5519,18 +5327,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "4T3LWRFV0NU069230": {
-  "vin": "4T3LWRFV0NU069230",
-  "year": "2022",
-  "make": "Toyota",
-  "model": "RAV4 Hybrid LE AWD (Natl)",
-  "price": 24900,
-  "miles": 69448,
-  "url": "https://cincyautomall.com/vdp/24376104/Used-2022-Toyota-RAV4-Hybrid-LE-AWD-Natl-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "2T3RWRFV6RW202220": {
   "vin": "2T3RWRFV6RW202220",
   "year": "2024",
@@ -5566,18 +5362,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "2T3H1RFV2SC341696": {
-  "vin": "2T3H1RFV2SC341696",
-  "year": "2025",
-  "make": "Toyota",
-  "model": "RAV4 LE FWD (Natl)",
-  "price": 27900,
-  "miles": 13220,
-  "url": "https://cincyautomall.com/vdp/24434263/Used-2025-Toyota-RAV4-LE-FWD-Natl-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "5TDDY5G19DS076874": {
   "vin": "5TDDY5G19DS076874",
@@ -5637,7 +5421,7 @@
   "url": "https://cincyautomall.com/vdp/24344046/Used-2022-Toyota-Sienna-XLE-FWD-7Passenger-Natl-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "5TDKRKECXPS140142": {
   "vin": "5TDKRKECXPS140142",
@@ -5721,7 +5505,7 @@
   "url": "https://cincyautomall.com/vdp/24296348/Used-2021-Toyota-Tacoma-4WD-SR-Access-Cab-6-Bed-I4-AT-Natl-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "3TMCZ5AN2PM541827": {
   "vin": "3TMCZ5AN2PM541827",
@@ -6047,30 +5831,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "1FTYE1ZM6KKA67371": {
-  "vin": "1FTYE1ZM6KKA67371",
-  "year": "2019",
-  "make": "Ford",
-  "model": "Transit Van T-150 130\" Low Rf 8600 GVWR Swing-Out RH Dr",
-  "price": 16900,
-  "miles": 81543,
-  "url": "https://cincyautomall.com/vdp/24448522/Used-2019-Ford-Transit-Van-T150-130-Low-Rf-8600-GVWR-SwingOut-RH-Dr-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
- "1GCGTEEN6J1196299": {
-  "vin": "1GCGTEEN6J1196299",
-  "year": "2018",
-  "make": "Chevrolet",
-  "model": "Colorado 4WD Crew Cab 128.3\" ZR2",
-  "price": 23900,
-  "miles": 87644,
-  "url": "https://cincyautomall.com/vdp/24448523/Used-2018-Chevrolet-Colorado-4WD-Crew-Cab-1283-ZR2-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "JTHY3JBH8K2018450": {
   "vin": "JTHY3JBH8K2018450",
   "year": "2019",
@@ -6094,30 +5854,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "5TDZARFH7JS039849": {
-  "vin": "5TDZARFH7JS039849",
-  "year": "2018",
-  "make": "Toyota",
-  "model": "Highlander LE I4 FWD (Natl)",
-  "price": 14900,
-  "miles": 136084,
-  "url": "https://cincyautomall.com/vdp/24448529/Used-2018-Toyota-Highlander-LE-I4-FWD-Natl-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
- "5XYP5DHC9MG165180": {
-  "vin": "5XYP5DHC9MG165180",
-  "year": "2021",
-  "make": "Kia",
-  "model": "Telluride SX AWD",
-  "price": 19900,
-  "miles": 80648,
-  "url": "https://cincyautomall.com/vdp/24453031/Used-2021-Kia-Telluride-SX-AWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-31",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "3GNAXKEG7PL145851": {
   "vin": "3GNAXKEG7PL145851",
@@ -6227,18 +5963,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "SAJWA6AT9H8K45865": {
-  "vin": "SAJWA6AT9H8K45865",
-  "year": "2017",
-  "make": "Jaguar",
-  "model": "F-Type Coupe Auto",
-  "price": 22900,
-  "miles": 51112,
-  "url": "https://cincyautomall.com/vdp/24456957/Used-2017-Jaguar-FType-Coupe-Auto-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-31",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "1GE8K8C65BU500329": {
   "vin": "1GE8K8C65BU500329",
   "year": "2011",
@@ -6311,18 +6035,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "3FMCR9A66MRA98480": {
-  "vin": "3FMCR9A66MRA98480",
-  "year": "2021",
-  "make": "Ford",
-  "model": "Bronco Sport Base 4x4",
-  "price": 14900,
-  "miles": 69568,
-  "url": "https://cincyautomall.com/vdp/24239016/Used-2021-Ford-Bronco-Sport-Base-4x4-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-04",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "JHMZC5F1XJC005085": {
   "vin": "JHMZC5F1XJC005085",
   "year": "2018",
@@ -6347,18 +6059,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "2C3CA5CG8BH547231": {
-  "vin": "2C3CA5CG8BH547231",
-  "year": "2011",
-  "make": "Chrysler",
-  "model": "300 4dr Sdn Limited RWD",
-  "price": 5900,
-  "miles": 157569,
-  "url": "https://cincyautomall.com/vdp/24466782/Used-2011-Chrysler-300-4dr-Sdn-Limited-RWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-04",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "KM8J3CA42MU369113": {
   "vin": "KM8J3CA42MU369113",
   "year": "2021",
@@ -6371,18 +6071,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "3C4NJCBB0KT685853": {
-  "vin": "3C4NJCBB0KT685853",
-  "year": "2019",
-  "make": "Jeep",
-  "model": "Compass Altitude FWD",
-  "price": 7900,
-  "miles": 151566,
-  "url": "https://cincyautomall.com/vdp/24466784/Used-2019-Jeep-Compass-Altitude-FWD-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-04",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "1C4RJHEG1N8636072": {
   "vin": "1C4RJHEG1N8636072",
   "year": "2022",
@@ -6393,7 +6081,7 @@
   "url": "https://cincyautomall.com/vdp/24463033/Used-2022-Jeep-Grand-Cherokee-Summit-4x4-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-11-04",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "1GYS4BKJ2GR126505": {
   "vin": "1GYS4BKJ2GR126505",
@@ -6755,18 +6443,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "1FMJK2A56EEF17362": {
-  "vin": "1FMJK2A56EEF17362",
-  "year": "2014",
-  "make": "Ford",
-  "model": "Expedition EL 4WD 4dr Limited",
-  "price": null,
-  "miles": 218717,
-  "url": "https://cincyautomall.com/vdp/24479128/Used-2014-Ford-Expedition-EL-4WD-4dr-Limited-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-07",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "KNDPM3AC0K7592880": {
   "vin": "KNDPM3AC0K7592880",
   "year": "2019",
@@ -6802,30 +6478,6 @@
   "first_seen": "2026-11-09",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "2G1WV58N581363945": {
-  "vin": "2G1WV58N581363945",
-  "year": "2008",
-  "make": "Chevrolet",
-  "model": "Impala 4dr Sdn 3.5L LT 50th Anniversary",
-  "price": null,
-  "miles": 169980,
-  "url": "https://cincyautomall.com/vdp/24481377/Used-2008-Chevrolet-Impala-4dr-Sdn-35L-LT-50th-Anniversary-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
- "5TFUU4EN1EX101175": {
-  "vin": "5TFUU4EN1EX101175",
-  "year": "2014",
-  "make": "Toyota",
-  "model": "Tacoma 4WD Access Cab V6 MT (Natl)",
-  "price": null,
-  "miles": 159600,
-  "url": "https://cincyautomall.com/vdp/24481379/Used-2014-Toyota-Tacoma-4WD-Access-Cab-V6-MT-Natl-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "1C4RDJDG1HC717896": {
   "vin": "1C4RDJDG1HC717896",

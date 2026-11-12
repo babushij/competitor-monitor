@@ -251,18 +251,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "WUAAWCF52RA900027": {
-  "vin": "WUAAWCF52RA900027",
-  "year": "2024",
-  "make": "AUDI",
-  "model": "RS5 - SPORTBACK",
-  "price": 55000,
-  "miles": 10906,
-  "url": "/Inventory/Details?stock=GTX900027",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-11",
-  "misses": 1
- },
  "WAUC4CF56NA026073": {
   "vin": "WAUC4CF56NA026073",
   "year": "2022",
@@ -1126,18 +1114,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "5J6RM4H37FL013752": {
-  "vin": "5J6RM4H37FL013752",
-  "year": "2015",
-  "make": "HONDA",
-  "model": "CR-V - LX",
-  "price": 17000,
-  "miles": 77618,
-  "url": "/Inventory/Details?stock=GTX013752",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-11",
-  "misses": 1
  },
  "5J6RM4H75DL036978": {
   "vin": "5J6RM4H75DL036978",
@@ -3586,18 +3562,6 @@
   "first_seen": "2026-11-11",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "YSMFD3KA5RL221485": {
-  "vin": "YSMFD3KA5RL221485",
-  "year": "2024",
-  "make": "POLESTAR",
-  "model": "2",
-  "price": 0,
-  "miles": 14817,
-  "url": "/Inventory/Details?stock=GTG221485",
-  "first_seen": "2026-11-11",
-  "last_seen": "2026-11-11",
-  "misses": 1
  },
  "3TMJU4GN7EM166876": {
   "vin": "3TMJU4GN7EM166876",
