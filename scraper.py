@@ -18,8 +18,8 @@ DEALERS = {
              "url": "https://www.premier-autoinc.com/inventory",
              "cfs": True},
     "nw": {"name": "NW Automotive",
-             "url": "https://www.nag-cars.com/newandusedcars",
-             "dcs2": "/vdp/"},
+             "url": "https://nag-cars.com/inventory",
+             "vinlink": "/cars/"},
     "iao": {"name": "International Auto Outlet",
              "url": "https://www.internationalautooutlet.com/used-cars-cincinnati-ohio",
              "am": True},
@@ -291,7 +291,45 @@ def scrape_am(page, d):
         if new == 0: break
     return cars
 
+VINLINK_JS = r"""(pat) => {
+  const vre = /([A-HJ-NPR-Z0-9]{17})\/?$/i, out = {};
+  for (const a of document.querySelectorAll("a[href*='" + pat + "']")) {
+    const m = a.getAttribute("href").match(vre); if (!m) continue;
+    const vin = m[1].toUpperCase(); if (out[vin]) continue;
+    let el = a;
+    while (el.parentElement) {
+      const vins = new Set([...el.parentElement.querySelectorAll("a[href*='" + pat + "']")]
+        .map(x => (x.getAttribute("href").match(vre) || [])[1]).filter(Boolean).map(x => x.toUpperCase()));
+      if (vins.size > 1) break;
+      el = el.parentElement;
+    }
+    out[vin] = {vin, href: a.href, text: el.innerText.replace(/\s+/g, " ").slice(0, 800)};
+  }
+  return Object.values(out);
+}"""
+
+def scrape_vinlink(page, d):
+    cars = {}
+    page.goto(d["url"], wait_until="load", timeout=120000); page.wait_for_timeout(10000)
+    for n in range(1, 40):
+        new = 0
+        for r in page.evaluate(VINLINK_JS, d["vinlink"]):
+            if r["vin"] in cars: continue
+            cars[r["vin"]] = {"vin": r["vin"], **parse_card_text(r["text"]), "url": r["href"]}
+            new += 1
+            if len(cars) <= 2: print("  sample:", r["text"][:200])
+        print(f"  {d['name']} page {n}: +{new} (total {len(cars)})")
+        if new == 0 and n > 1: break
+        nxt = page.locator("a:has-text('Next'), button:has-text('Next')").first
+        try:
+            if nxt.count() == 0 or nxt.is_disabled(): break
+            nxt.click(); page.wait_for_timeout(6000)
+        except Exception as e:
+            print("  next failed", e); break
+    return cars
+
 def scrape(page, d, key=None):
+    if d.get("vinlink"): return scrape_vinlink(page, d)
     if d.get("am"): return scrape_am(page, d)
     if d.get("dcs2"): return scrape_dcs2(page, d)
     if d.get("cfs"): return scrape_cfs(page, d, key)
