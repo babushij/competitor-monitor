@@ -53,7 +53,9 @@ function render(){
  document.querySelectorAll("#rng button").forEach(x=>x.classList.toggle("on",x.dataset.v===String(range)));
  c7l.textContent="Sold · "+lbl;
  const list=sold.filter(s=>(!d||s.dealer==d)&&s.sold_detected>=a&&s.sold_detected<=b&&(`${s.year} ${s.make} ${s.model} ${s.vin}`.toLowerCase().includes(f)));
- list.sort((x,y)=>{let p=x[sk],r=y[sk]; if(typeof p==="string"||typeof r==="string"){p=String(p??"").toLowerCase();r=String(r??"").toLowerCase();} else{p=p??0;r=r??0;} return p<r?-sdir:p>r?sdir:0;});
+ const THEN={make:["model","year"],model:["make","year"],year:["make","model"],dealer:["make","model"]};
+ const cmp=(x,y,k)=>{let p=x[k],r=y[k]; if(typeof p==="string"||typeof r==="string"){p=String(p??"").toLowerCase();r=String(r??"").toLowerCase();} else{p=p??0;r=r??0;} return p<r?-1:p>r?1:0;};
+ list.sort((x,y)=>{let c=cmp(x,y,sk)*sdir; for(const k of (THEN[sk]||[])){if(c)break; c=cmp(x,y,k);} return c;});
  document.querySelectorAll("th[data-k]").forEach(th=>{th.textContent=th.textContent.replace(/ [▲▼]$/,"")+(th.dataset.k===sk?(sdir>0?" ▲":" ▼"):"");});
  c7.textContent=list.length;
  const avg=k=>list.length?Math.round(list.reduce((a,s)=>a+(s[k]||0),0)/list.length):0;
