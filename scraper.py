@@ -258,21 +258,15 @@ def scrape_dcs2(page, d):
         if new == 0: break
     return cars
 
-AM_JS = """() => {
+AM_JS = r"""() => {
   const out = [];
   for (const v of document.querySelectorAll("span.vin")) {
     let el = v;
-    for (let i = 0; i < 12 && el.parentElement; i++) {
-      el = el.parentElement;
-      if (/\$\s?[\d,]{4}/.test(el.innerText) && /\b(19|20)\d{2}\s+[A-Za-z]/.test(el.innerText)) break;
-    }
+    while (el.parentElement && el.parentElement.querySelectorAll("span.vin").length === 1) el = el.parentElement;
     let href = "";
-    for (const a of el.querySelectorAll("a[href]")) {
-      const h = a.href;
-      if (h.includes(location.hostname) && !h.includes("page=") && !h.includes("javascript")) { href = h; break; }
-    }
+    for (const a of el.querySelectorAll("a[href*='vehicle-details']")) { href = a.href; break; }
     const mi = el.querySelector("span.mileage");
-    out.push({vin: v.innerText.trim(), text: el.innerText.replace(/\s+/g, " ").slice(0, 600),
+    out.push({vin: v.innerText.trim(), text: el.innerText.replace(/\s+/g, " ").slice(0, 800),
               miles: mi ? mi.innerText : "", href});
   }
   return out;
