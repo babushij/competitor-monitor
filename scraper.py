@@ -20,6 +20,9 @@ DEALERS = {
     "nw": {"name": "NW Automotive",
              "url": "https://www.nag-cars.com/newandusedcars",
              "dcs2": "/vdp/"},
+    "iao": {"name": "International Auto Outlet",
+             "url": "https://www.internationalautooutlet.com/used-cars-cincinnati-ohio",
+             "am": True},
     "cag": {"name": "Cincinnati Auto Group", "no_verify": True,
              "url": "https://www.cag513.com/cars-for-sale",
              "linkcards": "/Inventory/Details/"},
@@ -255,7 +258,47 @@ def scrape_dcs2(page, d):
         if new == 0: break
     return cars
 
+AM_JS = """() => {
+  const out = [];
+  for (const v of document.querySelectorAll("span.vin")) {
+    let el = v;
+    for (let i = 0; i < 12 && el.parentElement; i++) {
+      el = el.parentElement;
+      if (/\$\s?[\d,]{4}/.test(el.innerText) && /\b(19|20)\d{2}\s+[A-Za-z]/.test(el.innerText)) break;
+    }
+    let href = "";
+    for (const a of el.querySelectorAll("a[href]")) {
+      const h = a.href;
+      if (h.includes(location.hostname) && !h.includes("page=") && !h.includes("javascript")) { href = h; break; }
+    }
+    const mi = el.querySelector("span.mileage");
+    out.push({vin: v.innerText.trim(), text: el.innerText.replace(/\s+/g, " ").slice(0, 600),
+              miles: mi ? mi.innerText : "", href});
+  }
+  return out;
+}"""
+
+def scrape_am(page, d):
+    cars = {}
+    for n in range(1, 40):
+        page.goto(f"{d['url']}?page={n}", wait_until="domcontentloaded", timeout=120000)
+        page.wait_for_timeout(6000)
+        new = 0
+        for r in page.evaluate(AM_JS):
+            v = r["vin"].upper()
+            if len(v) != 17 or v in cars: continue
+            c = parse_card_text(r["text"])
+            m = re.search(r"([\d,]+)", r["miles"] or "")
+            if m: c["miles"] = int(m.group(1).replace(",", ""))
+            cars[v] = {"vin": v, **c, "url": r["href"]}
+            new += 1
+            if len(cars) <= 2: print("  sample:", r["text"][:200])
+        print(f"  {d['name']} page {n}: +{new} (total {len(cars)})")
+        if new == 0: break
+    return cars
+
 def scrape(page, d, key=None):
+    if d.get("am"): return scrape_am(page, d)
     if d.get("dcs2"): return scrape_dcs2(page, d)
     if d.get("cfs"): return scrape_cfs(page, d, key)
     if d.get("linkcards"): return scrape_linkcards(page, d, key)
