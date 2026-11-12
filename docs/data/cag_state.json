@@ -12,19 +12,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "1LNHM83W83Y693083": {
-  "vin": "1LNHM83W83Y693083",
-  "lid": "e7033bcd-2b7e-4eb5-bcde-65b8ea948a98",
-  "year": "2003",
-  "make": "Lincoln",
-  "model": "Town Car Cartier",
-  "price": 7998,
-  "miles": 75424,
-  "url": "https://www.cag513.com/Inventory/Details/e7033bcd-2b7e-4eb5-bcde-65b8ea948a98",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
- },
  "1GCZGHFGXJ1275537": {
   "vin": "1GCZGHFGXJ1275537",
   "lid": "a7a304a2-3ea3-4ea8-8d7f-066c59db3423",
@@ -141,19 +128,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "1FMJU1GT1HEA71183": {
-  "vin": "1FMJU1GT1HEA71183",
-  "lid": "e00fa7f1-f88c-4115-8524-2b398e881579",
-  "year": "2017",
-  "make": "Ford",
-  "model": "Expedition XL Fleet",
-  "price": 21998,
-  "miles": 30071,
-  "url": "https://www.cag513.com/Inventory/Details/e00fa7f1-f88c-4115-8524-2b398e881579",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "2C3CDZC95GH335944": {
   "vin": "2C3CDZC95GH335944",
@@ -492,19 +466,6 @@
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "1G1YY26U275128814": {
-  "vin": "1G1YY26U275128814",
-  "lid": "30527951-05c7-4152-922f-61628b5abbf6",
-  "year": "2007",
-  "make": "Chevrolet",
-  "model": "Corvette Base",
-  "price": 19398,
-  "miles": 121757,
-  "url": "https://www.cag513.com/Inventory/Details/30527951-05c7-4152-922f-61628b5abbf6",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "1FA6P8CF0F5300658": {
   "vin": "1FA6P8CF0F5300658",

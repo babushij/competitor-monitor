@@ -143,18 +143,6 @@
   "last_seen": "2026-11-12",
   "misses": 0
  },
- "5UXUJ5C53K9A32749": {
-  "vin": "5UXUJ5C53K9A32749",
-  "year": "2019",
-  "make": "BMW",
-  "model": "X4 M40i Sports Activity Coupe",
-  "price": 20900,
-  "miles": 115479,
-  "url": "https://cincyautomall.com/vdp/24434266/Used-2019-BMW-X4-M40i-Sports-Activity-Coupe-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12",
-  "misses": 1
- },
  "5UXZV4C59D0B21947": {
   "vin": "5UXZV4C59D0B21947",
   "year": "2013",
@@ -1402,18 +1390,6 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "1GCVKREC0JZ182013": {
-  "vin": "1GCVKREC0JZ182013",
-  "year": "2018",
-  "make": "Chevrolet",
-  "model": "Silverado 1500 4WD Double Cab 143.5\" LT w/2LT",
-  "price": 21900,
-  "miles": 103618,
-  "url": "https://cincyautomall.com/vdp/24434264/Used-2018-Chevrolet-Silverado-1500-4WD-Double-Cab-1435-LT-w2LT-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-12",
-  "misses": 1
  },
  "3GCUKPEC6JG147573": {
   "vin": "3GCUKPEC6JG147573",
@@ -5133,7 +5109,7 @@
   "url": "https://cincyautomall.com/vdp/24300037/Used-2021-Tesla-Model-Y-Long-Range-AWD-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 1
+  "misses": 0
  },
  "4T1D21FBXLU012109": {
   "vin": "4T1D21FBXLU012109",
@@ -5421,7 +5397,7 @@
   "url": "https://cincyautomall.com/vdp/24344046/Used-2022-Toyota-Sienna-XLE-FWD-7Passenger-Natl-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 1
+  "misses": 0
  },
  "5TDKRKECXPS140142": {
   "vin": "5TDKRKECXPS140142",
@@ -5505,7 +5481,7 @@
   "url": "https://cincyautomall.com/vdp/24296348/Used-2021-Toyota-Tacoma-4WD-SR-Access-Cab-6-Bed-I4-AT-Natl-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-12",
-  "misses": 1
+  "misses": 0
  },
  "3TMCZ5AN2PM541827": {
   "vin": "3TMCZ5AN2PM541827",
@@ -6070,18 +6046,6 @@
   "first_seen": "2026-11-04",
   "last_seen": "2026-11-12",
   "misses": 0
- },
- "1C4RJHEG1N8636072": {
-  "vin": "1C4RJHEG1N8636072",
-  "year": "2022",
-  "make": "Jeep",
-  "model": "Grand Cherokee Summit 4x4",
-  "price": 23900,
-  "miles": 106858,
-  "url": "https://cincyautomall.com/vdp/24463033/Used-2022-Jeep-Grand-Cherokee-Summit-4x4-for-sale-in-Fairfield-OH-45014",
-  "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
-  "misses": 1
  },
  "1GYS4BKJ2GR126505": {
   "vin": "1GYS4BKJ2GR126505",
@@ -6656,6 +6620,42 @@
   "miles": 54665,
   "url": "https://cincyautomall.com/vdp/24484852/Used-2022-Dodge-Durango-SRT-392-AWD-for-sale-in-Fairfield-OH-45014",
   "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12",
+  "misses": 0
+ },
+ "5UXUJ5C53K9A32749": {
+  "vin": "5UXUJ5C53K9A32749",
+  "year": "2019",
+  "make": "BMW",
+  "model": "X4 M40i Sports Activity Coupe",
+  "price": 20900,
+  "miles": 115479,
+  "url": "https://cincyautomall.com/vdp/24434266/Used-2019-BMW-X4-M40i-Sports-Activity-Coupe-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-10-28",
+  "last_seen": "2026-11-12",
+  "misses": 0
+ },
+ "1GCVKREC0JZ182013": {
+  "vin": "1GCVKREC0JZ182013",
+  "year": "2018",
+  "make": "Chevrolet",
+  "model": "Silverado 1500 4WD Double Cab 143.5\" LT w/2LT",
+  "price": 21900,
+  "miles": 103618,
+  "url": "https://cincyautomall.com/vdp/24434264/Used-2018-Chevrolet-Silverado-1500-4WD-Double-Cab-1435-LT-w2LT-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-10-28",
+  "last_seen": "2026-11-12",
+  "misses": 0
+ },
+ "1C4RJHEG1N8636072": {
+  "vin": "1C4RJHEG1N8636072",
+  "year": "2022",
+  "make": "Jeep",
+  "model": "Grand Cherokee Summit 4x4",
+  "price": 23900,
+  "miles": 106858,
+  "url": "https://cincyautomall.com/vdp/24463033/Used-2022-Jeep-Grand-Cherokee-Summit-4x4-for-sale-in-Fairfield-OH-45014",
+  "first_seen": "2026-11-04",
   "last_seen": "2026-11-12",
   "misses": 0
  }
