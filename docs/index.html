@@ -30,7 +30,7 @@ th{background:#1e293b;position:sticky;top:0}
 <input id="q" placeholder="Search make, model, VIN"></div>
 <table><thead><tr><th data-k="sold_detected">Sold</th><th data-k="dealer">Dealer</th><th data-k="year">Year</th><th data-k="make">Make</th><th data-k="model">Model</th><th data-k="vin">VIN</th><th data-k="price">Price</th><th data-k="miles">Miles</th><th data-k="days_listed">Days</th></tr></thead><tbody id="rows"></tbody></table>
 <script>
-const PW="Ac5604592"; let sold=[]; const DEALERS={gtx:"GTX",cincyautomall:"Cincy AutoMall",becks:"Beck's",cag:"Cincinnati Auto",premier:"Premier",nw:"NW"};
+const PW="Ac5604592"; let sold=[]; const DEALERS={gtx:"GTX",cincyautomall:"Cincy AutoMall",becks:"Beck's",cag:"Cincinnati Auto",premier:"Premier",nw:"NW",iao:"Intl Auto Outlet"};
 function unlock(){ if(pw.value===PW){lock.remove();load();} }
 async function load(){
  sold=(await (await fetch("data/sold.json?"+Date.now())).json()).reverse();
