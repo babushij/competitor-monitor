@@ -3,13 +3,13 @@
   "vin": "4X4TSBY28JU083965",
   "year": "2018",
   "make": "Forest",
-  "model": "River Hemisphere",
+  "model": "River Hemisphere 1 Mi Automatic Pricing Details IN",
   "price": 19993,
-  "miles": 1,
-  "url": "https://www.nag-cars.com/vdp/18174859/Used-2018-Forest-River-Hemisphere-for-sale-in-Cincinnati-OH-45216",
+  "miles": null,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/forest-river/hemisphere/base/2018/4X4TSBY28JU083965",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
+  "last_seen": "2026-11-14",
+  "misses": 0
  },
  "1F66F5DN7L0A00130": {
   "vin": "1F66F5DN7L0A00130",
@@ -20,20 +20,8 @@
   "miles": 7722,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/f-53-motorhome-chassis/242-wb/2020/1F66F5DN7L0A00130",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
- },
- "WDDUG8GB7JA418415": {
-  "vin": "WDDUG8GB7JA418415",
-  "year": "2018",
-  "make": "Mercedes-Benz",
-  "model": "S-Class S 560 4MATIC Sedan",
-  "price": 29593,
-  "miles": 62368,
-  "url": "https://www.nag-cars.com/vdp/22948048/BuyHerePayHere-2018-MercedesBenz-SClass-S-560-4MATIC-Sedan-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "JTHSM5BC8H5003758": {
   "vin": "JTHSM5BC8H5003758",
@@ -44,7 +32,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/lexus/rc-300/base/2017/JTHSM5BC8H5003758",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5XXGR4A63EG264429": {
@@ -56,7 +44,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/optima/base/2014/5XXGR4A63EG264429",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GKKNULS6HZ222827": {
@@ -68,19 +56,19 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/gmc/acadia/base/2017/1GKKNULS6HZ222827",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KNDNB4H32R6304916": {
   "vin": "KNDNB4H32R6304916",
   "year": "2024",
   "make": "Kia",
-  "model": "Carnival Mpv LX FWD w/Seat Pkg",
-  "price": 22593,
-  "miles": 75193,
-  "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/carnival-mpv/lx-fwd-w-seat-pkg/2024/KNDNB4H32R6304916",
+  "model": "Carnival Mpv for sale",
+  "price": null,
+  "miles": null,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/carnival-mpv/base/2024/KNDNB4H32R6304916",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDUG8FB2FA194902": {
@@ -92,7 +80,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/s-550/base/2015/WDDUG8FB2FA194902",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C4RC1BG5NR117312": {
@@ -104,7 +92,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chrysler/pacifica/base/2022/2C4RC1BG5NR117312",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KMHEC4A48FA122707": {
@@ -116,19 +104,19 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/sonata-hybrid/base/2015/KMHEC4A48FA122707",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C6JJTEG0PL515072": {
   "vin": "1C6JJTEG0PL515072",
   "year": "2023",
   "make": "Jeep",
-  "model": "Gladiator Mojave 4x4",
-  "price": 23593,
-  "miles": 121852,
-  "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/gladiator/mojave-4x4/2023/1C6JJTEG0PL515072",
+  "model": "Gladiator for sale",
+  "price": null,
+  "miles": null,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/gladiator/base/2023/1C6JJTEG0PL515072",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1K3G4FB6LW045301": {
@@ -140,7 +128,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/a-220/base/2020/W1K3G4FB6LW045301",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDHF8JB2FB092683": {
@@ -152,7 +140,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/e-350/base/2015/WDDHF8JB2FB092683",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KM8J3CAL5KU848176": {
@@ -164,20 +152,8 @@
   "miles": 91525,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/tucson/sel-awd/2019/KM8J3CAL5KU848176",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
- },
- "WBXHT3C33J5F92179": {
-  "vin": "WBXHT3C33J5F92179",
-  "year": "2018",
-  "make": "BMW",
-  "model": "X1 xDrive28i Sports Activity Vehicle",
-  "price": 12093,
-  "miles": 80892,
-  "url": "https://www.nag-cars.com/vdp/24136897/BuyHerePayHere-2018-BMW-X1-xDrive28i-Sports-Activity-Vehicle-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "3LN6L2J93ER829433": {
   "vin": "3LN6L2J93ER829433",
@@ -189,7 +165,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/lincoln/mkz/4dr-sdn-awd/2014/3LN6L2J93ER829433",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "1G1ZB5ST3KF130370": {
   "vin": "1G1ZB5ST3KF130370",
@@ -200,7 +176,7 @@
   "miles": 75188,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/malibu/4dr-sdn-ls-w-1ls/2019/1G1ZB5ST3KF130370",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAU8DAF88MN021226": {
@@ -212,7 +188,7 @@
   "miles": 27520,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a8-l/l-55-tfsi-quattro/2021/WAU8DAF88MN021226",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFB2F54CH559118": {
@@ -224,7 +200,7 @@
   "miles": 69474,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/civic/4dr-auto-lx/2012/2HGFB2F54CH559118",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C4RC1L72JR248285": {
@@ -236,7 +212,7 @@
   "miles": 136852,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chrysler/pacifica-hybrid/hybrid-touring-l-fwd/2018/2C4RC1L72JR248285",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA8A9C57JK622724": {
@@ -248,7 +224,7 @@
   "miles": 96046,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/320i/320i-sedan/2018/WBA8A9C57JK622724",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "58ABK1GG8HU060757": {
@@ -260,7 +236,7 @@
   "miles": 107189,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/lexus/es-350/es-350-fwd/2017/58ABK1GG8HU060757",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UXTR9C53JLC82487": {
@@ -272,7 +248,7 @@
   "miles": 76908,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x3/xdrive30i-sports-activity-vehicle/2018/5UXTR9C53JLC82487",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UXFG2C59DL787686": {
@@ -284,7 +260,7 @@
   "miles": 101260,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x6/awd-4dr-xdrive35i/2013/5UXFG2C59DL787686",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDC0G4KB1KV121489": {
@@ -296,7 +272,7 @@
   "miles": 96495,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/glc-300/glc-300-4matic-suv/2019/WDC0G4KB1KV121489",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFC2F51JH603814": {
@@ -304,11 +280,11 @@
   "year": "2018",
   "make": "Honda",
   "model": "Civic LX CVT",
-  "price": 11993,
+  "price": 11593,
   "miles": 113916,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/civic/lx-cvt/2018/2HGFC2F51JH603814",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUGMAF41KA030945": {
@@ -320,7 +296,7 @@
   "miles": 92026,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a4/premium-40-tfsi/2019/WAUGMAF41KA030945",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KMHRB8A32MU089296": {
@@ -332,7 +308,7 @@
   "miles": 94345,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/venue/se-ivt/2021/KMHRB8A32MU089296",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1J4PP2GK0BW556235": {
@@ -344,7 +320,7 @@
   "miles": 192967,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/liberty/rwd-4dr-sport/2011/1J4PP2GK0BW556235",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1J4BA3H12AL187059": {
@@ -356,7 +332,7 @@
   "miles": 145903,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/wrangler-unlimited/4wd-4dr-sport/2010/1J4BA3H12AL187059",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FA6P8TH3F5428913": {
@@ -368,7 +344,7 @@
   "miles": 67643,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/mustang/2dr-fastback-ecoboost-premium/2015/1FA6P8TH3F5428913",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1G4PR5SK2H4111570": {
@@ -380,7 +356,7 @@
   "miles": 82791,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/buick/verano/4dr-sdn-sport-touring/2017/1G4PR5SK2H4111570",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1G1ZD5ST1JF268868": {
@@ -388,11 +364,11 @@
   "year": "2018",
   "make": "Chevrolet",
   "model": "Malibu 4dr Sdn LT w/1LT",
-  "price": 12993,
+  "price": 12593,
   "miles": 61590,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/malibu/4dr-sdn-lt-w-1lt/2018/1G1ZD5ST1JF268868",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FMJK1K57BEF12885": {
@@ -404,7 +380,7 @@
   "miles": 160971,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/expedition-el/2wd-4dr-limited/2011/1FMJK1K57BEF12885",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GCHTBENXL1195274": {
@@ -416,7 +392,7 @@
   "miles": 71489,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/colorado/4wd-ext-cab-128-work-truck/2020/1GCHTBENXL1195274",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1N0G8EB1MV318179": {
@@ -428,7 +404,7 @@
   "miles": 101733,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/glc-300/glc-300-4matic-suv/2021/W1N0G8EB1MV318179",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3KPF24AD5LE202650": {
@@ -440,7 +416,7 @@
   "miles": 86891,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/forte/lxs-ivt/2020/3KPF24AD5LE202650",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM3TCADY0M0513417": {
@@ -452,7 +428,7 @@
   "miles": 51240,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mazda/cx-9/grand-touring-fwd/2021/JM3TCADY0M0513417",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA7F0C58JGM23693": {
@@ -464,7 +440,7 @@
   "miles": 95003,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/750i/750i-sedan/2018/WBA7F0C58JGM23693",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FTEW1E55JKE72456": {
@@ -476,7 +452,7 @@
   "miles": 133230,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/f-150/xl-4wd-supercrew-55-box/2018/1FTEW1E55JKE72456",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBXJG7C05L5P31425": {
@@ -488,7 +464,7 @@
   "miles": 53799,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x1/sdrive28i-sports-activity-vehicle/2020/WBXJG7C05L5P31425",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAU78LFFXG1088741": {
@@ -500,7 +476,7 @@
   "miles": 83829,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a3/2dr-cabriolet-quattro-20t-premium/2016/WAU78LFFXG1088741",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4HJXDN1MW606022": {
@@ -512,7 +488,7 @@
   "miles": 22409,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/wrangler-unlimited/unlimited-sport-4x4/2021/1C4HJXDN1MW606022",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUAUGFF1K1022015": {
@@ -525,7 +501,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a3/premium-40-tfsi/2019/WAUAUGFF1K1022015",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "WAUDNAF44JA039282": {
   "vin": "WAUDNAF44JA039282",
@@ -536,7 +512,7 @@
   "miles": 69431,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a4/20-tfsi-premium-s-tronic-quattro-awd/2018/WAUDNAF44JA039282",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KM8J33A40LU272443": {
@@ -548,7 +524,7 @@
   "miles": 75183,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/tucson/value-fwd/2020/KM8J33A40LU272443",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JN1BJ0RR8GM271126": {
@@ -560,7 +536,7 @@
   "miles": 72106,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/infiniti/qx50/awd-4dr/2016/JN1BJ0RR8GM271126",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5N1AZ2MS7KN112345": {
@@ -572,7 +548,7 @@
   "miles": 95661,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/murano/awd-platinum/2019/5N1AZ2MS7KN112345",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WA1UFAFL8GA001631": {
@@ -584,7 +560,7 @@
   "miles": 123529,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/allroad/4dr-wgn-premium-plus/2016/WA1UFAFL8GA001631",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2FMHK6C8XJBA10774": {
@@ -592,11 +568,11 @@
   "year": "2018",
   "make": "Ford",
   "model": "Flex SEL AWD",
-  "price": 15493,
+  "price": 14593,
   "miles": 69733,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/flex/sel-awd/2018/2FMHK6C8XJBA10774",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA3R1C58FF774550": {
@@ -608,7 +584,7 @@
   "miles": 97872,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/435i/2dr-cpe-435i-rwd/2015/WBA3R1C58FF774550",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FT8W3DT7PEE09830": {
@@ -620,7 +596,7 @@
   "miles": 107184,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/f-350/xl-4wd-crew-cab-8-box/2023/1FT8W3DT7PEE09830",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3GYFNBE38ES660100": {
@@ -628,11 +604,11 @@
   "year": "2014",
   "make": "Cadillac",
   "model": "SRX FWD 4dr Luxury Collection",
-  "price": 9993,
+  "price": 9593,
   "miles": 94081,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/cadillac/srx/fwd-4dr-luxury-collection/2014/3GYFNBE38ES660100",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5N1DL0MM8LC503649": {
@@ -640,11 +616,11 @@
   "year": "2020",
   "make": "INFINITI",
   "model": "Qx60 LUXE AWD",
-  "price": 15493,
+  "price": 14993,
   "miles": 93165,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/infiniti/qx60/luxe-awd/2020/5N1DL0MM8LC503649",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4BJWDG2DL632454": {
@@ -657,18 +633,18 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/wrangler-unlimited/4wd-4dr-sport/2013/1C4BJWDG2DL632454",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "2C3CCAGGXKH611007": {
   "vin": "2C3CCAGGXKH611007",
   "year": "2019",
   "make": "Chrysler",
   "model": "300 300S AWD",
-  "price": 16993,
+  "price": 16593,
   "miles": 101205,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chrysler/300/300s-awd/2019/2C3CCAGGXKH611007",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GNEVFKW1MJ158821": {
@@ -676,11 +652,11 @@
   "year": "2021",
   "make": "Chevrolet",
   "model": "Traverse AWD 4dr LS w/1LS",
-  "price": 19493,
+  "price": 18593,
   "miles": 51448,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/traverse/awd-4dr-ls-w-1ls/2021/1GNEVFKW1MJ158821",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FMJU1JT4LEA42682": {
@@ -692,7 +668,7 @@
   "miles": 111552,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/expedition/xlt-4x4/2020/1FMJU1JT4LEA42682",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5LMJJ2MT3JEL07631": {
@@ -704,7 +680,7 @@
   "miles": 74480,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/lincoln/navigator/4x2-premiere/2018/5LMJJ2MT3JEL07631",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "55SWF8DB3KU296136": {
@@ -716,7 +692,7 @@
   "miles": 87902,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/c-300/c-300-sedan/2019/55SWF8DB3KU296136",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4PJMBX5MD241726": {
@@ -728,7 +704,7 @@
   "miles": 67219,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/cherokee/trailhawk-4x4/2021/1C4PJMBX5MD241726",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FATP8UH1H5245157": {
@@ -740,7 +716,7 @@
   "miles": 96188,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/mustang/ecoboost-premium-convertible/2017/1FATP8UH1H5245157",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2FMPK3K94JBB09207": {
@@ -752,20 +728,8 @@
   "miles": 76578,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/edge/titanium-fwd/2018/2FMPK3K94JBB09207",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
- },
- "KMHC65LC7JU100715": {
-  "vin": "KMHC65LC7JU100715",
-  "year": "2018",
-  "make": "Hyundai",
-  "model": "Ioniq Hybrid Blue Hatchback",
-  "price": 17493,
-  "miles": 8970,
-  "url": "https://www.nag-cars.com/vdp/24414219/BuyHerePayHere-2018-Hyundai-Ioniq-Hybrid-Blue-Hatchback-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "SALWV2SV0JA802620": {
   "vin": "SALWV2SV0JA802620",
@@ -776,7 +740,7 @@
   "miles": 100250,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/land-rover/range-rover-sport/v6-supercharged-hse-dynamic/2018/SALWV2SV0JA802620",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM3KFABM7L0847090": {
@@ -788,7 +752,7 @@
   "miles": 65909,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mazda/cx-5/sport-fwd/2020/JM3KFABM7L0847090",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JC1NFAEK9H0105763": {
@@ -800,20 +764,8 @@
   "miles": 11496,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/fiat/124-spider/lusso-convertible/2017/JC1NFAEK9H0105763",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
- },
- "WBA3B5C5XFF963468": {
-  "vin": "WBA3B5C5XFF963468",
-  "year": "2015",
-  "make": "BMW",
-  "model": "3 Series 4dr Sdn 328i xDrive AWD SULEV",
-  "price": 9993,
-  "miles": 110933,
-  "url": "https://www.nag-cars.com/vdp/24417704/BuyHerePayHere-2015-BMW-3-Series-4dr-Sdn-328i-xDrive-AWD-SULEV-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "JN1DF0BB2RM742794": {
   "vin": "JN1DF0BB2RM742794",
@@ -825,7 +777,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/ariya/evolve-e-4orce-awd/2024/JN1DF0BB2RM742794",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "TRUC5AFV9J1012334": {
   "vin": "TRUC5AFV9J1012334",
@@ -836,7 +788,7 @@
   "miles": 84359,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/tt/20-tfsi/2018/TRUC5AFV9J1012334",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "19UUA8F54EA000098": {
@@ -848,7 +800,7 @@
   "miles": 126868,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/acura/tl/4dr-sdn-auto-2wd-tech/2014/19UUA8F54EA000098",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JA4ATWAA1NZ001046": {
@@ -860,7 +812,7 @@
   "miles": 98686,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mitsubishi/eclipse-cross/se-s-awc/2022/JA4ATWAA1NZ001046",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2FMPK3K97LBA16104": {
@@ -873,7 +825,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/edge/titanium-fwd/2020/2FMPK3K97LBA16104",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "5UXTY5C06M9G28663": {
   "vin": "5UXTY5C06M9G28663",
@@ -884,7 +836,7 @@
   "miles": 79481,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x3/xdrive30i-sports-activity-vehicle/2021/5UXTY5C06M9G28663",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KM8K1CAA1LU566739": {
@@ -896,7 +848,7 @@
   "miles": 79351,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/kona/se-auto-awd/2020/KM8K1CAA1LU566739",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1G6AW5SX5H0186756": {
@@ -909,7 +861,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/cadillac/cts/4dr-sdn-20l-turbo-awd/2017/1G6AW5SX5H0186756",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "KL4MMDS27MB073009": {
   "vin": "KL4MMDS27MB073009",
@@ -920,7 +872,7 @@
   "miles": 81443,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/buick/encore-gx/fwd-4dr-select/2021/KL4MMDS27MB073009",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "SHHFK7H49JU237799": {
@@ -933,7 +885,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/civic/sport-cvt/2018/SHHFK7H49JU237799",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "JM3KFBBL0H0139770": {
   "vin": "JM3KFBBL0H0139770",
@@ -944,7 +896,7 @@
   "miles": 100403,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mazda/cx-5/sport-awd/2017/JM3KFBBL0H0139770",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "ZARFANBN8L7636227": {
@@ -956,7 +908,7 @@
   "miles": 67244,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/alfa-romeo/giulia/ti-sport-awd/2020/ZARFANBN8L7636227",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WP0AB2A75DL060589": {
@@ -969,7 +921,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/porsche/panamera/base/2013/WP0AB2A75DL060589",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "5YJXCDE2XJF118230": {
   "vin": "5YJXCDE2XJF118230",
@@ -980,7 +932,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/tesla/model-x/base/2018/5YJXCDE2XJF118230",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF1VA2S64L9820698": {
@@ -993,7 +945,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/wrx-sti/base/2020/JF1VA2S64L9820698",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "JF2SJAGC2JH527781": {
   "vin": "JF2SJAGC2JH527781",
@@ -1004,7 +956,7 @@
   "miles": null,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/forester/base/2018/JF2SJAGC2JH527781",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3VWBM7BU7PM026735": {
@@ -1016,7 +968,7 @@
   "miles": 42853,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/volkswagen/jetta/sport-auto/2023/3VWBM7BU7PM026735",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JN1BJ1AW3MW421232": {
@@ -1028,7 +980,7 @@
   "miles": 107621,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/rogue-sport/awd-s/2021/JN1BJ1AW3MW421232",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5YFB4MDE9PP003134": {
@@ -1040,7 +992,7 @@
   "miles": 93264,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/corolla/le-cvt-natl/2023/5YFB4MDE9PP003134",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF1VA1H61L9827206": {
@@ -1052,7 +1004,7 @@
   "miles": 107861,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/wrx/limited-manual/2020/JF1VA1H61L9827206",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDKN3DU5F0415820": {
@@ -1064,7 +1016,7 @@
   "miles": 123622,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/unknown/unknown/base/2015/JTDKN3DU5F0415820",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1BK36B58U273089": {
@@ -1076,7 +1028,7 @@
   "miles": 223973,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/avalon/4dr-sdn-limited-natl/2008/4T1BK36B58U273089",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "LYV402TM8HB147161": {
@@ -1088,7 +1040,7 @@
   "miles": 108562,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/volvo/s60-inscription/t5-awd-inscription-platinum/2017/LYV402TM8HB147161",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEBU5JR9G5394095": {
@@ -1100,7 +1052,7 @@
   "miles": 144060,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/4runner/4wd-4dr-v6-sr5-natl/2016/JTEBU5JR9G5394095",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF1GPAA64F8231955": {
@@ -1112,7 +1064,7 @@
   "miles": 98203,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/impreza/5dr-cvt-20i/2015/JF1GPAA64F8231955",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S4BTACC9L3132183": {
@@ -1124,7 +1076,7 @@
   "miles": 130252,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/outback/premium-cvt/2020/4S4BTACC9L3132183",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WVGKMPE28MP034549": {
@@ -1136,7 +1088,7 @@
   "miles": 79379,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/volkswagen/id4/pro-s-rwd/2021/WVGKMPE28MP034549",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1T11AK7PU081903": {
@@ -1144,11 +1096,11 @@
   "year": "2023",
   "make": "Toyota",
   "model": "Camry SE Nightshade Auto (SE)",
-  "price": 18993,
+  "price": 18593,
   "miles": 102538,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/camry/se-nightshade-auto-se/2023/4T1T11AK7PU081903",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WP1AA2A55JLB06319": {
@@ -1160,7 +1112,7 @@
   "miles": 51986,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/porsche/macan/sport-edition-awd/2018/WP1AA2A55JLB06319",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF2GTALC0JH213309": {
@@ -1168,11 +1120,11 @@
   "year": "2018",
   "make": "Subaru",
   "model": "Crosstrek 2.0i Limited CVT",
-  "price": 17493,
+  "price": 16993,
   "miles": 62894,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/crosstrek/20i-limited-cvt/2018/JF2GTALC0JH213309",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3VW117AU6KM509129": {
@@ -1180,11 +1132,11 @@
   "year": "2019",
   "make": "Volkswagen",
   "model": "Golf Sportwagen 1.8T S Auto 4MOTION",
-  "price": 10993,
+  "price": 10593,
   "miles": 121760,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/volkswagen/golf-sportwagen/18t-s-auto-4motion/2019/3VW117AU6KM509129",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF2GTAMCXJH350403": {
@@ -1192,11 +1144,11 @@
   "year": "2018",
   "make": "Subaru",
   "model": "Crosstrek 2.0i Limited CVT",
-  "price": 15493,
+  "price": 14593,
   "miles": 88673,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/crosstrek/20i-limited-cvt/2018/JF2GTAMCXJH350403",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S3GTAA65H3710472": {
@@ -1208,7 +1160,7 @@
   "miles": 102849,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/impreza/20i-5-door-cvt/2017/4S3GTAA65H3710472",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF2GTALC5JH289463": {
@@ -1220,7 +1172,7 @@
   "miles": 82935,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/crosstrek/20i-limited-cvt/2018/JF2GTALC5JH289463",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2T3W1RFV1LC083373": {
@@ -1232,7 +1184,7 @@
   "miles": 118951,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/rav4/xle-fwd-natl/2020/2T3W1RFV1LC083373",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5N1BT3BB6PC861252": {
@@ -1244,7 +1196,7 @@
   "miles": 90599,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/rogue/awd-sv/2023/5N1BT3BB6PC861252",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3N1AB8CV8RY330513": {
@@ -1256,20 +1208,8 @@
   "miles": 54423,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/sentra/sv-cvt/2024/3N1AB8CV8RY330513",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
- },
- "5N1AT2MV6JC789540": {
-  "vin": "5N1AT2MV6JC789540",
-  "year": "2018",
-  "make": "Nissan",
-  "model": "Rogue AWD SV",
-  "price": 9593,
-  "miles": 107280,
-  "url": "https://www.nag-cars.com/vdp/24437204/BuyHerePayHere-2018-Nissan-Rogue-AWD-SV-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "JTDZN3EU7HJ063592": {
   "vin": "JTDZN3EU7HJ063592",
@@ -1280,7 +1220,7 @@
   "miles": 121341,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/prius-v/three-natl/2017/JTDZN3EU7HJ063592",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5YJ3E1EA9MF939726": {
@@ -1292,7 +1232,7 @@
   "miles": 77227,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/tesla/model-3/standard-range-plus-rwd/2021/5YJ3E1EA9MF939726",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3KPF54AD6RE699143": {
@@ -1304,7 +1244,7 @@
   "miles": 30464,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/forte/gt-line-ivt/2024/3KPF54AD6RE699143",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KM8J33A22HU328307": {
@@ -1316,7 +1256,7 @@
   "miles": 87399,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/tucson/limited-fwd/2017/KM8J33A22HU328307",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W04GV8SX5J1066011": {
@@ -1328,7 +1268,7 @@
   "miles": 77003,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/buick/regal-tourx/5dr-wgn-essence-awd/2018/W04GV8SX5J1066011",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEAAAAH6NJ105201": {
@@ -1340,7 +1280,7 @@
   "miles": 93465,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/venza/xle-awd-natl/2022/JTEAAAAH6NJ105201",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUENAF44JN008143": {
@@ -1352,7 +1292,7 @@
   "miles": 81487,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a4/20-tfsi-premium-plus-s-tronic-quattro-awd/2018/WAUENAF44JN008143",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3KPF34AD7ME313148": {
@@ -1364,7 +1304,7 @@
   "miles": 88982,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/forte/gt-line-ivt/2021/3KPF34AD7ME313148",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUBNCF54JA006178": {
@@ -1376,7 +1316,7 @@
   "miles": 71023,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a5/20-tfsi-premium-plus/2018/WAUBNCF54JA006178",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4RJFAGXKC736710": {
@@ -1388,7 +1328,7 @@
   "miles": 124865,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/grand-cherokee/laredo-e-4x4/2019/1C4RJFAGXKC736710",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FAHP2KT2EG133624": {
@@ -1400,7 +1340,7 @@
   "miles": 79151,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/taurus/4dr-sdn-sho-awd/2014/1FAHP2KT2EG133624",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM1BM1K7XE1205498": {
@@ -1412,7 +1352,7 @@
   "miles": 54203,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mazda/mazda3-hatchback/5dr-hb-auto-i-sport/2014/JM1BM1K7XE1205498",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA4J3C59JBG91154": {
@@ -1424,7 +1364,7 @@
   "miles": 100549,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/430i-gran-coupe/430i-xdrive-gran-coupe/2018/WBA4J3C59JBG91154",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1HGCV1F13KA077979": {
@@ -1437,7 +1377,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/accord/lx-15t-cvt/2019/1HGCV1F13KA077979",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "3MVDMADM4MM214483": {
   "vin": "3MVDMADM4MM214483",
@@ -1448,7 +1388,7 @@
   "miles": 77647,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mazda/cx-30/premium-fwd/2021/3MVDMADM4MM214483",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5YJ3E1EA6PF397117": {
@@ -1460,7 +1400,7 @@
   "miles": 128107,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/tesla/model-3/rwd/2023/5YJ3E1EA6PF397117",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3HGGK5H83FM726944": {
@@ -1472,7 +1412,7 @@
   "miles": 73247,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/unknown/unknown/base/2015/3HGGK5H83FM726944",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FNYF6H29MB070775": {
@@ -1484,7 +1424,7 @@
   "miles": 105535,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/pilot/special-edition-awd/2021/5FNYF6H29MB070775",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KMHDH4AE0DU830841": {
@@ -1496,7 +1436,7 @@
   "miles": 50854,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/elantra/4dr-sdn-auto-gls-pzev-ulsan-plant/2013/KMHDH4AE0DU830841",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KNDPM3AC1N7977286": {
@@ -1508,7 +1448,7 @@
   "miles": 70732,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/sportage/lx-fwd/2022/KNDPM3AC1N7977286",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUENAF40KA003143": {
@@ -1520,7 +1460,7 @@
   "miles": 105982,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a4/premium-plus-45-tfsi-quattro/2019/WAUENAF40KA003143",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3N1CN8FV5ML812485": {
@@ -1532,7 +1472,7 @@
   "miles": 30532,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/versa/sr-cvt/2021/3N1CN8FV5ML812485",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C6RR7VT4DS702574": {
@@ -1544,7 +1484,7 @@
   "miles": 116451,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ram/1500/4wd-crew-cab-149-laramie/2013/1C6RR7VT4DS702574",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3GNAXSEV9JL125509": {
@@ -1556,7 +1496,7 @@
   "miles": 23615,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/equinox/awd-4dr-lt-w-1lt/2018/3GNAXSEV9JL125509",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2LMPJ8LR2JBL26337": {
@@ -1568,7 +1508,7 @@
   "miles": 91205,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/lincoln/mkx/reserve-awd/2018/2LMPJ8LR2JBL26337",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WP1AA2A5XJLB07790": {
@@ -1580,7 +1520,7 @@
   "miles": 32254,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/porsche/macan/awd/2018/WP1AA2A5XJLB07790",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4PJMBN3KD116459": {
@@ -1592,7 +1532,7 @@
   "miles": 102832,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/cherokee/trailhawk-elite-4x4/2019/1C4PJMBN3KD116459",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUD8AF22KN121107": {
@@ -1604,7 +1544,7 @@
   "miles": 97341,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a6/premium-45-tfsi-quattro/2019/WAUD8AF22KN121107",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA2M7C05L7E99262": {
@@ -1616,7 +1556,7 @@
   "miles": 104991,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/230i/230i-convertible/2020/WBA2M7C05L7E99262",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDBW5G15HS150441": {
@@ -1628,7 +1568,7 @@
   "miles": 108706,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/sequoia/sr5-4wd-ffv-natl/2017/5TDBW5G15HS150441",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1G1YY32G945116676": {
@@ -1640,7 +1580,7 @@
   "miles": 55506,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/corvette/2dr-convertible/2004/1G1YY32G945116676",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2GNAXVEX7L6226106": {
@@ -1652,7 +1592,7 @@
   "miles": 112125,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/equinox/awd-4dr-lt-w-2lt/2020/2GNAXVEX7L6226106",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3N1CN8EV9ML871900": {
@@ -1664,7 +1604,7 @@
   "miles": 104855,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/versa/sv-cvt/2021/3N1CN8EV9ML871900",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JN8AY2NC4J9555661": {
@@ -1676,7 +1616,7 @@
   "miles": 79710,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/armada/4x4-sv/2018/JN8AY2NC4J9555661",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDD3G4FB3KW020502": {
@@ -1688,7 +1628,7 @@
   "miles": 88725,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/a-220/a-220-4matic-sedan/2019/WDD3G4FB3KW020502",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3VW4T7AU2GM049580": {
@@ -1700,7 +1640,7 @@
   "miles": 94786,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/volkswagen/golf-gti/4dr-hb-dsg-se/2016/3VW4T7AU2GM049580",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBXHT3C38GP883755": {
@@ -1712,7 +1652,7 @@
   "miles": 94419,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x1/awd-4dr-xdrive28i/2016/WBXHT3C38GP883755",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDSJ4GB0JN697538": {
@@ -1725,7 +1665,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mercedes-benz/cla-250/cla-250-4matic-coupe/2018/WDDSJ4GB0JN697538",
   "first_seen": "2026-11-07",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "1FTFW1ET4EKF96162": {
   "vin": "1FTFW1ET4EKF96162",
@@ -1736,7 +1676,7 @@
   "miles": 198425,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/f-150/4wd-supercrew-145-xlt/2014/1FTFW1ET4EKF96162",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GNSKCKJ9JR260606": {
@@ -1748,7 +1688,7 @@
   "miles": 104406,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/tahoe/4wd-4dr-premier/2018/1GNSKCKJ9JR260606",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1G1YL2D74E5106354": {
@@ -1760,7 +1700,7 @@
   "miles": 73820,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/corvette-stingray/2dr-z51-cpe-w-3lt/2014/1G1YL2D74E5106354",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2T1BURHE7FC444122": {
@@ -1772,7 +1712,7 @@
   "miles": 86873,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/unknown/unknown/base/2015/2T1BURHE7FC444122",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KL4CJESM3NB515152": {
@@ -1784,7 +1724,7 @@
   "miles": 36081,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/buick/encore/awd-4dr-preferred/2022/KL4CJESM3NB515152",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5XYZWDLAXJG529307": {
@@ -1796,7 +1736,7 @@
   "miles": 114050,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/santa-fe-sport/20t-ultimate-auto-awd/2018/5XYZWDLAXJG529307",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UXCR6C58KLK88928": {
@@ -1808,7 +1748,7 @@
   "miles": 105013,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x5/xdrive40i-sports-activity-vehicle/2019/5UXCR6C58KLK88928",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "MAJ3S2GE8LC337948": {
@@ -1820,7 +1760,7 @@
   "miles": 36881,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/ecosport/se-fwd/2020/MAJ3S2GE8LC337948",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UXTR9C59KLP87416": {
@@ -1832,7 +1772,7 @@
   "miles": 85604,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/bmw/x3/xdrive30i-sports-activity-vehicle/2019/5UXTR9C59KLP87416",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1N4BL4CVXNN310915": {
@@ -1844,7 +1784,7 @@
   "miles": 84553,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/nissan/altima/25-sr-sedan/2022/1N4BL4CVXNN310915",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FTFW1ED2MFC42527": {
@@ -1856,7 +1796,7 @@
   "miles": 119909,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/f-150/xlt-4wd-supercrew-55-box/2021/1FTFW1ED2MFC42527",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1HGCT2B89GA001253": {
@@ -1868,7 +1808,7 @@
   "miles": 134029,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/accord/2dr-v6-auto-ex-l/2016/1HGCT2B89GA001253",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1HGCV1F37LA151956": {
@@ -1880,20 +1820,8 @@
   "miles": 52644,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/accord/sport-15t-cvt/2020/1HGCV1F37LA151956",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
- },
- "JTEBU5JR1G5394379": {
-  "vin": "JTEBU5JR1G5394379",
-  "year": "2016",
-  "make": "Toyota",
-  "model": "4Runner 4WD 4dr V6 Limited (Natl)",
-  "price": 22593,
-  "miles": 127468,
-  "url": "https://www.nag-cars.com/vdp/24481927/BuyHerePayHere-2016-Toyota-4Runner-4WD-4dr-V6-Limited-Natl-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-09",
-  "misses": 1
  },
  "5J6RE4H77AL089562": {
   "vin": "5J6RE4H77AL089562",
@@ -1905,7 +1833,7 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/honda/cr-v/4wd-5dr-ex-l/2010/5J6RE4H77AL089562",
   "first_seen": "2026-11-09",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "WA1BNAFY1K2070976": {
   "vin": "WA1BNAFY1K2070976",
@@ -1917,18 +1845,6 @@
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/q5/premium-plus-45-tfsi-quattro/2019/WA1BNAFY1K2070976",
   "first_seen": "2026-11-09",
   "last_seen": "2026-11-12",
-  "misses": 0
- },
- "WAUC4CF52JA010575": {
-  "vin": "WAUC4CF52JA010575",
-  "year": "2018",
-  "make": "Audi",
-  "model": "S5 Sportback 3.0 TFSI Prestige",
-  "price": 20593,
-  "miles": 98755,
-  "url": "https://www.nag-cars.com/vdp/24481930/BuyHerePayHere-2018-Audi-S5-Sportback-30-TFSI-Prestige-for-sale-in-Cincinnati-OH-45216",
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-09",
   "misses": 1
  },
  "WAUS2AF20LN041623": {
@@ -1940,7 +1856,7 @@
   "miles": 102023,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/a7-sportback/prestige-55-tfsi-quattro/2020/WAUS2AF20LN041623",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5LMCJ2C94HUL69134": {
@@ -1952,7 +1868,7 @@
   "miles": 91393,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/lincoln/mkc/select-fwd/2017/5LMCJ2C94HUL69134",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUB4CF51KA080484": {
@@ -1964,7 +1880,7 @@
   "miles": 84635,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/audi/s5/premium-plus-30-tfsi-quattro/2019/WAUB4CF51KA080484",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JH4CW2H62CC005668": {
@@ -1976,7 +1892,7 @@
   "miles": 151400,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/acura/tsx/5dr-sport-wgn-i4-auto-tech-pkg/2012/JH4CW2H62CC005668",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3FTTW8F90NRA18294": {
@@ -1988,7 +1904,7 @@
   "miles": 114589,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/ford/maverick/xlt-awd-supercrew/2022/3FTTW8F90NRA18294",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GCPYDEK2KZ352908": {
@@ -2000,7 +1916,7 @@
   "miles": 120470,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/chevrolet/silverado-1500/4wd-crew-cab-147-lt/2019/1GCPYDEK2KZ352908",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JA4AT5AA5LZ015846": {
@@ -2012,7 +1928,7 @@
   "miles": 66408,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/mitsubishi/eclipse-cross/se-s-awc/2020/JA4AT5AA5LZ015846",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF2GTHSC9MH213002": {
@@ -2024,7 +1940,7 @@
   "miles": 47294,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/subaru/crosstrek/sport-cvt/2021/JF2GTHSC9MH213002",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KMHLM4DG0RU650268": {
@@ -2036,7 +1952,7 @@
   "miles": 61927,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/hyundai/elantra/sel-ivt/2024/KMHLM4DG0RU650268",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDKARFU8J3059723": {
@@ -2048,7 +1964,91 @@
   "miles": 184455,
   "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/prius/two-natl/2018/JTDKARFU8J3059723",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "1C4RJFBG9KC532611": {
+  "vin": "1C4RJFBG9KC532611",
+  "year": "2019",
+  "make": "Jeep",
+  "model": "Grand Cherokee Limited 4x4",
+  "price": 15593,
+  "miles": 88241,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/jeep/grand-cherokee/limited-4x4/2019/1C4RJFBG9KC532611",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "JTEBU5JR1D5150209": {
+  "vin": "JTEBU5JR1D5150209",
+  "year": "2013",
+  "make": "Toyota",
+  "model": "4Runner 4WD 4dr V6 SR5 (Natl)",
+  "price": 20593,
+  "miles": 83595,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/4runner/4wd-4dr-v6-sr5-natl/2013/JTEBU5JR1D5150209",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "5TDKKRFH3GS171823": {
+  "vin": "5TDKKRFH3GS171823",
+  "year": "2016",
+  "make": "Toyota",
+  "model": "Highlander FWD 4dr V6 XLE (Natl)",
+  "price": 18593,
+  "miles": 78721,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/toyota/highlander/fwd-4dr-v6-xle-natl/2016/5TDKKRFH3GS171823",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "5XYP5DHC7LG082555": {
+  "vin": "5XYP5DHC7LG082555",
+  "year": "2020",
+  "make": "Kia",
+  "model": "Telluride SX AWD",
+  "price": 18093,
+  "miles": 99246,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/telluride/sx-awd/2020/5XYP5DHC7LG082555",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "5LMCJ1C92NUL16891": {
+  "vin": "5LMCJ1C92NUL16891",
+  "year": "2022",
+  "make": "Lincoln",
+  "model": "Corsair Standard FWD",
+  "price": 17593,
+  "miles": 90583,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/lincoln/corsair/standard-fwd/2022/5LMCJ1C92NUL16891",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "1FTEX1E86FFC44537": {
+  "vin": "1FTEX1E86FFC44537",
+  "year": "",
+  "make": "",
+  "model": "",
+  "price": 17593,
+  "miles": 71928,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/unknown/unknown/base/2015/1FTEX1E86FFC44537",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "misses": 0
+ },
+ "KNDERCAA6M7050080": {
+  "vin": "KNDERCAA6M7050080",
+  "year": "2021",
+  "make": "Kia",
+  "model": "Seltos EX IVT AWD",
+  "price": 13093,
+  "miles": 107140,
+  "url": "https://nag-cars.com/nwautomotivegroup/cars/kia/seltos/ex-ivt-awd/2021/KNDERCAA6M7050080",
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
   "misses": 0
  }
 }

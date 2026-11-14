@@ -10,7 +10,7 @@
   "url": "https://www.becksautogroup.com/details/used-2015-acura-tlx/126906755",
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-12",
-  "misses": 0
+  "misses": 1
  },
  "5FRYD4H81HB022027": {
   "vin": "5FRYD4H81HB022027",
@@ -18,11 +18,11 @@
   "year": "2017",
   "make": "Acura",
   "model": "MDX SH-AWD w/Advance",
-  "price": 18495,
+  "price": 18490,
   "miles": 97990,
   "url": "https://www.becksautogroup.com/details/used-2017-acura-mdx/130732661",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "19UUB2F58FA007289": {
@@ -31,11 +31,11 @@
   "year": "2015",
   "make": "Acura",
   "model": "TLX V6 w/Tech",
-  "price": 13495,
+  "price": 12995,
   "miles": 128728,
   "url": "https://www.becksautogroup.com/details/used-2015-acura-tlx/129546671",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FRYD4H40GB006753": {
@@ -44,11 +44,11 @@
   "year": "2016",
   "make": "Acura",
   "model": "MDX",
-  "price": 11495,
+  "price": 10995,
   "miles": 168127,
   "url": "https://www.becksautogroup.com/details/used-2016-acura-mdx/129608684",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5J8TC2H84PL017341": {
@@ -61,7 +61,7 @@
   "miles": 99669,
   "url": "https://www.becksautogroup.com/details/used-2023-acura-rdx/122595360",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5J8TC2H50LL035223": {
@@ -74,7 +74,7 @@
   "miles": 100546,
   "url": "https://www.becksautogroup.com/details/used-2020-acura-rdx/131384808",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "ZARFANAN8K7599776": {
@@ -83,11 +83,11 @@
   "year": "2019",
   "make": "Alfa",
   "model": "Romeo Giulia",
-  "price": 14495,
+  "price": 13995,
   "miles": 104649,
   "url": "https://www.becksautogroup.com/details/used-2019-alfa-romeo-giulia/128741895",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUFFAFC7GN087096": {
@@ -100,7 +100,7 @@
   "miles": 91049,
   "url": "https://www.becksautogroup.com/details/used-2016-audi-a6/132394288",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUBNCF59JA129233": {
@@ -113,7 +113,7 @@
   "miles": 105970,
   "url": "https://www.becksautogroup.com/details/used-2018-audi-a5-sportback/130286606",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WAUCBCF5XMA029370": {
@@ -122,11 +122,11 @@
   "year": "2021",
   "make": "Audi",
   "model": "A5 Sportback quattro Premium Plus 40 TFSI",
-  "price": 26995,
+  "price": 26495,
   "miles": 42477,
   "url": "https://www.becksautogroup.com/details/used-2021-audi-a5-sportback/128233949",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBS43AY0XNFL94462": {
@@ -135,11 +135,11 @@
   "year": "2022",
   "make": "BMW",
   "model": "M3 Competition xDrive",
-  "price": 75995,
+  "price": 75795,
   "miles": 24235,
   "url": "https://www.becksautogroup.com/details/used-2022-bmw-m3/127970138",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UX23EM08P9P22747": {
@@ -152,7 +152,7 @@
   "miles": 68699,
   "url": "https://www.becksautogroup.com/details/used-2023-bmw-x7/132699245",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA1M5C51GV327028": {
@@ -161,11 +161,11 @@
   "year": "2016",
   "make": "BMW",
   "model": "2 Series M235i xDrive",
-  "price": 21495,
+  "price": 21490,
   "miles": 54890,
   "url": "https://www.becksautogroup.com/details/used-2016-bmw-2-series/128787045",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA73BJ02MWW99728": {
@@ -178,7 +178,7 @@
   "miles": 95460,
   "url": "https://www.becksautogroup.com/details/used-2021-bmw-5-series/132510613",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UX53DP02N9M93210": {
@@ -187,11 +187,11 @@
   "year": "2022",
   "make": "BMW",
   "model": "X3 xDrive30i",
-  "price": 26955,
+  "price": 25995,
   "miles": 60253,
   "url": "https://www.becksautogroup.com/details/used-2022-bmw-x3/124865323",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA73BJ09MWX26228": {
@@ -204,7 +204,7 @@
   "miles": 49978,
   "url": "https://www.becksautogroup.com/details/used-2021-bmw-5-series/130623224",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UX43DP02N9M07034": {
@@ -213,11 +213,11 @@
   "year": "2022",
   "make": "BMW",
   "model": "X3 sDrive30i",
-  "price": 24495,
+  "price": 22995,
   "miles": 72596,
   "url": "https://www.becksautogroup.com/details/used-2022-bmw-x3/126091216",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBALM7C55DE385689": {
@@ -230,7 +230,7 @@
   "miles": 51339,
   "url": "https://www.becksautogroup.com/details/used-2013-bmw-z4/132148722",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBAJA7C59JG907773": {
@@ -243,7 +243,7 @@
   "miles": 98851,
   "url": "https://www.becksautogroup.com/details/used-2018-bmw-5-series/122712512",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UXCX4C56KLS36353": {
@@ -252,11 +252,11 @@
   "year": "2019",
   "make": "BMW",
   "model": "X7 xDrive50i",
-  "price": 26995,
+  "price": 25995,
   "miles": 102486,
   "url": "https://www.becksautogroup.com/details/used-2019-bmw-x7/129731538",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UX53DP06P9S60983": {
@@ -269,7 +269,7 @@
   "miles": 79887,
   "url": "https://www.becksautogroup.com/details/used-2023-bmw-x3/121076586",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WBA7E4C58KGV70592": {
@@ -282,7 +282,7 @@
   "miles": 103345,
   "url": "https://www.becksautogroup.com/details/used-2019-bmw-7-series/123500251",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GAZGPF79N1212468": {
@@ -295,7 +295,7 @@
   "miles": 74334,
   "url": "https://www.becksautogroup.com/details/used-2022-chevrolet-express/132625455",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GAZGPFP1S1195371": {
@@ -304,11 +304,11 @@
   "year": "2025",
   "make": "Chevrolet",
   "model": "Express LT 3500",
-  "price": 39995,
+  "price": 39495,
   "miles": 7048,
   "url": "https://www.becksautogroup.com/details/used-2025-chevrolet-express/129071197",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3GNAXUEV0NL122337": {
@@ -317,11 +317,11 @@
   "year": "2022",
   "make": "Chevrolet",
   "model": "Equinox LT",
-  "price": 19495,
+  "price": 18995,
   "miles": 55014,
   "url": "https://www.becksautogroup.com/details/used-2022-chevrolet-equinox/130000119",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3GNAXUEG1PL220331": {
@@ -330,11 +330,11 @@
   "year": "2023",
   "make": "Chevrolet",
   "model": "Equinox LT",
-  "price": 20495,
+  "price": 18995,
   "miles": 68327,
   "url": "https://www.becksautogroup.com/details/used-2023-chevrolet-equinox/130051028",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3GCUKSECXGG159141": {
@@ -343,11 +343,11 @@
   "year": "2016",
   "make": "Chevrolet",
   "model": "Silverado 1500",
-  "price": 19995,
+  "price": 19495,
   "miles": 125145,
   "url": "https://www.becksautogroup.com/details/used-2016-chevrolet-silverado-1500/126518858",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "00001D37H2B560453": {
@@ -356,11 +356,11 @@
   "year": "1972",
   "make": "Chevrolet",
   "model": "Chevelle",
-  "price": 48995,
+  "price": 47995,
   "miles": 58446,
   "url": "https://www.becksautogroup.com/details/used-1972-chevrolet-chevelle/127410750",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C3CDZGG8HH601581": {
@@ -369,11 +369,11 @@
   "year": "2017",
   "make": "Dodge",
   "model": "Challenger GT",
-  "price": 17995,
+  "price": 17795,
   "miles": 94641,
   "url": "https://www.becksautogroup.com/details/used-2017-dodge-challenger/125409411",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C3CDXHG1LH190617": {
@@ -382,11 +382,11 @@
   "year": "2020",
   "make": "Dodge",
   "model": "Charger GT",
-  "price": 19995,
+  "price": 18995,
   "miles": 102808,
   "url": "https://www.becksautogroup.com/details/used-2020-dodge-charger/130051014",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C3CDZGG3JH116769": {
@@ -395,11 +395,11 @@
   "year": "2018",
   "make": "Dodge",
   "model": "Challenger GT",
-  "price": 18995,
+  "price": 17995,
   "miles": 125936,
   "url": "https://www.becksautogroup.com/details/used-2018-dodge-challenger/129608674",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C4RDGBG9HR848538": {
@@ -408,11 +408,11 @@
   "year": "2017",
   "make": "Dodge",
   "model": "Grand Caravan SE",
-  "price": 23995,
+  "price": 22995,
   "miles": 55192,
   "url": "https://www.becksautogroup.com/details/used-2017-dodge-grand-caravan/129608683",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2C4RDGCG5KR600910": {
@@ -425,7 +425,7 @@
   "miles": 125860,
   "url": "https://www.becksautogroup.com/details/used-2019-dodge-grand-caravan/124695289",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FA6P8CF6J5183743": {
@@ -438,7 +438,7 @@
   "miles": 39395,
   "url": "https://www.becksautogroup.com/details/used-2018-ford-mustang/132481710",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FAHP2D86HG142906": {
@@ -451,7 +451,7 @@
   "miles": 94660,
   "url": "https://www.becksautogroup.com/details/used-2017-ford-taurus/127264387",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FTEW1E48LFA51057": {
@@ -464,7 +464,7 @@
   "miles": 82145,
   "url": "https://www.becksautogroup.com/details/used-2020-ford-f-150/119218688",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FAHP60A22Y128065": {
@@ -473,11 +473,11 @@
   "year": "2002",
   "make": "Ford",
   "model": "Thunderbird Deluxe",
-  "price": 15995,
+  "price": 15495,
   "miles": 34309,
   "url": "https://www.becksautogroup.com/details/used-2002-ford-thunderbird/125821518",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FBZX2YM5GKA18003": {
@@ -486,11 +486,11 @@
   "year": "2016",
   "make": "Ford",
   "model": "Transit 350 XLT",
-  "price": 23995,
+  "price": 23990,
   "miles": 52660,
   "url": "https://www.becksautogroup.com/details/used-2016-ford-transit/128660768",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FMJK1JT3KEA19656": {
@@ -503,7 +503,7 @@
   "miles": 107259,
   "url": "https://www.becksautogroup.com/details/used-2019-ford-expedition-max/123433835",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FM5K8GTXKGB48368": {
@@ -516,7 +516,7 @@
   "miles": 100863,
   "url": "https://www.becksautogroup.com/details/used-2019-ford-explorer/115640560",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FDXF7DX7MDF01345": {
@@ -529,7 +529,7 @@
   "miles": 43204,
   "url": "https://www.becksautogroup.com/details/used-2021-ford-f-750-super-duty/121276510",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FTBF4UG1PKA09956": {
@@ -542,7 +542,7 @@
   "miles": 91831,
   "url": "https://www.becksautogroup.com/details/used-2023-ford-transit/132131016",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1FTYE2CM4GKA50834": {
@@ -551,11 +551,11 @@
   "year": "2016",
   "make": "Ford",
   "model": "Transit 150",
-  "price": 31995,
+  "price": 30995,
   "miles": 83913,
   "url": "https://www.becksautogroup.com/details/used-2016-ford-transit/127768625",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GKS2DKL8MR135329": {
@@ -564,11 +564,11 @@
   "year": "2021",
   "make": "GMC",
   "model": "Yukon Denali",
-  "price": 41995,
+  "price": 41495,
   "miles": 82880,
   "url": "https://www.becksautogroup.com/details/used-2021-gmc-yukon/128660760",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GKS1GKD2MR259741": {
@@ -577,11 +577,11 @@
   "year": "2021",
   "make": "GMC",
   "model": "Yukon XL SLT",
-  "price": 31995,
+  "price": 30995,
   "miles": 117031,
   "url": "https://www.becksautogroup.com/details/used-2021-gmc-yukon-xl/129049731",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFC2F54GH573667": {
@@ -594,7 +594,7 @@
   "miles": 107418,
   "url": "https://www.becksautogroup.com/details/used-2016-honda-civic/132699252",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1HGCV1F45JA190504": {
@@ -607,7 +607,7 @@
   "miles": 121316,
   "url": "https://www.becksautogroup.com/details/used-2018-honda-accord/132148729",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FNRL5H65GB040803": {
@@ -616,11 +616,11 @@
   "year": "2016",
   "make": "Honda",
   "model": "Odyssey EX-L",
-  "price": 15995,
+  "price": 15990,
   "miles": 105658,
   "url": "https://www.becksautogroup.com/details/used-2016-honda-odyssey/130163965",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JHMGK5H50GS011504": {
@@ -629,11 +629,11 @@
   "year": "2016",
   "make": "Honda",
   "model": "Fit LX",
-  "price": 11789,
+  "price": 11785,
   "miles": 102913,
   "url": "https://www.becksautogroup.com/details/used-2016-honda-fit/129315033",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3HGGK5H82JM728449": {
@@ -646,7 +646,7 @@
   "miles": 110913,
   "url": "https://www.becksautogroup.com/details/used-2018-honda-fit/130093909",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFG3B58EH509063": {
@@ -659,7 +659,7 @@
   "miles": 112980,
   "url": "https://www.becksautogroup.com/details/used-2014-honda-civic/131543868",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FNYF6H51JB040918": {
@@ -668,11 +668,11 @@
   "year": "2018",
   "make": "Honda",
   "model": "Pilot EX-L",
-  "price": 18495,
+  "price": 17995,
   "miles": 104714,
   "url": "https://www.becksautogroup.com/details/used-2018-honda-pilot/129071203",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FNRL6H81JB024905": {
@@ -685,7 +685,7 @@
   "miles": 125289,
   "url": "https://www.becksautogroup.com/details/used-2018-honda-odyssey/130163969",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5J6RT6H54NL038106": {
@@ -698,7 +698,7 @@
   "miles": 101292,
   "url": "https://www.becksautogroup.com/details/used-2022-honda-cr-v-hybrid/131316086",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1HGCV1F14KA005074": {
@@ -711,7 +711,7 @@
   "miles": 125062,
   "url": "https://www.becksautogroup.com/details/used-2019-honda-accord/131667578",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1HGCR2F8XHA193387": {
@@ -720,11 +720,11 @@
   "year": "2017",
   "make": "Honda",
   "model": "Accord EX-L",
-  "price": 14995,
+  "price": 13995,
   "miles": 138051,
   "url": "https://www.becksautogroup.com/details/used-2017-honda-accord/129438548",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5J6RW2H8XLA021376": {
@@ -737,7 +737,7 @@
   "miles": 91510,
   "url": "https://www.becksautogroup.com/details/used-2020-honda-cr-v/123846424",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFG1B61AH527749": {
@@ -750,7 +750,7 @@
   "miles": 93873,
   "url": "https://www.becksautogroup.com/details/used-2010-honda-civic/132394333",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFC1F35HH656339": {
@@ -759,11 +759,11 @@
   "year": "2017",
   "make": "Honda",
   "model": "Civic EX-T",
-  "price": 13495,
+  "price": 12995,
   "miles": 139347,
   "url": "https://www.becksautogroup.com/details/used-2017-honda-civic/129071202",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "19XZE4F51ME003666": {
@@ -776,7 +776,7 @@
   "miles": 91845,
   "url": "https://www.becksautogroup.com/details/used-2021-honda-insight/130540431",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JHMZE2H79CS001502": {
@@ -785,11 +785,11 @@
   "year": "2012",
   "make": "Honda",
   "model": "Insight EX",
-  "price": 7495,
+  "price": 6995,
   "miles": 133937,
   "url": "https://www.becksautogroup.com/details/used-2012-honda-insight/126729010",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FNRL6H63RB012619": {
@@ -802,7 +802,7 @@
   "miles": 115125,
   "url": "https://www.becksautogroup.com/details/used-2024-honda-odyssey/124510250",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5J6RT6H56NL035921": {
@@ -815,7 +815,7 @@
   "miles": 157506,
   "url": "https://www.becksautogroup.com/details/used-2022-honda-cr-v-hybrid/124036470",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5NMS2DAJXNH444169": {
@@ -828,7 +828,7 @@
   "miles": 96110,
   "url": "https://www.becksautogroup.com/details/used-2022-hyundai-santa-fe/119311544",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KM8R3DHE3MU234522": {
@@ -837,11 +837,11 @@
   "year": "2021",
   "make": "Hyundai",
   "model": "Palisade SEL",
-  "price": 21995,
+  "price": 21495,
   "miles": 81295,
   "url": "https://www.becksautogroup.com/details/used-2021-hyundai-palisade/128787032",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KM8R5DHE0LU150408": {
@@ -854,7 +854,7 @@
   "miles": 110132,
   "url": "https://www.becksautogroup.com/details/used-2020-hyundai-palisade/130797661",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5NPEH4J24LH017414": {
@@ -867,7 +867,7 @@
   "miles": 108692,
   "url": "https://www.becksautogroup.com/details/used-2020-hyundai-sonata/131316087",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KMHLM4AJ4NU021851": {
@@ -876,11 +876,11 @@
   "year": "2022",
   "make": "Hyundai",
   "model": "Elantra Hybrid Blue",
-  "price": 14495,
+  "price": 14490,
   "miles": 95276,
   "url": "https://www.becksautogroup.com/details/used-2022-hyundai-elantra-hybrid/127831416",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JN8AZ2NE5K9227276": {
@@ -893,7 +893,7 @@
   "miles": 114521,
   "url": "https://www.becksautogroup.com/details/used-2019-infiniti-qx80/131543891",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "SAJBG4BV2GCY04573": {
@@ -902,11 +902,11 @@
   "year": "2016",
   "make": "Jaguar",
   "model": "XF S",
-  "price": 10495,
+  "price": 10490,
   "miles": 120446,
   "url": "https://www.becksautogroup.com/details/used-2016-jaguar-xf/132670883",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4HJXEG3JW113602": {
@@ -919,7 +919,7 @@
   "miles": 81672,
   "url": "https://www.becksautogroup.com/details/used-2018-jeep-wrangler-unlimited/123318511",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4HJXDN5JW261962": {
@@ -928,11 +928,11 @@
   "year": "2018",
   "make": "Jeep",
   "model": "Wrangler Unlimited",
-  "price": 17995,
+  "price": 17495,
   "miles": 107677,
   "url": "https://www.becksautogroup.com/details/used-2018-jeep-wrangler-unlimited/129294022",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4HJXDNXLW238034": {
@@ -941,11 +941,11 @@
   "year": "2020",
   "make": "Jeep",
   "model": "Wrangler Unlimited",
-  "price": 26495,
+  "price": 24995,
   "miles": 60329,
   "url": "https://www.becksautogroup.com/details/used-2020-jeep-wrangler-unlimited/127553710",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4BJWDG7GL144377": {
@@ -958,7 +958,7 @@
   "miles": 122977,
   "url": "https://www.becksautogroup.com/details/used-2016-jeep-wrangler-unlimited/124510262",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C6HJTAG1ML527618": {
@@ -967,11 +967,11 @@
   "year": "2021",
   "make": "Jeep",
   "model": "Gladiator Willys",
-  "price": 24495,
+  "price": 23995,
   "miles": 94381,
   "url": "https://www.becksautogroup.com/details/used-2021-jeep-gladiator/130051015",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4HJXDG3PW576432": {
@@ -984,7 +984,7 @@
   "miles": 117441,
   "url": "https://www.becksautogroup.com/details/used-2023-jeep-wrangler/122434844",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C4BJWFG4GL149100": {
@@ -993,11 +993,11 @@
   "year": "2016",
   "make": "Jeep",
   "model": "Wrangler Unlimited",
-  "price": 23995,
+  "price": 22995,
   "miles": 73231,
   "url": "https://www.becksautogroup.com/details/used-2016-jeep-wrangler-unlimited/127553709",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KNDMB5C14H6271357": {
@@ -1010,7 +1010,7 @@
   "miles": 136709,
   "url": "https://www.becksautogroup.com/details/used-2017-kia-sedona/132148747",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KNDJ23AU2N7157142": {
@@ -1023,7 +1023,7 @@
   "miles": 83291,
   "url": "https://www.becksautogroup.com/details/used-2022-kia-soul/116729888",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "KNDNB4H37P6289956": {
@@ -1036,7 +1036,7 @@
   "miles": 69154,
   "url": "https://www.becksautogroup.com/details/used-2023-kia-carnival/130540420",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5XYRKDJF9SG392923": {
@@ -1049,7 +1049,7 @@
   "miles": 71001,
   "url": "https://www.becksautogroup.com/details/used-2025-kia-sorento/132626560",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "SALGS2RE6KA519238": {
@@ -1058,11 +1058,11 @@
   "year": "2019",
   "make": "Land",
   "model": "Rover Range Rover Supercharged",
-  "price": 25995,
+  "price": 25745,
   "miles": 81968,
   "url": "https://www.becksautogroup.com/details/used-2019-land-rover-range-rover/120919954",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTJBARBZ1F2019754": {
@@ -1075,7 +1075,7 @@
   "miles": 74775,
   "url": "https://www.becksautogroup.com/details/used-2015-lexus-nx-200t/132699251",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTHCZ1BL7GA003612": {
@@ -1084,11 +1084,11 @@
   "year": "2016",
   "make": "Lexus",
   "model": "GS 350",
-  "price": 22995,
+  "price": 22990,
   "miles": 86620,
   "url": "https://www.becksautogroup.com/details/used-2016-lexus-gs-350/126146924",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTHCF5C29A2033251": {
@@ -1101,7 +1101,7 @@
   "miles": 143831,
   "url": "https://www.becksautogroup.com/details/used-2010-lexus-is-250/132481714",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2T2BBMCA9PC003537": {
@@ -1114,7 +1114,7 @@
   "miles": 35258,
   "url": "https://www.becksautogroup.com/details/used-2023-lexus-rx-350h/130797690",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTJAM7BX9M5268711": {
@@ -1127,7 +1127,7 @@
   "miles": 128398,
   "url": "https://www.becksautogroup.com/details/used-2021-lexus-gx-460/132510612",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTHKD5BHXG2271206": {
@@ -1136,11 +1136,11 @@
   "year": "2016",
   "make": "Lexus",
   "model": "CT 200h",
-  "price": 14995,
+  "price": 14990,
   "miles": 115065,
   "url": "https://www.becksautogroup.com/details/used-2016-lexus-ct-200h/128741881",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTJAM7BX9L5265192": {
@@ -1149,11 +1149,11 @@
   "year": "2020",
   "make": "Lexus",
   "model": "GX 460",
-  "price": 34995,
+  "price": 34990,
   "miles": 94767,
   "url": "https://www.becksautogroup.com/details/used-2020-lexus-gx-460/127831445",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "58ABK1GG0HU068898": {
@@ -1166,7 +1166,7 @@
   "miles": 97994,
   "url": "https://www.becksautogroup.com/details/used-2017-lexus-es-350/132699246",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2T2SZMDA5NC355988": {
@@ -1175,11 +1175,11 @@
   "year": "2022",
   "make": "Lexus",
   "model": "RX 350 F SPORT",
-  "price": 38995,
+  "price": 38495,
   "miles": 61429,
   "url": "https://www.becksautogroup.com/details/used-2022-lexus-rx-350/127970139",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTJBC1BA6D2067012": {
@@ -1188,11 +1188,11 @@
   "year": "2013",
   "make": "Lexus",
   "model": "RX 450h",
-  "price": 11995,
+  "price": 11990,
   "miles": 180532,
   "url": "https://www.becksautogroup.com/details/used-2013-lexus-rx-450h/128471209",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM1GL1V58H1130923": {
@@ -1205,7 +1205,7 @@
   "miles": 115649,
   "url": "https://www.becksautogroup.com/details/used-2017-mazda-mazda6/132394400",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM1GJ1V57G1479754": {
@@ -1218,7 +1218,7 @@
   "miles": 132897,
   "url": "https://www.becksautogroup.com/details/used-2016-mazda-mazda6/132280942",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3MZBPADL5KM107590": {
@@ -1227,11 +1227,11 @@
   "year": "2019",
   "make": "Mazda",
   "model": "Mazda3 Sedan Preferred",
-  "price": 17495,
+  "price": 16995,
   "miles": 58527,
   "url": "https://www.becksautogroup.com/details/used-2019-mazda-mazda3-sedan/130051029",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM1FC351XJ0102427": {
@@ -1240,11 +1240,11 @@
   "year": "1988",
   "make": "Mazda",
   "model": "RX-7",
-  "price": 13995,
+  "price": 12995,
   "miles": 52069,
   "url": "https://www.becksautogroup.com/details/used-1988-mazda-rx-7/127121593",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM3KFBCM9N1549819": {
@@ -1257,7 +1257,7 @@
   "miles": 131460,
   "url": "https://www.becksautogroup.com/details/used-2022-mazda-cx-5/122434837",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM3KFBCM6N1603108": {
@@ -1266,11 +1266,11 @@
   "year": "2022",
   "make": "Mazda",
   "model": "CX-5 2.5 S Preferred",
-  "price": 17994,
+  "price": 17795,
   "miles": 139111,
   "url": "https://www.becksautogroup.com/details/used-2022-mazda-cx-5/130051013",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "55SWF4JB4FU045130": {
@@ -1283,7 +1283,7 @@
   "miles": 76121,
   "url": "https://www.becksautogroup.com/details/used-2015-mercedes-benz-c-class/129968168",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDZF4KB5HA205871": {
@@ -1296,7 +1296,7 @@
   "miles": 67625,
   "url": "https://www.becksautogroup.com/details/used-2017-mercedes-benz-e-class/131543874",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDUG6EB9KA477832": {
@@ -1309,7 +1309,7 @@
   "miles": 70654,
   "url": "https://www.becksautogroup.com/details/used-2019-mercedes-benz-s-class/130623223",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4JGDA5HBXJB189274": {
@@ -1318,11 +1318,11 @@
   "year": "2018",
   "make": "Mercedes-Benz",
   "model": "GLE GLE 350 4MATIC",
-  "price": 17495,
+  "price": 17490,
   "miles": 88892,
   "url": "https://www.becksautogroup.com/details/used-2018-mercedes-benz-gle/130540489",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4JGFB4KB8LA065408": {
@@ -1331,11 +1331,11 @@
   "year": "2020",
   "make": "Mercedes-Benz",
   "model": "GLE GLE 350 4MATIC",
-  "price": 23995,
+  "price": 23990,
   "miles": 90628,
   "url": "https://www.becksautogroup.com/details/used-2020-mercedes-benz-gle/129184157",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1K1K6HB0LF144470": {
@@ -1348,7 +1348,7 @@
   "miles": 52128,
   "url": "https://www.becksautogroup.com/details/used-2020-mercedes-benz-e-class/130623222",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4JGFB4KB2NA829949": {
@@ -1357,11 +1357,11 @@
   "year": "2022",
   "make": "Mercedes-Benz",
   "model": "GLE GLE 350 4MATIC",
-  "price": 35995,
+  "price": 33995,
   "miles": 61823,
   "url": "https://www.becksautogroup.com/details/used-2022-mercedes-benz-gle/130797662",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDGF8AB0DR265553": {
@@ -1370,11 +1370,11 @@
   "year": "2013",
   "make": "Mercedes-Benz",
   "model": "C-Class",
-  "price": 11495,
+  "price": 10995,
   "miles": 67351,
   "url": "https://www.becksautogroup.com/details/used-2013-mercedes-benz-c-class/130191175",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1KAF4HB2SR257181": {
@@ -1383,11 +1383,11 @@
   "year": "2025",
   "make": "Mercedes-Benz",
   "model": "C-Class C 300 4MATIC",
-  "price": 34995,
+  "price": 34495,
   "miles": 24093,
   "url": "https://www.becksautogroup.com/details/used-2025-mercedes-benz-c-class/126878032",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4JGFB4KB4LA283491": {
@@ -1396,11 +1396,11 @@
   "year": "2020",
   "make": "Mercedes-Benz",
   "model": "GLE GLE 350 4MATIC",
-  "price": 23995,
+  "price": 21995,
   "miles": 104347,
   "url": "https://www.becksautogroup.com/details/used-2020-mercedes-benz-gle/126403641",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1NWH5AB3SX045047": {
@@ -1409,11 +1409,11 @@
   "year": "2025",
   "make": "Mercedes-Benz",
   "model": "G-Class AMG G 63",
-  "price": 199995,
+  "price": 199495,
   "miles": 19597,
   "url": "https://www.becksautogroup.com/details/used-2025-mercedes-benz-g-class/129049724",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4JGDA5HB1JB012001": {
@@ -1422,11 +1422,11 @@
   "year": "2018",
   "make": "Mercedes-Benz",
   "model": "GLE GLE 350 4MATIC",
-  "price": 13495,
+  "price": 13490,
   "miles": 154037,
   "url": "https://www.becksautogroup.com/details/used-2018-mercedes-benz-gle/129608682",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WDDUG8FB8FA146031": {
@@ -1435,11 +1435,11 @@
   "year": "2015",
   "make": "Mercedes-Benz",
   "model": "S-Class S 550 4MATIC",
-  "price": 16995,
+  "price": 17695,
   "miles": 127164,
   "url": "https://www.becksautogroup.com/details/used-2015-mercedes-benz-s-class/128471207",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1Y40CHY3MT061369": {
@@ -1448,11 +1448,11 @@
   "year": "2021",
   "make": "Mercedes-Benz",
   "model": "Sprinter 2500",
-  "price": 24995,
+  "price": 24990,
   "miles": 112347,
   "url": "https://www.becksautogroup.com/details/used-2021-mercedes-benz-sprinter/125629021",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "W1Y40CHY8MT061495": {
@@ -1461,11 +1461,11 @@
   "year": "2021",
   "make": "Mercedes-Benz",
   "model": "Sprinter 2500",
-  "price": 24995,
+  "price": 24990,
   "miles": 119255,
   "url": "https://www.becksautogroup.com/details/used-2021-mercedes-benz-sprinter/128233948",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5N1DR3DJ6RC292031": {
@@ -1474,11 +1474,11 @@
   "year": "2024",
   "make": "Nissan",
   "model": "Pathfinder Platinum",
-  "price": 35995,
+  "price": 34995,
   "miles": 19511,
   "url": "https://www.becksautogroup.com/details/used-2024-nissan-pathfinder/128030434",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3N6CM0KN3LK702348": {
@@ -1491,7 +1491,7 @@
   "miles": 110899,
   "url": "https://www.becksautogroup.com/details/used-2020-nissan-nv200/132131017",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "WP1AB2A56JLB37625": {
@@ -1504,7 +1504,7 @@
   "miles": 34467,
   "url": "https://www.becksautogroup.com/details/used-2018-porsche-macan/130540485",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1C6SRFHP9TN172500": {
@@ -1513,11 +1513,11 @@
   "year": "2026",
   "make": "RAM",
   "model": "1500 Limited",
-  "price": 62995,
+  "price": 61995,
   "miles": 6115,
   "url": "https://www.becksautogroup.com/details/used-2026-ram-1500/127970110",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3C6LRVDGXPE505074": {
@@ -1526,11 +1526,11 @@
   "year": "2023",
   "make": "RAM",
   "model": "ProMaster 2500 159 WB",
-  "price": 23995,
+  "price": 23795,
   "miles": 90624,
   "url": "https://www.becksautogroup.com/details/used-2023-ram-promaster/129399947",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S4BTADC0P3214890": {
@@ -1543,7 +1543,7 @@
   "miles": 42317,
   "url": "https://www.becksautogroup.com/details/used-2023-subaru-outback/132481711",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S4BSAAC3J3352602": {
@@ -1552,11 +1552,11 @@
   "year": "2018",
   "make": "Subaru",
   "model": "Outback 2.5i",
-  "price": 15995,
+  "price": 15990,
   "miles": 60356,
   "url": "https://www.becksautogroup.com/details/used-2018-subaru-outback/128493440",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S3GKAB64N3606696": {
@@ -1565,11 +1565,11 @@
   "year": "2022",
   "make": "Subaru",
   "model": "Impreza",
-  "price": 15995,
+  "price": 15795,
   "miles": 71290,
   "url": "https://www.becksautogroup.com/details/used-2022-subaru-impreza/126878028",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JF1VBAL60N9033594": {
@@ -1578,11 +1578,11 @@
   "year": "2022",
   "make": "Subaru",
   "model": "WRX Limited",
-  "price": 26995,
+  "price": 26795,
   "miles": 58917,
   "url": "https://www.becksautogroup.com/details/used-2022-subaru-wrx/124510263",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S3GKAB60M3602899": {
@@ -1591,11 +1591,11 @@
   "year": "2021",
   "make": "Subaru",
   "model": "Impreza",
-  "price": 14495,
+  "price": 14490,
   "miles": 86815,
   "url": "https://www.becksautogroup.com/details/used-2021-subaru-impreza/128787050",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5YJ3E1EAXLF797644": {
@@ -1604,11 +1604,11 @@
   "year": "2020",
   "make": "Tesla",
   "model": "Model 3 Standard Range Plus",
-  "price": 18995,
+  "price": 18795,
   "miles": 100384,
   "url": "https://www.becksautogroup.com/details/used-2020-tesla-model-3/130797684",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEAU5JR8N5256153": {
@@ -1621,7 +1621,7 @@
   "miles": 43362,
   "url": "https://www.becksautogroup.com/details/used-2022-toyota-4runner/130259249",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDBCMFE8PJ005414": {
@@ -1634,7 +1634,7 @@
   "miles": 104204,
   "url": "https://www.becksautogroup.com/details/used-2023-toyota-corolla-hybrid/130540484",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTMJFREV8HJ714959": {
@@ -1643,11 +1643,11 @@
   "year": "2017",
   "make": "Toyota",
   "model": "RAV4 SE",
-  "price": 21495,
+  "price": 20995,
   "miles": 52373,
   "url": "https://www.becksautogroup.com/details/used-2017-toyota-rav4/127014993",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDJRKEC5RS191983": {
@@ -1656,11 +1656,11 @@
   "year": "2024",
   "make": "Toyota",
   "model": "Sienna",
-  "price": 42995,
+  "price": 40995,
   "miles": 39521,
   "url": "https://www.becksautogroup.com/details/used-2024-toyota-sienna/127264372",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TFUY5F16JX684441": {
@@ -1673,7 +1673,7 @@
   "miles": 126067,
   "url": "https://www.becksautogroup.com/details/used-2018-toyota-tundra/120968289",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEBU5JRXG5297147": {
@@ -1682,11 +1682,11 @@
   "year": "2016",
   "make": "Toyota",
   "model": "4Runner SR5 Premium",
-  "price": 19995,
+  "price": 19745,
   "miles": 177113,
   "url": "https://www.becksautogroup.com/details/used-2016-toyota-4runner/125595114",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEAAAAH0MJ052865": {
@@ -1695,11 +1695,11 @@
   "year": "2021",
   "make": "Toyota",
   "model": "Venza XLE",
-  "price": 23495,
+  "price": 22995,
   "miles": 94508,
   "url": "https://www.becksautogroup.com/details/used-2021-toyota-venza/127652755",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1BF1FK4GU151928": {
@@ -1708,11 +1708,11 @@
   "year": "2016",
   "make": "Toyota",
   "model": "Camry SE",
-  "price": 12995,
+  "price": 12795,
   "miles": 119144,
   "url": "https://www.becksautogroup.com/details/used-2016-toyota-camry/125710122",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDEBRBE5LJ029313": {
@@ -1725,7 +1725,7 @@
   "miles": 99264,
   "url": "https://www.becksautogroup.com/details/used-2020-toyota-corolla-hybrid/132148730",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEBU5JR4L5740564": {
@@ -1738,7 +1738,7 @@
   "miles": 68728,
   "url": "https://www.becksautogroup.com/details/used-2020-toyota-4runner/130259248",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5YFBURHE1JP802887": {
@@ -1747,11 +1747,11 @@
   "year": "2018",
   "make": "Toyota",
   "model": "Corolla LE",
-  "price": 12495,
+  "price": 11995,
   "miles": 125145,
   "url": "https://www.becksautogroup.com/details/used-2018-toyota-corolla/127768816",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDYSKFC6RS121457": {
@@ -1760,11 +1760,11 @@
   "year": "2024",
   "make": "Toyota",
   "model": "Sienna XLE 7-Passenger",
-  "price": 39995,
+  "price": 39495,
   "miles": 80861,
   "url": "https://www.becksautogroup.com/details/used-2024-toyota-sienna/129968171",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDGZRBH5MS139068": {
@@ -1777,7 +1777,7 @@
   "miles": 95554,
   "url": "https://www.becksautogroup.com/details/used-2021-toyota-highlander/124430060",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5YFS4MCE0MP060657": {
@@ -1786,11 +1786,11 @@
   "year": "2021",
   "make": "Toyota",
   "model": "Corolla SE",
-  "price": 16995,
+  "price": 15995,
   "miles": 109739,
   "url": "https://www.becksautogroup.com/details/used-2021-toyota-corolla/129438589",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3TMCZ5AN3JM127494": {
@@ -1799,11 +1799,11 @@
   "year": "2018",
   "make": "Toyota",
   "model": "Tacoma SR5 V6",
-  "price": 22495,
+  "price": 21995,
   "miles": 163386,
   "url": "https://www.becksautogroup.com/details/used-2018-toyota-tacoma/127693740",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTND4MBE0P3207465": {
@@ -1816,7 +1816,7 @@
   "miles": 92271,
   "url": "https://www.becksautogroup.com/details/used-2023-toyota-corolla-hatchback/132394339",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDCSKFC4PS074551": {
@@ -1825,11 +1825,11 @@
   "year": "2023",
   "make": "Toyota",
   "model": "Sienna",
-  "price": 40995,
+  "price": 40990,
   "miles": 81325,
   "url": "https://www.becksautogroup.com/details/used-2023-toyota-sienna/128058861",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDGBRCH0LS507657": {
@@ -1838,11 +1838,11 @@
   "year": "2020",
   "make": "Toyota",
   "model": "Highlander Hybrid XLE",
-  "price": 25995,
+  "price": 25495,
   "miles": 138434,
   "url": "https://www.becksautogroup.com/details/used-2020-toyota-highlander-hybrid/127970135",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1BZ1HK0JU501065": {
@@ -1855,7 +1855,7 @@
   "miles": 156931,
   "url": "https://www.becksautogroup.com/details/used-2018-toyota-camry/114699314",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDYSKFCXPS094700": {
@@ -1864,11 +1864,11 @@
   "year": "2023",
   "make": "Toyota",
   "model": "Sienna XLE 7-Passenger",
-  "price": 33995,
+  "price": 31995,
   "miles": 124406,
   "url": "https://www.becksautogroup.com/details/used-2023-toyota-sienna/128797609",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1BD1FK7CU020993": {
@@ -1881,7 +1881,7 @@
   "miles": 125749,
   "url": "https://www.becksautogroup.com/details/used-2012-toyota-camry-hybrid/131543914",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEAAAAH2MJ017289": {
@@ -1894,7 +1894,7 @@
   "miles": 138573,
   "url": "https://www.becksautogroup.com/details/used-2021-toyota-venza/123531848",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDDZRFH8KS989089": {
@@ -1907,7 +1907,7 @@
   "miles": 151644,
   "url": "https://www.becksautogroup.com/details/used-2019-toyota-highlander/131384804",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTEHT05J542067095": {
@@ -1920,7 +1920,7 @@
   "miles": 220194,
   "url": "https://www.becksautogroup.com/details/used-2004-toyota-land-cruiser/130732660",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TBDT481X4S445984": {
@@ -1929,11 +1929,11 @@
   "year": "2004",
   "make": "Toyota",
   "model": "Tundra Limited",
-  "price": 13995,
+  "price": 13495,
   "miles": 198580,
   "url": "https://www.becksautogroup.com/details/used-2004-toyota-tundra/128797588",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1BD1FK0CU041488": {
@@ -1946,7 +1946,7 @@
   "miles": 157579,
   "url": "https://www.becksautogroup.com/details/used-2012-toyota-camry-hybrid/131384803",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDBY64A78S009620": {
@@ -1959,7 +1959,7 @@
   "miles": 185462,
   "url": "https://www.becksautogroup.com/details/used-2008-toyota-sequoia/125409433",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TFRX5GN1LX178187": {
@@ -1972,7 +1972,7 @@
   "miles": 173878,
   "url": "https://www.becksautogroup.com/details/used-2020-toyota-tacoma/123965305",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDEAMDE5NJ049499": {
@@ -1985,7 +1985,7 @@
   "miles": 183076,
   "url": "https://www.becksautogroup.com/details/used-2022-toyota-corolla-hybrid/124173077",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3TMCZ5AN8JM128317": {
@@ -1994,11 +1994,11 @@
   "year": "2018",
   "make": "Toyota",
   "model": "Tacoma",
-  "price": 17995,
+  "price": 16995,
   "miles": 222587,
   "url": "https://www.becksautogroup.com/details/used-2018-toyota-tacoma/128787044",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4T1G11BK5MU039161": {
@@ -2007,11 +2007,11 @@
   "year": "2021",
   "make": "Toyota",
   "model": "Camry SE",
-  "price": 13995,
+  "price": 12995,
   "miles": 172901,
   "url": "https://www.becksautogroup.com/details/used-2021-toyota-camry/125451741",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "3VW4A7AT6CM633830": {
@@ -2020,11 +2020,11 @@
   "year": "2012",
   "make": "Volkswagen",
   "model": "Beetle",
-  "price": 10995,
+  "price": 10495,
   "miles": 82852,
   "url": "https://www.becksautogroup.com/details/used-2012-volkswagen-beetle/131543915",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "YV1612TM5F2362513": {
@@ -2033,11 +2033,11 @@
   "year": "2015",
   "make": "Volvo",
   "model": "S60 T5 Platinum",
-  "price": 9495,
+  "price": 9490,
   "miles": 106098,
   "url": "https://www.becksautogroup.com/details/used-2015-volvo-s60/125162310",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "7JRA22TM0LG038270": {
@@ -2046,11 +2046,11 @@
   "year": "2020",
   "make": "Volvo",
   "model": "S60 T6 R-Design",
-  "price": 19495,
+  "price": 18995,
   "miles": 102891,
   "url": "https://www.becksautogroup.com/details/used-2020-volvo-s60/125595107",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDKN3DU9F1899520": {
@@ -2063,7 +2063,7 @@
   "miles": 117991,
   "url": "https://www.becksautogroup.com/details/used-2015-toyota-prius/133127786",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5FRYD7H79HB001502": {
@@ -2076,7 +2076,7 @@
   "miles": 131941,
   "url": "https://www.becksautogroup.com/details/used-2017-acura-mdx/133127783",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "19UDE2F86LA006445": {
@@ -2089,7 +2089,7 @@
   "miles": 111554,
   "url": "https://www.becksautogroup.com/details/used-2020-acura-ilx/132949755",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JHMCR6F52HC002768": {
@@ -2102,7 +2102,7 @@
   "miles": 108931,
   "url": "https://www.becksautogroup.com/details/used-2017-honda-accord-hybrid/133149525",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5XYRKDLF7PG163516": {
@@ -2115,7 +2115,7 @@
   "miles": 34334,
   "url": "https://www.becksautogroup.com/details/used-2023-kia-sorento/133150882",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1ZVHT82H575196104": {
@@ -2128,7 +2128,7 @@
   "miles": 64326,
   "url": "https://www.becksautogroup.com/details/used-2007-ford-mustang/133206323",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTDKN3DU5B1410587": {
@@ -2141,7 +2141,7 @@
   "miles": 90087,
   "url": "https://www.becksautogroup.com/details/used-2011-toyota-prius/133206322",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GCWGAFF9H1115872": {
@@ -2154,7 +2154,7 @@
   "miles": 90621,
   "url": "https://www.becksautogroup.com/details/used-2017-chevrolet-express/133287964",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GCWGAFP4J1251096": {
@@ -2167,7 +2167,7 @@
   "miles": 120199,
   "url": "https://www.becksautogroup.com/details/used-2018-chevrolet-express/133287963",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5TDDZRFH6KS947567": {
@@ -2180,7 +2180,7 @@
   "miles": 127767,
   "url": "https://www.becksautogroup.com/details/used-2019-toyota-highlander/133287965",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JTMEB3FV8PD134973": {
@@ -2193,7 +2193,7 @@
   "miles": 123701,
   "url": "https://www.becksautogroup.com/details/used-2023-toyota-rav4-prime/133206324",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JM1NB3533X0115416": {
@@ -2206,7 +2206,7 @@
   "miles": 65736,
   "url": "https://www.becksautogroup.com/details/used-1999-mazda-mx-5-miata/133390885",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2HGFC1F31HH655446": {
@@ -2219,7 +2219,7 @@
   "miles": 104862,
   "url": "https://www.becksautogroup.com/details/used-2017-honda-civic/133390882",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "2T1BURHE3HC936911": {
@@ -2232,7 +2232,7 @@
   "miles": 128460,
   "url": "https://www.becksautogroup.com/details/used-2017-toyota-corolla/133390879",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "5UXJU2C58KLN66077": {
@@ -2245,7 +2245,7 @@
   "miles": 62956,
   "url": "https://www.becksautogroup.com/details/used-2019-bmw-x5/133390883",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "4S3BNAN63K3020435": {
@@ -2258,7 +2258,7 @@
   "miles": 108682,
   "url": "https://www.becksautogroup.com/details/used-2019-subaru-legacy/133390884",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "1GCZGGFG0K1237410": {
@@ -2271,7 +2271,7 @@
   "miles": 129810,
   "url": "https://www.becksautogroup.com/details/used-2019-chevrolet-express/133390886",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  },
  "JN1AZ4FH4GM910688": {
@@ -2284,7 +2284,7 @@
   "miles": 34507,
   "url": "https://www.becksautogroup.com/details/used-2016-nissan-370z/133488477",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-14",
   "misses": 0
  }
 }
