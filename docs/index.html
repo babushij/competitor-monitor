@@ -42,6 +42,11 @@ th{background:#1e293b;position:sticky;top:0}
  <div class="box"><h3>Top 15 models</h3><table><thead><tr><th>Model</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmd"></tbody></table></div>
 </div>
 <div class="mon"><div class="box"><h3>Sales by month</h3><table id="montbl"></table></div></div>
+<div class="grid2" style="margin-top:12px">
+ <div class="box"><h3>Fastest &amp; slowest sellers (avg days to sell, 2+ sold)</h3><table><thead><tr><th>Model</th><th>Sold</th><th>Avg days</th></tr></thead><tbody id="dts"></tbody></table></div>
+ <div class="box"><h3>Price drops</h3><table><thead><tr><th>Date</th><th>Dealer</th><th>Vehicle</th><th>Was</th><th>Now</th></tr></thead><tbody id="pdrop"></tbody></table></div>
+</div>
+<div class="mon"><div class="box"><h3>Aged inventory (longest on lot)</h3><table><thead><tr><th>Dealer</th><th>Vehicle</th><th>Price</th><th>Days on lot</th></tr></thead><tbody id="aged"></tbody></table></div></div>
 <div style="height:12px"></div><div id="chip"></div>
 <div class="ctl"><select id="dealer"><option value="">All dealers</option></select>
 <input id="q" placeholder="Search make, model, VIN"></div>
@@ -54,8 +59,11 @@ async function load(){
  [...new Set(sold.map(s=>s.dealer))].forEach(d=>dealer.add(new Option(d,d)));
  render();
  let tot=0,parts=[];
- for(const [k,n] of Object.entries(DEALERS)){try{const s=await (await fetch(`data/${k}_state.json?`+Date.now())).json();const c=Object.keys(s).length;tot+=c;parts.push(`${n} ${c}`);}catch(e){}}
- inv.textContent=tot; invd.textContent=parts.join(" · ");
+ for(const [k,n] of Object.entries(DEALERS)){try{const s=await (await fetch(`data/${k}_state.json?`+Date.now())).json();const c=Object.keys(s).length;tot+=c;parts.push(`${n} ${c}`);
+   const full={gtx:"GTX Auto Group",cincyautomall:"Cincy AutoMall",becks:"Beck's Auto Group",cag:"Cincinnati Auto Group",premier:"Premier Automotive",nw:"NW Automotive",iao:"International Auto Outlet"}[k]||n;
+   Object.values(s).forEach(c=>lot.push({...c,dealer:full}));}catch(e){}}
+ try{drops=await (await fetch("data/price_drops.json?"+Date.now())).json();}catch(e){}
+ inv.textContent=tot; invd.textContent=parts.join(" · "); render();
 }
 const RANGES=[["7 days",7],["30 days",30],["90 days",90],["Year to date","ytd"],["Last year","ly"],["All","all"]];
 let range=7, sk="sold_detected", sdir=-1;
@@ -66,7 +74,7 @@ function bounds(){const t=new Date(),y=t.getFullYear(),iso=d=>d.toISOString().sl
 document.querySelectorAll("th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k; if(sk===k)sdir=-sdir; else{sk=k;sdir=1;} render();});
 
 function tc(s){return (s||"").trim().toLowerCase().replace(/\b\w/g,c=>c.toUpperCase());}
-let pick=null;
+let pick=null, lot=[], drops=[];
 function topList(list,keyf,n,kind){const m={};for(const s of list){const k=keyf(s);if(!k.trim())continue;(m[k]=m[k]||{n:0,p:0,c:0}).n++;if(s.price){m[k].p+=s.price;m[k].c++;}}
  return Object.entries(m).sort((a,b)=>b[1].n-a[1].n).slice(0,n).map(([k,v])=>`<tr data-kind="${kind}" data-k="${k}" class="${pick&&pick.kind==kind&&pick.k==k?"sel":""}"><td>${k}</td><td>${v.n}</td><td>${v.c?"$"+Math.round(v.p/v.c).toLocaleString():"–"}</td></tr>`).join("");}
 const mkKey=s=>tc(s.make), mdKey=s=>tc(s.make)+" "+tc((s.model||"").split(" ")[0]);
@@ -83,6 +91,18 @@ function renderExtras(list){
  montbl.innerHTML=`<thead><tr><th>Month</th>${dl.map(x=>`<th>${x}</th>`).join("")}<th>Total</th></tr></thead><tbody>`+
   Object.keys(mons).sort().reverse().map(m=>{const r=mons[m];return `<tr><td>${nm(m)}</td>${dl.map(x=>`<td>${r[x]||0}</td>`).join("")}<td><b>${Object.values(r).reduce((a,b)=>a+b,0)}</b></td></tr>`;}).join("")+"</tbody>";
 }
+
+function renderMore(list){
+ const d=dealer.value, today=new Date(), [a,b]=bounds(), $=v=>v?"$"+v.toLocaleString():"–";
+ const g={}; for(const s of list){const k=mdKey(s); (g[k]=g[k]||[]).push(s.days_listed||0);}
+ const rowsD=Object.entries(g).filter(([k,v])=>v.length>=2).map(([k,v])=>[k,v.length,Math.round(v.reduce((x,y)=>x+y,0)/v.length)]).sort((x,y)=>x[2]-y[2]);
+ const pickD=rowsD.length>16?[...rowsD.slice(0,8),null,...rowsD.slice(-8)]:rowsD;
+ dts.innerHTML=pickD.map(r=>r?`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td></tr>`:`<tr><td colspan="3" style="color:#64748b">…</td></tr>`).join("")||'<tr><td colspan="3" style="color:#64748b">Not enough sales yet</td></tr>';
+ const pd=drops.filter(x=>(!d||x.dealer==d)&&x.date>=a&&x.date<=b).slice().reverse().slice(0,25);
+ pdrop.innerHTML=pd.map(x=>`<tr><td>${x.date}</td><td>${x.dealer}</td><td><a style="color:#38bdf8" href="${x.url}" target="_blank">${x.year} ${tc(x.make)} ${x.model}</a></td><td>${$(x.old)}</td><td><b>${$(x.new)}</b> <span style="color:#f87171">-${$(x.old-x.new)}</span></td></tr>`).join("")||'<tr><td colspan="5" style="color:#64748b">No price drops seen yet — tracking started Nov 21</td></tr>';
+ const ag=lot.filter(c=>!d||c.dealer==d).map(c=>({...c,age:Math.round((today-new Date(c.first_seen))/864e5)})).sort((x,y)=>y.age-x.age).slice(0,25);
+ aged.innerHTML=ag.map(c=>`<tr><td>${c.dealer}</td><td><a style="color:#38bdf8" href="${c.url}" target="_blank">${c.year} ${tc(c.make)} ${c.model}</a></td><td>${$(c.price)}</td><td>${c.age}${c.first_seen<="2026-10-29"?"+":""}</td></tr>`).join("");
+}
 function render(){
  const f=q.value.toLowerCase(), d=dealer.value, [a,b]=bounds();
  const lbl=RANGES.find(r=>String(r[1])===String(range))[0];
@@ -93,7 +113,7 @@ function render(){
  const cmp=(x,y,k)=>{let p=x[k],r=y[k]; if(typeof p==="string"||typeof r==="string"){p=String(p??"").toLowerCase();r=String(r??"").toLowerCase();} else{p=p??0;r=r??0;} return p<r?-1:p>r?1:0;};
  list.sort((x,y)=>{let c=cmp(x,y,sk)*sdir; for(const k of (THEN[sk]||[])){if(c)break; c=cmp(x,y,k);} return c;});
  document.querySelectorAll("th[data-k]").forEach(th=>{th.textContent=th.textContent.replace(/ [▲▼]$/,"")+(th.dataset.k===sk?(sdir>0?" ▲":" ▼"):"");});
- c7.textContent=list.length; renderExtras(list);
+ c7.textContent=list.length; renderExtras(list); renderMore(list);
  const avg=k=>list.length?Math.round(list.reduce((a,s)=>a+(s[k]||0),0)/list.length):0;
  cd.textContent=avg("days_listed"); cp.textContent="$"+avg("price").toLocaleString();
  const shown=pick?list.filter(s=>(pick.kind=="mk"?mkKey(s):mdKey(s))==pick.k):list;
