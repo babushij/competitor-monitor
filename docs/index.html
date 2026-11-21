@@ -38,7 +38,7 @@ th{background:#1e293b;position:sticky;top:0}
  <div class="card">On lot now<b id="inv">–</b><small id="invd"></small></div>
 </div>
 <div class="grid2">
- <div class="box"><h3>Top 10 makes</h3><table><thead><tr><th>Make</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmk"></tbody></table></div>
+ <div class="box"><h3>Top 15 makes</h3><table><thead><tr><th>Make</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmk"></tbody></table></div>
  <div class="box"><h3>Top 15 models</h3><table><thead><tr><th>Model</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmd"></tbody></table></div>
 </div>
 <div class="mon"><div class="box"><h3>Sales by month</h3><table id="montbl"></table></div></div>
@@ -74,7 +74,7 @@ document.addEventListener("click",e=>{const tr=e.target.closest(".grid2 tbody tr
  if(tr){const p={kind:tr.dataset.kind,k:tr.dataset.k}; pick=(pick&&pick.kind==p.kind&&pick.k==p.k)?null:p; render(); if(pick)rows.closest("table").scrollIntoView({behavior:"smooth"}); return;}
  if(e.target.id==="chip"){pick=null;render();}});
 function renderExtras(list){
- topmk.innerHTML=topList(list,mkKey,10,'mk');
+ topmk.innerHTML=topList(list,mkKey,15,'mk');
  topmd.innerHTML=topList(list,mdKey,15,'md');
  const d=dealer.value, base=sold.filter(s=>!d||s.dealer==d);
  const dl=[...new Set(base.map(s=>s.dealer))].sort(), mons={};
