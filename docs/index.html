@@ -17,7 +17,12 @@ th,td{padding:8px;border-bottom:1px solid #334155;text-align:left}
 th{background:#1e293b;position:sticky;top:0}
 #lock{position:fixed;inset:0;background:#0f172a;display:flex;align-items:center;justify-content:center}
 .grid2{display:flex;gap:12px;padding:0 16px;flex-wrap:wrap}
-.box{background:#1e293b;border-radius:10px;padding:12px;flex:1;min-width:260px}
+.box{background:#1e293b;border-radius:10px;padding:12px;flex:1;min-width:260px;display:flex;flex-direction:column}
+.grid2 .box table{flex:1;height:100%}
+.grid2 tbody tr{cursor:pointer}
+.grid2 tbody tr:hover{background:#334155}
+.grid2 tbody tr.sel{background:#0e7490}
+#chip{display:none;margin:8px 16px 0;padding:6px 12px;background:#0e7490;border-radius:16px;width:max-content;cursor:pointer}
 .box h3{margin:0 0 8px;font-size:15px;color:#38bdf8}
 .box table{margin-top:0;font-size:13px}
 .box td,.box th{padding:5px 6px;cursor:default}
@@ -34,10 +39,10 @@ th{background:#1e293b;position:sticky;top:0}
 </div>
 <div class="grid2">
  <div class="box"><h3>Top 10 makes</h3><table><thead><tr><th>Make</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmk"></tbody></table></div>
- <div class="box"><h3>Top 10 models</h3><table><thead><tr><th>Model</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmd"></tbody></table></div>
+ <div class="box"><h3>Top 15 models</h3><table><thead><tr><th>Model</th><th>Sold</th><th>Avg price</th></tr></thead><tbody id="topmd"></tbody></table></div>
 </div>
 <div class="mon"><div class="box"><h3>Sales by month</h3><table id="montbl"></table></div></div>
-<div style="height:12px"></div>
+<div style="height:12px"></div><div id="chip"></div>
 <div class="ctl"><select id="dealer"><option value="">All dealers</option></select>
 <input id="q" placeholder="Search make, model, VIN"></div>
 <table><thead><tr><th data-k="sold_detected">Sold</th><th data-k="dealer">Dealer</th><th data-k="year">Year</th><th data-k="make">Make</th><th data-k="model">Model</th><th data-k="vin">VIN</th><th data-k="price">Price</th><th data-k="miles">Miles</th><th data-k="days_listed">Days</th></tr></thead><tbody id="rows"></tbody></table>
@@ -61,11 +66,16 @@ function bounds(){const t=new Date(),y=t.getFullYear(),iso=d=>d.toISOString().sl
 document.querySelectorAll("th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k; if(sk===k)sdir=-sdir; else{sk=k;sdir=1;} render();});
 
 function tc(s){return (s||"").trim().toLowerCase().replace(/\b\w/g,c=>c.toUpperCase());}
-function topList(list,keyf,n){const m={};for(const s of list){const k=keyf(s);if(!k.trim())continue;(m[k]=m[k]||{n:0,p:0,c:0}).n++;if(s.price){m[k].p+=s.price;m[k].c++;}}
- return Object.entries(m).sort((a,b)=>b[1].n-a[1].n).slice(0,n).map(([k,v])=>`<tr><td>${k}</td><td>${v.n}</td><td>${v.c?"$"+Math.round(v.p/v.c).toLocaleString():"–"}</td></tr>`).join("");}
+let pick=null;
+function topList(list,keyf,n,kind){const m={};for(const s of list){const k=keyf(s);if(!k.trim())continue;(m[k]=m[k]||{n:0,p:0,c:0}).n++;if(s.price){m[k].p+=s.price;m[k].c++;}}
+ return Object.entries(m).sort((a,b)=>b[1].n-a[1].n).slice(0,n).map(([k,v])=>`<tr data-kind="${kind}" data-k="${k}" class="${pick&&pick.kind==kind&&pick.k==k?"sel":""}"><td>${k}</td><td>${v.n}</td><td>${v.c?"$"+Math.round(v.p/v.c).toLocaleString():"–"}</td></tr>`).join("");}
+const mkKey=s=>tc(s.make), mdKey=s=>tc(s.make)+" "+tc((s.model||"").split(" ")[0]);
+document.addEventListener("click",e=>{const tr=e.target.closest(".grid2 tbody tr");
+ if(tr){const p={kind:tr.dataset.kind,k:tr.dataset.k}; pick=(pick&&pick.kind==p.kind&&pick.k==p.k)?null:p; render(); if(pick)rows.closest("table").scrollIntoView({behavior:"smooth"}); return;}
+ if(e.target.id==="chip"){pick=null;render();}});
 function renderExtras(list){
- topmk.innerHTML=topList(list,s=>tc(s.make),10);
- topmd.innerHTML=topList(list,s=>tc(s.make)+" "+tc((s.model||"").split(" ")[0]),10);
+ topmk.innerHTML=topList(list,mkKey,10,'mk');
+ topmd.innerHTML=topList(list,mdKey,15,'md');
  const d=dealer.value, base=sold.filter(s=>!d||s.dealer==d);
  const dl=[...new Set(base.map(s=>s.dealer))].sort(), mons={};
  for(const s of base){const m=s.sold_detected.slice(0,7);(mons[m]=mons[m]||{})[s.dealer]=(mons[m][s.dealer]||0)+1;}
@@ -86,7 +96,9 @@ function render(){
  c7.textContent=list.length; renderExtras(list);
  const avg=k=>list.length?Math.round(list.reduce((a,s)=>a+(s[k]||0),0)/list.length):0;
  cd.textContent=avg("days_listed"); cp.textContent="$"+avg("price").toLocaleString();
- rows.innerHTML=list.map(s=>`<tr><td>${s.sold_detected}</td><td>${s.dealer}</td><td>${s.year}</td>
+ const shown=pick?list.filter(s=>(pick.kind=="mk"?mkKey(s):mdKey(s))==pick.k):list;
+ chip.style.display=pick?"block":"none"; if(pick)chip.textContent=`Showing ${pick.k} (${shown.length}) ✕`;
+ rows.innerHTML=shown.map(s=>`<tr><td>${s.sold_detected}</td><td>${s.dealer}</td><td>${s.year}</td>
   <td><a style="color:#38bdf8" href="${s.url}" target="_blank">${s.make}</a></td><td>${s.model}</td>
   <td>${s.vin}</td><td>$${(s.price||0).toLocaleString()}</td><td>${(s.miles||0).toLocaleString()}</td><td>${s.days_listed}</td></tr>`).join("");
 }
