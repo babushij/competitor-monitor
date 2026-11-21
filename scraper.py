@@ -357,9 +357,19 @@ def update(key, name, cars):
     if back:
         print(f"{name}: {len(back)} reappeared, removed from sold")
         sold = [s for s in sold if not (s.get("dealer") == name and s["vin"] in cars)]
+    dropf = DATA / "price_drops.json"
+    drops = json.loads(dropf.read_text()) if dropf.exists() else []
     for vin, c in cars.items():
         prev = state.get(vin, {"first_seen": TODAY})
-        state[vin] = {**c, "first_seen": prev["first_seen"], "last_seen": TODAY, "misses": 0}
+        keep = {k: prev[k] for k in ("first_price", "drops") if k in prev}
+        old_p, new_p = prev.get("price"), c.get("price")
+        if "first_price" not in keep and (new_p or old_p): keep["first_price"] = old_p or new_p
+        if old_p and new_p and new_p < old_p and vin in state:
+            keep["drops"] = keep.get("drops", 0) + 1
+            drops.append({"date": TODAY, "dealer": name, "vin": vin, "year": c.get("year"), "make": c.get("make"),
+                          "model": c.get("model"), "old": old_p, "new": new_p, "url": c.get("url")})
+        state[vin] = {**c, **keep, "first_seen": prev["first_seen"], "last_seen": TODAY, "misses": 0}
+    dropf.write_text(json.dumps(drops, indent=1))
     for vin in [v for v in state if v not in cars]:
         c = state[vin]
         c["misses"] = c.get("misses", 0) + 1
