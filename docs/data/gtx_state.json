@@ -9,7 +9,7 @@
   "url": "/Inventory/Details?stock=GTX002862",
   "first_price": 7999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FRYD4H20EB024679": {
@@ -22,7 +22,7 @@
   "url": "/Inventory/Details?stock=GTX024679",
   "first_price": 14297,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5J8TB1H51AA004844": {
@@ -35,7 +35,7 @@
   "url": "/Inventory/Details?stock=GTX004844",
   "first_price": 10997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JH4KC1F57EC006679": {
@@ -48,7 +48,7 @@
   "url": "/Inventory/Details?stock=GTX006679",
   "first_price": 10997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "19UUA9E53EA002495": {
@@ -61,7 +61,7 @@
   "url": "/Inventory/Details?stock=GTX002495",
   "first_price": 19999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "19UUA76578A000515": {
@@ -74,7 +74,7 @@
   "url": "/Inventory/Details?stock=GTX000515",
   "first_price": 13999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "19UUA8F29CA036274": {
@@ -87,7 +87,7 @@
   "url": "/Inventory/Details?stock=GTX036274",
   "first_price": 8997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "ZASPAKAN6P7D57502": {
@@ -100,20 +100,8 @@
   "url": "/Inventory/Details?stock=GTXD57502",
   "first_price": 22997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "WAUHUDGY8PA051824": {
-  "vin": "WAUHUDGY8PA051824",
-  "year": "2023",
-  "make": "AUDI",
-  "model": "A3 - PREMIUM PLUS",
-  "price": 17699,
-  "miles": 96584,
-  "url": "/Inventory/Details?stock=GTX051824",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "WAUBFAFL9DN007744": {
   "vin": "WAUBFAFL9DN007744",
@@ -125,7 +113,7 @@
   "url": "/Inventory/Details?stock=GTX007744",
   "first_price": 11997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAUENAF47JA110558": {
@@ -138,7 +126,7 @@
   "url": "/Inventory/Details?stock=GTX110558",
   "first_price": 16071,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA19FAFL3DA060605": {
@@ -151,7 +139,7 @@
   "url": "/Inventory/Details?stock=GTX060605",
   "first_price": 10997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAUF3AFC4HN043955": {
@@ -164,7 +152,7 @@
   "url": "/Inventory/Details?stock=CTX043955",
   "first_price": 20999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAUFGAFC2GN161702": {
@@ -177,7 +165,7 @@
   "url": "/Inventory/Details?stock=GTX161702",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAU2MAFC0EN036511": {
@@ -190,7 +178,7 @@
   "url": "/Inventory/Details?stock=GTX036511",
   "first_price": 13997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAUYGAFC4DN048693": {
@@ -203,7 +191,7 @@
   "url": "/Inventory/Details?stock=GTX048693",
   "first_price": 14497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1JCCFS2HR008284": {
@@ -216,7 +204,7 @@
   "url": "/Inventory/Details?stock=GTX008284",
   "first_price": 13799,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1EAAFY6N2050090": {
@@ -229,7 +217,7 @@
   "url": "/Inventory/Details?stock=GTX050090",
   "first_price": 22323,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1L2AFPXGA064871": {
@@ -242,7 +230,7 @@
   "url": "/Inventory/Details?stock=GTX064871",
   "first_price": 11997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1D7AFPXHA100145": {
@@ -255,7 +243,7 @@
   "url": "/Inventory/Details?stock=GTX100145",
   "first_price": 13497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1BVAF17KD035141": {
@@ -268,7 +256,7 @@
   "url": "/Inventory/Details?stock=GTX035141",
   "first_price": 23997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAUC4CF56NA026073": {
@@ -281,7 +269,7 @@
   "url": "/Inventory/Details?stock=GTX026073",
   "first_price": 32999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBAAG3301C8375461": {
@@ -294,7 +282,7 @@
   "url": "/Inventory/Details?stock=GTX375461",
   "first_price": 18500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBA3B3C54FJ983863": {
@@ -307,7 +295,7 @@
   "url": "/Inventory/Details?stock=GTX983863",
   "first_price": 11999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBA8D9G59JNU70378": {
@@ -320,7 +308,7 @@
   "url": "/Inventory/Details?stock=GTXU70378",
   "first_price": 13400,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3MW5R7J01M8B70167": {
@@ -333,7 +321,7 @@
   "url": "/Inventory/Details?stock=GTXB70167",
   "first_price": 23700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBA8Z9C59KB220715": {
@@ -346,7 +334,7 @@
   "url": "/Inventory/Details?stock=GTX220715",
   "first_price": 15799,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBA4R9C37HK878832": {
@@ -359,7 +347,7 @@
   "url": "/Inventory/Details?stock=GTX878832",
   "first_price": 18497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBAJR3C07LWW64432": {
@@ -372,7 +360,7 @@
   "url": "/Inventory/Details?stock=GTXW64432",
   "first_price": 16700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBAVL1C51EVY11016": {
@@ -385,7 +373,7 @@
   "url": "/Inventory/Details?stock=GTXY11016",
   "first_price": 8500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5UX33DT06N9N08661": {
@@ -398,7 +386,7 @@
   "url": "/Inventory/Details?stock=GTXN08661",
   "first_price": 32999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5UXKR0C57J0X94484": {
@@ -411,7 +399,7 @@
   "url": "/Inventory/Details?stock=GTGX94484",
   "first_price": 16500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBALM73559E165332": {
@@ -424,7 +412,7 @@
   "url": "/Inventory/Details?stock=GTX165332",
   "first_price": 17997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G4ZP5SS4JU115429": {
@@ -437,7 +425,7 @@
   "url": "/Inventory/Details?stock=GTX115429",
   "first_price": 17497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G4GA5E30DF321465": {
@@ -450,7 +438,7 @@
   "url": "/Inventory/Details?stock=GTX321465",
   "first_price": 9497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2G4GL5EX2H9117164": {
@@ -463,7 +451,7 @@
   "url": "/Inventory/Details?stock=GTX117164",
   "first_price": 13997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G6DS1ED6B0145207": {
@@ -476,7 +464,7 @@
   "url": "/Inventory/Details?stock=GTX145207",
   "first_price": 11997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G6KD54Y5WU776137": {
@@ -489,20 +477,8 @@
   "url": "/Inventory/Details?stock=GTX776137",
   "first_price": 7997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "2G61L5S38E9172728": {
-  "vin": "2G61L5S38E9172728",
-  "year": "2014",
-  "make": "CADILLAC",
-  "model": "XTS",
-  "price": 12497,
-  "miles": 94430,
-  "url": "/Inventory/Details?stock=GTX172728",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "1GCHSCEAXN1206914": {
   "vin": "1GCHSCEAXN1206914",
@@ -514,7 +490,7 @@
   "url": "/Inventory/Details?stock=GTX206914",
   "first_price": 16500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GCHSCEA9N1246272": {
@@ -527,7 +503,7 @@
   "url": "/Inventory/Details?stock=GTX246272",
   "first_price": 16997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GCGTBEN6H1256235": {
@@ -540,7 +516,7 @@
   "url": "/Inventory/Details?stock=GTX256235",
   "first_price": 18497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G1PA5SG0E7143413": {
@@ -553,7 +529,7 @@
   "url": "/Inventory/Details?stock=GTX143413",
   "first_price": 9999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3GNAXUEV3NS133693": {
@@ -566,7 +542,7 @@
   "url": "/Inventory/Details?stock=GTX133693",
   "first_price": 17497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3GNAXKEV5NL257009": {
@@ -579,7 +555,7 @@
   "url": "/Inventory/Details?stock=GTX257009",
   "first_price": 19497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G11X5S36JU140285": {
@@ -592,7 +568,7 @@
   "url": "/Inventory/Details?stock=GTX140285",
   "first_price": 14995,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GCVKREH7GZ268732": {
@@ -605,7 +581,7 @@
   "url": "/Inventory/Details?stock=GTX268732",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GNSKFKD2MR308382": {
@@ -618,20 +594,8 @@
   "url": "/Inventory/Details?stock=GTX308382",
   "first_price": 43000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "1GNSKCKC6JR388738": {
-  "vin": "1GNSKCKC6JR388738",
-  "year": "2018",
-  "make": "CHEVROLET",
-  "model": "TAHOE - 1500 PREMIER",
-  "price": 21497,
-  "miles": 124978,
-  "url": "/Inventory/Details?stock=GTX388738",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "1GNERHKW6KJ212918": {
   "vin": "1GNERHKW6KJ212918",
@@ -643,20 +607,8 @@
   "url": "/Inventory/Details?stock=GTX212918",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "KL77LJEP1SC183778": {
-  "vin": "KL77LJEP1SC183778",
-  "year": "2025",
-  "make": "CHEVROLET",
-  "model": "TRAX - 2RS",
-  "price": 22499,
-  "miles": 14720,
-  "url": "/Inventory/Details?stock=GTX183778",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "2C3CCAAG1EH121598": {
   "vin": "2C3CCAAG1EH121598",
@@ -668,7 +620,7 @@
   "url": "/Inventory/Details?stock=GTG121598",
   "first_price": 12497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C4RC1FG4LR102582": {
@@ -681,7 +633,7 @@
   "url": "/Inventory/Details?stock=GTX102582",
   "first_price": 14497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C4RC1BG6SR526575": {
@@ -694,7 +646,7 @@
   "url": "/Inventory/Details?stock=GTX526575",
   "first_price": 25002,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C4RC1N71HR723769": {
@@ -707,7 +659,7 @@
   "url": "/Inventory/Details?stock=GTX723769",
   "first_price": 14999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C4RC1BG8DR647398": {
@@ -720,7 +672,7 @@
   "url": "/Inventory/Details?stock=GTX647398",
   "first_price": 18500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C3CDZBT4MH631384": {
@@ -733,7 +685,7 @@
   "url": "/Inventory/Details?stock=GTX631384",
   "first_price": 29500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C3CDYAG6CH259558": {
@@ -746,7 +698,7 @@
   "url": "/Inventory/Details?stock=GTX259558",
   "first_price": 12999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C3CDXBG2NH239206": {
@@ -759,7 +711,7 @@
   "url": "/Inventory/Details?stock=GTX239206",
   "first_price": 18000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C3CDXGJ1KH634929": {
@@ -772,7 +724,7 @@
   "url": "/Inventory/Details?stock=GTX634929",
   "first_price": 23500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4SDJFT9NC135570": {
@@ -785,7 +737,7 @@
   "url": "/Inventory/Details?stock=GTX135570",
   "first_price": 21497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3C4PDCBB6KT707872": {
@@ -798,7 +750,7 @@
   "url": "/Inventory/Details?stock=GTX707872",
   "first_price": 10997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1D7HU16PX7J576951": {
@@ -811,7 +763,7 @@
   "url": "/Inventory/Details?stock=GTX576951",
   "first_price": 12499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "ZFBCFADH5GZ037703": {
@@ -824,7 +776,7 @@
   "url": "/Inventory/Details?stock=GTX037703",
   "first_price": 8997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FMCU9J95LUB15298": {
@@ -837,7 +789,7 @@
   "url": "/Inventory/Details?stock=GTXB15298",
   "first_price": 14497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FMCU0GD3JUB62169": {
@@ -845,12 +797,13 @@
   "year": "2018",
   "make": "FORD",
   "model": "ESCAPE - SE",
-  "price": 11997,
+  "price": 11500,
   "miles": 64468,
   "url": "/Inventory/Details?stock=GTXB62169",
   "first_price": 11997,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FM5K8AR8EGC26101": {
@@ -863,7 +816,7 @@
   "url": "/Inventory/Details?stock=GTXC26101",
   "first_price": 6999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTEW1EB6JFB01272": {
@@ -877,7 +830,7 @@
   "first_price": 15500,
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-24",
-  "misses": 0
+  "misses": 1
  },
  "1FTFW1EG1JFC83480": {
   "vin": "1FTFW1EG1JFC83480",
@@ -889,7 +842,7 @@
   "url": "/Inventory/Details?stock=GTXC83480",
   "first_price": 24300,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FT7W2BT2NEE41753": {
@@ -902,7 +855,7 @@
   "url": "/Inventory/Details?stock=GTXE41753",
   "first_price": 40997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FT7W2BT1KED86594": {
@@ -915,7 +868,7 @@
   "url": "/Inventory/Details?stock=GTXD86594",
   "first_price": 25997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FA6P0H7XG5130698": {
@@ -928,7 +881,7 @@
   "url": "/Inventory/Details?stock=GTX130698",
   "first_price": 9999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1ZVBP8CH7A5154906": {
@@ -941,7 +894,7 @@
   "url": "/Inventory/Details?stock=GTX154906",
   "first_price": 15497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FA6P8TH7K5196729": {
@@ -954,7 +907,7 @@
   "url": "/Inventory/Details?stock=GTX196729",
   "first_price": 17497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FA6P8TH4J5171530": {
@@ -967,7 +920,7 @@
   "url": "/Inventory/Details?stock=GTX171530",
   "first_price": 14999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FAFP44413F450161": {
@@ -980,7 +933,7 @@
   "url": "/Inventory/Details?stock=GTX450161",
   "first_price": 7572,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3FMTK2SUXPMA05485": {
@@ -993,7 +946,7 @@
   "url": "/Inventory/Details?stock=GTXA05485",
   "first_price": 27800,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTYR2CM9GKA77970": {
@@ -1006,7 +959,7 @@
   "url": "/Inventory/Details?stock=GTTA77970",
   "first_price": 12497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTBW2ZG0GKB40096": {
@@ -1019,7 +972,7 @@
   "url": "/Inventory/Details?stock=GTXB40096",
   "first_price": 18572,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GKS2DKC5KR391179": {
@@ -1032,7 +985,7 @@
   "url": "/Inventory/Details?stock=GTX391179",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GKS2MEF0CR245702": {
@@ -1045,7 +998,7 @@
   "url": "/Inventory/Details?stock=GTX245702",
   "first_price": 12997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCV1F14JA011231": {
@@ -1058,7 +1011,7 @@
   "url": "/Inventory/Details?stock=GTX011231",
   "first_price": 16002,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCV3F28NA042072": {
@@ -1071,7 +1024,7 @@
   "url": "/Inventory/Details?stock=GTX042072",
   "first_price": 19300,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCM66573A019376": {
@@ -1084,7 +1037,7 @@
   "url": "/Inventory/Details?stock=GTX019376",
   "first_price": 14000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "19XFC2E54HE043972": {
@@ -1092,12 +1045,13 @@
   "year": "2017",
   "make": "HONDA",
   "model": "CIVIC - LX",
-  "price": 17000,
+  "price": 16900,
   "miles": 78777,
   "url": "/Inventory/Details?stock=GTX043972",
   "first_price": 17000,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "19XFL2G88RE009672": {
@@ -1110,7 +1064,7 @@
   "url": "/Inventory/Details?stock=GTX009672",
   "first_price": 21500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SHHFK7H65MU400471": {
@@ -1123,7 +1077,7 @@
   "url": "/Inventory/Details?stock=GTX400471",
   "first_price": 17500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2HGFC1F38GH636231": {
@@ -1136,7 +1090,7 @@
   "url": "/Inventory/Details?stock=GTX636231",
   "first_price": 14997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2HKRW2H59HH664605": {
@@ -1149,7 +1103,7 @@
   "url": "/Inventory/Details?stock=GTX664605",
   "first_price": 19500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2HKRM4H70FH666372": {
@@ -1157,12 +1111,13 @@
   "year": "2015",
   "make": "HONDA",
   "model": "CR-V - EXL",
-  "price": 15997,
+  "price": 15500,
   "miles": 107222,
   "url": "/Inventory/Details?stock=GTX666372",
   "first_price": 15997,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5J6RM4H75DL036978": {
@@ -1175,7 +1130,7 @@
   "url": "/Inventory/Details?stock=GTX036978",
   "first_price": 12999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5J6RW2H92HL035177": {
@@ -1188,7 +1143,7 @@
   "url": "/Inventory/Details?stock=GTX035177",
   "first_price": 16497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "7FARS6H89RE064247": {
@@ -1201,7 +1156,7 @@
   "url": "/Inventory/Details?stock=GTX064247",
   "first_price": 26511,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JHMZF1D65FS001375": {
@@ -1214,7 +1169,7 @@
   "url": "/Inventory/Details?stock=GTX001375",
   "first_price": 10999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "19XZE4F59LE004062": {
@@ -1227,7 +1182,7 @@
   "url": "/Inventory/Details?stock=GTX004062",
   "first_price": 15400,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNRL6H79JB018261": {
@@ -1240,7 +1195,7 @@
   "url": "/Inventory/Details?stock=GTX018261",
   "first_price": 18997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNRL5H9XHB012426": {
@@ -1253,7 +1208,7 @@
   "url": "/Inventory/Details?stock=GTX012426",
   "first_price": 18699,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNRL5H62EB056082": {
@@ -1261,12 +1216,13 @@
   "year": "2014",
   "make": "HONDA",
   "model": "ODYSSEY - EXL",
-  "price": 23997,
+  "price": 22500,
   "miles": 105822,
   "url": "/Inventory/Details?stock=GTX056082",
   "first_price": 23997,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNRL5H64EB103385": {
@@ -1279,7 +1235,7 @@
   "url": "/Inventory/Details?stock=GTX103385",
   "first_price": 13650,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNYF8H24MB030468": {
@@ -1292,7 +1248,7 @@
   "url": "/Inventory/Details?stock=GTX030468",
   "first_price": 16397,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNYF6H98HB075467": {
@@ -1305,7 +1261,7 @@
   "url": "/Inventory/Details?stock=GTX075467",
   "first_price": 17799,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5FNYF6H43KB084864": {
@@ -1318,7 +1274,7 @@
   "url": "/Inventory/Details?stock=GTX084864",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5NPDH4AE3GH688987": {
@@ -1331,7 +1287,7 @@
   "url": "/Inventory/Details?stock=GTX688987",
   "first_price": 8997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KM8R2DHE0MU255024": {
@@ -1344,7 +1300,7 @@
   "url": "/Inventory/Details?stock=GTX255024",
   "first_price": 14002,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5XYZWDLA1GG308400": {
@@ -1357,7 +1313,7 @@
   "url": "/Inventory/Details?stock=GTX308400",
   "first_price": 11497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5XYZU3LB5GG335950": {
@@ -1370,7 +1326,7 @@
   "url": "/Inventory/Details?stock=GTX335950",
   "first_price": 11500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KMHTC6AD5FU221485": {
@@ -1383,7 +1339,7 @@
   "url": "/Inventory/Details?stock=GTX221485",
   "first_price": 6497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JNKAJ09F18M361815": {
@@ -1396,7 +1352,7 @@
   "url": "/Inventory/Details?stock=GTX361815",
   "first_price": 8997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JN1DV6AR7BM451492": {
@@ -1409,20 +1365,8 @@
   "url": "/Inventory/Details?stock=GTX451492",
   "first_price": 8999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "JN1BV7AR6EM699217": {
-  "vin": "JN1BV7AR6EM699217",
-  "year": "2014",
-  "make": "INFINITI",
-  "model": "Q50 - SPORT",
-  "price": 14499,
-  "miles": 112253,
-  "url": "/Inventory/Details?stock=GTX699217",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "SJKCH5CP9JA059892": {
   "vin": "SJKCH5CP9JA059892",
@@ -1434,7 +1378,7 @@
   "url": "/Inventory/Details?stock=GTX059892",
   "first_price": 13999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JN8AZ2NE7K9235752": {
@@ -1447,7 +1391,7 @@
   "url": "/Inventory/Details?stock=GTX235752",
   "first_price": 21600,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SADCJ2BN9HA494366": {
@@ -1460,7 +1404,7 @@
   "url": "/Inventory/Details?stock=GTX494366",
   "first_price": 13600,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SAJAL4BV9HA965121": {
@@ -1473,7 +1417,7 @@
   "url": "/Inventory/Details?stock=GTX965121",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SAJWJ2GD8E8V71287": {
@@ -1486,7 +1430,7 @@
   "url": "/Inventory/Details?stock=GTXV71287",
   "first_price": 15252,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4PJMDN4KD490723": {
@@ -1499,7 +1443,7 @@
   "url": "/Inventory/Details?stock=GTX490723",
   "first_price": 15999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1J8HG48K17C631210": {
@@ -1512,7 +1456,7 @@
   "url": "/Inventory/Details?stock=GTX631210",
   "first_price": 8700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3C4NJDCNXTT182637": {
@@ -1525,7 +1469,7 @@
   "url": "/Inventory/Details?stock=GTX182637",
   "first_price": 24500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RJKBG7M8187920": {
@@ -1538,7 +1482,7 @@
   "url": "/Inventory/Details?stock=GTX187920",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RJFAG1EC168996": {
@@ -1551,7 +1495,7 @@
   "url": "/Inventory/Details?stock=GTX168996",
   "first_price": 9999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RJFBG8HC662372": {
@@ -1564,7 +1508,7 @@
   "url": "/Inventory/Details?stock=GTX662372",
   "first_price": 14497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RJFBG7HC675226": {
@@ -1577,7 +1521,7 @@
   "url": "/Inventory/Details?stock=GTX675226",
   "first_price": 8999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RJFBG5KC680139": {
@@ -1590,7 +1534,7 @@
   "url": "/Inventory/Details?stock=GTX680139",
   "first_price": 16497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RJFJT1EC346595": {
@@ -1603,7 +1547,7 @@
   "url": "/Inventory/Details?stock=GTX346595",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4AJWAG5CL269551": {
@@ -1616,7 +1560,7 @@
   "url": "/Inventory/Details?stock=GTX269551",
   "first_price": 13900,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4GJXAN6JW180064": {
@@ -1629,7 +1573,7 @@
   "url": "/Inventory/Details?stock=GTX180064",
   "first_price": 18997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4AJWAG9JL907135": {
@@ -1642,7 +1586,7 @@
   "url": "/Inventory/Details?stock=GTX907135",
   "first_price": 20999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWDG3EL218231": {
@@ -1655,7 +1599,7 @@
   "url": "/Inventory/Details?stock=GTX218231",
   "first_price": 16497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWEG7GL144006": {
@@ -1668,7 +1612,7 @@
   "url": "/Inventory/Details?stock=GTX144006",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWDG9CL286675": {
@@ -1681,7 +1625,7 @@
   "url": "/Inventory/Details?stock=GTX286675",
   "first_price": 21500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWEG0HL581718": {
@@ -1694,7 +1638,7 @@
   "url": "/Inventory/Details?stock=GTX581718",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4HJWFG7FL729949": {
@@ -1707,7 +1651,7 @@
   "url": "/Inventory/Details?stock=GTX729949",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWDG2DL630901": {
@@ -1720,7 +1664,7 @@
   "url": "/Inventory/Details?stock=GTX630901",
   "first_price": 12997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWDG9JL831397": {
@@ -1733,7 +1677,7 @@
   "url": "/Inventory/Details?stock=GTX831397",
   "first_price": 17500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3KPF24AD2PE627426": {
@@ -1741,12 +1685,13 @@
   "year": "2023",
   "make": "KIA",
   "model": "FORTE - LX",
-  "price": 15997,
+  "price": 15300,
   "miles": 58587,
   "url": "/Inventory/Details?stock=GTX627426",
   "first_price": 15997,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KNAFX4A64E5172345": {
@@ -1759,7 +1704,7 @@
   "url": "/Inventory/Details?stock=GTX172345",
   "first_price": 6699,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5XXG64J22NG101048": {
@@ -1772,7 +1717,7 @@
   "url": "/Inventory/Details?stock=GTX101048",
   "first_price": 18000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KNDCR3LE5P5037358": {
@@ -1785,7 +1730,7 @@
   "url": "/Inventory/Details?stock=GTX037358",
   "first_price": 18997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5XXGN4A78CG015447": {
@@ -1793,12 +1738,12 @@
   "year": "2012",
   "make": "KIA",
   "model": "OPTIMA - EX",
-  "price": 8997,
+  "price": 9500,
   "miles": 61217,
   "url": "/Inventory/Details?stock=GTX015447",
   "first_price": 8997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KNADM4A33H6025163": {
@@ -1811,7 +1756,7 @@
   "url": "/Inventory/Details?stock=GTX025163",
   "first_price": 6499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3KPA24AD7ME380958": {
@@ -1824,7 +1769,7 @@
   "url": "/Inventory/Details?stock=GTX380958",
   "first_price": 11999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5XYPG4A3XLG673578": {
@@ -1837,7 +1782,7 @@
   "url": "/Inventory/Details?stock=GTX673578",
   "first_price": 10499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KNDJ23AU6M7797031": {
@@ -1850,7 +1795,7 @@
   "url": "/Inventory/Details?stock=GTX797031",
   "first_price": 12700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KNDPMCACXL7788665": {
@@ -1863,7 +1808,7 @@
   "url": "/Inventory/Details?stock=GTX788665",
   "first_price": 11997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "KNDPRCA64M7901118": {
@@ -1876,7 +1821,7 @@
   "url": "/Inventory/Details?stock=GTX901118",
   "first_price": 17200,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5XYP6DHC9MG176886": {
@@ -1889,7 +1834,7 @@
   "url": "/Inventory/Details?stock=GTX176886",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SALVR2RX0KH340835": {
@@ -1902,7 +1847,7 @@
   "url": "/Inventory/Details?stock=GTX340835",
   "first_price": 16999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SALWR2VF6GA645418": {
@@ -1915,7 +1860,7 @@
   "url": "/Inventory/Details?stock=GTX645418",
   "first_price": 15500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SALWR2RE8JA184151": {
@@ -1928,7 +1873,7 @@
   "url": "/Inventory/Details?stock=GTX184151",
   "first_price": 29997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JTJBM7FX0E5084841": {
@@ -1941,7 +1886,7 @@
   "url": "/Inventory/Details?stock=GTX084841",
   "first_price": 21300,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JTHCF5C22C5052984": {
@@ -1954,7 +1899,7 @@
   "url": "/Inventory/Details?stock=GTX052984",
   "first_price": 13499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2T2GK31U47C015219": {
@@ -1968,7 +1913,7 @@
   "first_price": 13497,
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-24",
-  "misses": 0
+  "misses": 1
  },
  "JM1BPABL3M1333892": {
   "vin": "JM1BPABL3M1333892",
@@ -1980,7 +1925,7 @@
   "url": "/Inventory/Details?stock=GTX333892",
   "first_price": 16782,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM1BPBEY6M1311298": {
@@ -1993,7 +1938,7 @@
   "url": "/Inventory/Details?stock=GTX311298",
   "first_price": 18499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM1DKFC7XJ0301335": {
@@ -2006,7 +1951,7 @@
   "url": "/Inventory/Details?stock=GTX301335",
   "first_price": 13997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM3KE2DY4G0850916": {
@@ -2019,7 +1964,7 @@
   "url": "/Inventory/Details?stock=GTX850916",
   "first_price": 14997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM3KE4CY4G0856602": {
@@ -2032,7 +1977,7 @@
   "url": "/Inventory/Details?stock=GTX856602",
   "first_price": 13761,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM3KE4BY7G0788023": {
@@ -2045,7 +1990,7 @@
   "url": "/Inventory/Details?stock=GTX788023",
   "first_price": 13499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM1NB354640409574": {
@@ -2058,7 +2003,7 @@
   "url": "/Inventory/Details?stock=GTX409574",
   "first_price": 14500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WDDGF4HB7EA967142": {
@@ -2071,7 +2016,7 @@
   "url": "/Inventory/Details?stock=GTX967142",
   "first_price": 14497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WDDSJ4GB6KN760742": {
@@ -2084,7 +2029,7 @@
   "url": "/Inventory/Details?stock=GTX760742",
   "first_price": 13997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WDDSJ4EB8EN035196": {
@@ -2097,20 +2042,8 @@
   "url": "/Inventory/Details?stock=GTX035196",
   "first_price": 14000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "WDDZF4KB3HA207568": {
-  "vin": "WDDZF4KB3HA207568",
-  "year": "2017",
-  "make": "MERCEDES-BENZ",
-  "model": "E-CLASS - E300 4MATIC",
-  "price": 13300,
-  "miles": 122771,
-  "url": "/Inventory/Details?stock=GTX207568",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "WDDZF4KB8JA299332": {
   "vin": "WDDZF4KB8JA299332",
@@ -2122,7 +2055,7 @@
   "url": "/Inventory/Details?stock=GTX299332",
   "first_price": 16497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4JGDF2EE7EA427902": {
@@ -2135,7 +2068,7 @@
   "url": "/Inventory/Details?stock=GTX427902",
   "first_price": 14997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WDCTG4GB6HJ284788": {
@@ -2148,7 +2081,7 @@
   "url": "/Inventory/Details?stock=GTX284788",
   "first_price": 15201,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WDCTG4GB1HJ349045": {
@@ -2161,7 +2094,7 @@
   "url": "/Inventory/Details?stock=GTX349045",
   "first_price": 13497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "W1NKM4GB7RF200324": {
@@ -2174,7 +2107,7 @@
   "url": "/Inventory/Details?stock=GTX200324",
   "first_price": 33497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4JGDA5HB3GA805654": {
@@ -2187,7 +2120,7 @@
   "url": "/Inventory/Details?stock=GTX805654",
   "first_price": 15699,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WD4PG2EE5K3541207": {
@@ -2200,7 +2133,7 @@
   "url": "/Inventory/Details?stock=GTX541207",
   "first_price": 14997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WDAPE8CD5HP573785": {
@@ -2213,7 +2146,7 @@
   "url": "/Inventory/Details?stock=GTX573785",
   "first_price": 63500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WMZYT3C33J3D99474": {
@@ -2226,7 +2159,7 @@
   "url": "/Inventory/Details?stock=GTXD99474",
   "first_price": 11980,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JA32X2HU1BU001613": {
@@ -2239,7 +2172,7 @@
   "url": "/Inventory/Details?stock=GTX001613",
   "first_price": 7997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JA4ARUAU7MU023352": {
@@ -2252,7 +2185,7 @@
   "url": "/Inventory/Details?stock=GTX023352",
   "first_price": 15000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JN1AZ34D26M306131": {
@@ -2265,7 +2198,7 @@
   "url": "/Inventory/Details?stock=GTX306131",
   "first_price": 11400,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1N4BL4CV5MN397508": {
@@ -2278,7 +2211,7 @@
   "url": "/Inventory/Details?stock=GTX397508",
   "first_price": 16997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1N4AL3AP3HC485145": {
@@ -2291,7 +2224,7 @@
   "url": "/Inventory/Details?stock=GTX485145",
   "first_price": 8999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1N4AL3APXEN335419": {
@@ -2304,7 +2237,7 @@
   "url": "/Inventory/Details?stock=GTX335419",
   "first_price": 8497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5N1AA0NC4FN603836": {
@@ -2317,7 +2250,7 @@
   "url": "/Inventory/Details?stock=GTX603836",
   "first_price": 14497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5BZAF0AA4GN850382": {
@@ -2330,7 +2263,7 @@
   "url": "/Inventory/Details?stock=GTX850382",
   "first_price": 21172,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3N6CM0KN5LK693152": {
@@ -2343,7 +2276,7 @@
   "url": "/Inventory/Details?stock=GTX693152",
   "first_price": 12997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3N6CM0KN0MK700459": {
@@ -2356,7 +2289,7 @@
   "url": "/Inventory/Details?stock=GTX700459",
   "first_price": 12400,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5N1DR2CM5LC598361": {
@@ -2369,7 +2302,7 @@
   "url": "/Inventory/Details?stock=GTX598361",
   "first_price": 13497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JN1BJ1CP6KW215552": {
@@ -2382,7 +2315,7 @@
   "url": "/Inventory/Details?stock=GTX215552",
   "first_price": 15000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WP0CA298XXU631744": {
@@ -2395,7 +2328,7 @@
   "url": "/Inventory/Details?stock=GTX631744",
   "first_price": 13500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WP1AB2A20HLA51971": {
@@ -2408,7 +2341,7 @@
   "url": "/Inventory/Details?stock=GTXA51971",
   "first_price": 16500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WP1AB2A58HLB15278": {
@@ -2421,7 +2354,7 @@
   "url": "/Inventory/Details?stock=GTXB15278",
   "first_price": 16500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C6SRFFT9KN877229": {
@@ -2434,7 +2367,7 @@
   "url": "/Inventory/Details?stock=GTX877229",
   "first_price": 21500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C6SRFFT0MN733121": {
@@ -2447,7 +2380,7 @@
   "url": "/Inventory/Details?stock=GTX733121",
   "first_price": 22700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C6RR7FG4JS174922": {
@@ -2460,7 +2393,7 @@
   "url": "/Inventory/Details?stock=GTX174922",
   "first_price": 23700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3C7WRSAL6NG348721": {
@@ -2473,7 +2406,7 @@
   "url": "/Inventory/Details?stock=GTX348721",
   "first_price": 16500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3C6LRVDG5SE520932": {
@@ -2486,7 +2419,7 @@
   "url": "/Inventory/Details?stock=GTX520932",
   "first_price": 28997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3C6UD5CL7CG101262": {
@@ -2499,7 +2432,7 @@
   "url": "/Inventory/Details?stock=GTX101262",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF2GTAAC7JH208143": {
@@ -2512,7 +2445,7 @@
   "url": "/Inventory/Details?stock=GTX208143",
   "first_price": 10500,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF2SKAAC0PH502053": {
@@ -2525,7 +2458,7 @@
   "url": "/Inventory/Details?stock=GTX502053",
   "first_price": 22997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF2SKAUC5KH512923": {
@@ -2538,7 +2471,7 @@
   "url": "/Inventory/Details?stock=GTX512923",
   "first_price": 14700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF2SHADC1CH416884": {
@@ -2546,12 +2479,13 @@
   "year": "2012",
   "make": "SUBARU",
   "model": "FORESTER - 2.5X PREMIUM",
-  "price": 10997,
+  "price": 10600,
   "miles": 93689,
   "url": "/Inventory/Details?stock=GTX416884",
   "first_price": 10997,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF2SJARC1FH427255": {
@@ -2564,7 +2498,7 @@
   "url": "/Inventory/Details?stock=GTX427255",
   "first_price": 13898,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4S3GTAB67L3718452": {
@@ -2577,7 +2511,7 @@
   "url": "/Inventory/Details?stock=GTX718452",
   "first_price": 17997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4S4BSANC2H3340753": {
@@ -2590,7 +2524,7 @@
   "url": "/Inventory/Details?stock=GTX340753",
   "first_price": 12900,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF1VA1F6XF9803705": {
@@ -2604,18 +2538,6 @@
   "first_price": 12499,
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-24",
-  "misses": 0
- },
- "JTEBU5JR3G5321885": {
-  "vin": "JTEBU5JR3G5321885",
-  "year": "2016",
-  "make": "TOYOTA",
-  "model": "4RUNNER - TRAIL",
-  "price": 24999,
-  "miles": 127124,
-  "url": "/Inventory/Details?stock=GTX321885",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
   "misses": 1
  },
  "4T1BE46K19U342407": {
@@ -2628,7 +2550,7 @@
   "url": "/Inventory/Details?stock=GTX342407",
   "first_price": 10999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1BF1FK5EU339967": {
@@ -2641,7 +2563,7 @@
   "url": "/Inventory/Details?stock=GTX339967",
   "first_price": 13999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1BF1FK3GU558705": {
@@ -2649,12 +2571,13 @@
   "year": "2016",
   "make": "TOYOTA",
   "model": "CAMRY - LE",
-  "price": 14497,
+  "price": 14000,
   "miles": 118439,
   "url": "/Inventory/Details?stock=GTX558705",
   "first_price": 14497,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1BF32K55U620524": {
@@ -2668,7 +2591,7 @@
   "first_price": 9600,
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-24",
-  "misses": 0
+  "misses": 1
  },
  "2T1BU4EE3CC877715": {
   "vin": "2T1BU4EE3CC877715",
@@ -2680,7 +2603,7 @@
   "url": "/Inventory/Details?stock=GTX877715",
   "first_price": 8999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2T1BURHE6GC603455": {
@@ -2688,12 +2611,13 @@
   "year": "2016",
   "make": "TOYOTA",
   "model": "COROLLA - L",
-  "price": 12997,
+  "price": 12000,
   "miles": 113169,
   "url": "/Inventory/Details?stock=GTX603455",
   "first_price": 12997,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JTND4MBE3M3109879": {
@@ -2706,7 +2630,7 @@
   "url": "/Inventory/Details?stock=GTX109879",
   "first_price": 22999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JTEBU11FX70064753": {
@@ -2719,7 +2643,7 @@
   "url": "/Inventory/Details?stock=GTX064753",
   "first_price": 18997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5TDZARFH1GS022800": {
@@ -2727,25 +2651,14 @@
   "year": "2016",
   "make": "TOYOTA",
   "model": "HIGHLANDER - LE",
-  "price": 18999,
+  "price": 18600,
   "miles": 78406,
   "url": "/Inventory/Details?stock=GTX022800",
   "first_price": 18999,
+  "drops": 1,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "JTDKN3DU6F0403515": {
-  "vin": "JTDKN3DU6F0403515",
-  "year": "2015",
-  "make": "TOYOTA",
-  "model": "PRIUS",
-  "price": 15000,
-  "miles": 69633,
-  "url": "/Inventory/Details?stock=GTX403515",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "2T3WFREV4JW431424": {
   "vin": "2T3WFREV4JW431424",
@@ -2758,7 +2671,7 @@
   "first_price": 18700,
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-24",
-  "misses": 0
+  "misses": 1
  },
  "3TMDZ5BN8HM033351": {
   "vin": "3TMDZ5BN8HM033351",
@@ -2770,7 +2683,7 @@
   "url": "/Inventory/Details?stock=GTX033351",
   "first_price": 19999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3TYSX5EN2MT006671": {
@@ -2783,7 +2696,7 @@
   "url": "/Inventory/Details?stock=GTX006671",
   "first_price": 23997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3TMLU4ENXDM127967": {
@@ -2796,7 +2709,7 @@
   "url": "/Inventory/Details?stock=GTX127967",
   "first_price": 20799,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3TMLU4EN3FM192615": {
@@ -2809,7 +2722,7 @@
   "url": "/Inventory/Details?stock=GTX192615",
   "first_price": 24676,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5TFDY5F18CX224748": {
@@ -2822,7 +2735,7 @@
   "url": "/Inventory/Details?stock=GTX224748",
   "first_price": 23999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5TFHY5F19EX403823": {
@@ -2835,7 +2748,7 @@
   "url": "/Inventory/Details?stock=GTX403823",
   "first_price": 25997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1V2NR2CA1JC527670": {
@@ -2848,7 +2761,7 @@
   "url": "/Inventory/Details?stock=GTX527670",
   "first_price": 13997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1V2HC2CA1PC228221": {
@@ -2861,7 +2774,7 @@
   "url": "/Inventory/Details?stock=GTX228221",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1V2SE2CA4NC204296": {
@@ -2874,7 +2787,7 @@
   "url": "/Inventory/Details?stock=GTX204296",
   "first_price": 19997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VWH17AU3JM761997": {
@@ -2887,7 +2800,7 @@
   "url": "/Inventory/Details?stock=GTX761997",
   "first_price": 14297,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WVWL87CD2NW143680": {
@@ -2900,7 +2813,7 @@
   "url": "/Inventory/Details?stock=GTX143680",
   "first_price": 22999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VW5T7BU7KM163439": {
@@ -2913,7 +2826,7 @@
   "url": "/Inventory/Details?stock=GTX163439",
   "first_price": 16497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VWRG31C88M526380": {
@@ -2926,7 +2839,7 @@
   "url": "/Inventory/Details?stock=GTX526380",
   "first_price": 7700,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VWCM31Y55M369025": {
@@ -2939,7 +2852,7 @@
   "url": "/Inventory/Details?stock=GTX369025",
   "first_price": 9497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1VWSA7A39MC000992": {
@@ -2952,7 +2865,7 @@
   "url": "/Inventory/Details?stock=GTX000992",
   "first_price": 14499,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VVRB7AX2PM063471": {
@@ -2965,7 +2878,7 @@
   "url": "/Inventory/Details?stock=GTX063471",
   "first_price": 15997,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WVGFF9BP4CD001457": {
@@ -2978,7 +2891,7 @@
   "url": "/Inventory/Details?stock=GTX001457",
   "first_price": 6999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YV1672MC9BJ118318": {
@@ -2991,7 +2904,7 @@
   "url": "/Inventory/Details?stock=GTX118318",
   "first_price": 11000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YV140MEK4F1244833": {
@@ -3004,7 +2917,7 @@
   "url": "/Inventory/Details?stock=GTX244833",
   "first_price": 11987,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YV4902RK6F2763335": {
@@ -3017,7 +2930,7 @@
   "url": "/Inventory/Details?stock=GTX763335",
   "first_price": 11000,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YV4902RKXG2787123": {
@@ -3030,7 +2943,7 @@
   "url": "/Inventory/Details?stock=GTX787123",
   "first_price": 13999,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YV4992BZ8A1088731": {
@@ -3043,7 +2956,7 @@
   "url": "/Inventory/Details?stock=GTX088731",
   "first_price": 7100,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YV4A22PK5J1203430": {
@@ -3056,7 +2969,7 @@
   "url": "/Inventory/Details?stock=GTX203430",
   "first_price": 13497,
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5J8TB1H25BA008242": {
@@ -3069,7 +2982,7 @@
   "url": "/Inventory/Details?stock=GTX008242",
   "first_price": 8999,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTKR4EE7BPA01585": {
@@ -3082,7 +2995,7 @@
   "url": "/Inventory/Details?stock=GTXA01585",
   "first_price": 16500,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C6SRFFT1KN734128": {
@@ -3095,7 +3008,7 @@
   "url": "/Inventory/Details?stock=GTX734128",
   "first_price": 22500,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5TDYZ3DC0HS871097": {
@@ -3108,7 +3021,7 @@
   "url": "/Inventory/Details?stock=GTX871097",
   "first_price": 18497,
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C3CCCCG7FN615420": {
@@ -3121,7 +3034,7 @@
   "url": "/Inventory/Details?stock=GTX615420",
   "first_price": 11500,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4SDJET1JC101165": {
@@ -3134,7 +3047,7 @@
   "url": "/Inventory/Details?stock=GTX101165",
   "first_price": 19300,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTRF3B64GED35087": {
@@ -3147,7 +3060,7 @@
   "url": "/Inventory/Details?stock=GTXD35087",
   "first_price": 20500,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3HGGK5H85KM734540": {
@@ -3160,7 +3073,7 @@
   "url": "/Inventory/Details?stock=GTX734540",
   "first_price": 12999,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JN1CV6EL0DM981291": {
@@ -3173,20 +3086,8 @@
   "url": "/Inventory/Details?stock=GTX981291",
   "first_price": 15600,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "1J4NF1FB8BD235190": {
-  "vin": "1J4NF1FB8BD235190",
-  "year": "2011",
-  "make": "JEEP",
-  "model": "COMPASS - SPORT",
-  "price": 9500,
-  "miles": 42539,
-  "url": "/Inventory/Details?stock=GTX235190",
-  "first_seen": "2026-10-31",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "JTEBU5JR1K5695856": {
   "vin": "JTEBU5JR1K5695856",
@@ -3198,7 +3099,7 @@
   "url": "/Inventory/Details?stock=GTX695856",
   "first_price": 27999,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1BK1FK7CU512669": {
@@ -3211,7 +3112,7 @@
   "url": "/Inventory/Details?stock=GTX512669",
   "first_price": 12000,
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBXJG9C08L5R89658": {
@@ -3224,7 +3125,7 @@
   "url": "/Inventory/Details?stock=GTXR89658",
   "first_price": 17372,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GYFZCR48KF225087": {
@@ -3237,7 +3138,7 @@
   "url": "/Inventory/Details?stock=GTX225087",
   "first_price": 17699,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2G1FG3D38E9185500": {
@@ -3250,20 +3151,8 @@
   "url": "/Inventory/Details?stock=GTX185500",
   "first_price": 13500,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "SAJAJ4FX5LCP64511": {
-  "vin": "SAJAJ4FX5LCP64511",
-  "year": "2020",
-  "make": "JAGUAR",
-  "model": "XE - S",
-  "price": 14497,
-  "miles": 89813,
-  "url": "/Inventory/Details?stock=GTXP64511",
-  "first_seen": "2026-11-04",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "YSMFD3KA4RL234647": {
   "vin": "YSMFD3KA4RL234647",
@@ -3275,20 +3164,21 @@
   "url": "/Inventory/Details?stock=GTX234647",
   "first_price": 21000,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5YFBURHE7JP851821": {
   "vin": "5YFBURHE7JP851821",
   "year": "2018",
   "make": "TOYOTA",
-  "model": "COROLLA - L",
-  "price": 16500,
+  "model": "COROLLA - LE",
+  "price": 15500,
   "miles": 83082,
   "url": "/Inventory/Details?stock=GTX851821",
   "first_price": 16500,
+  "drops": 1,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VW5DAAT4KM500152": {
@@ -3301,7 +3191,7 @@
   "url": "/Inventory/Details?stock=GTX500152",
   "first_price": 24500,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3VWCB7BU3KM225428": {
@@ -3314,7 +3204,7 @@
   "url": "/Inventory/Details?stock=GTX225428",
   "first_price": 12800,
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAU78LFF2G1059315": {
@@ -3327,7 +3217,7 @@
   "url": "/Inventory/Details?stock=GTX059315",
   "first_price": 11497,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1LMAFEXFD025445": {
@@ -3340,7 +3230,7 @@
   "url": "/Inventory/Details?stock=GTX025445",
   "first_price": 15472,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBACN53401LJ55655": {
@@ -3353,7 +3243,7 @@
   "url": "/Inventory/Details?stock=GTXJ55655",
   "first_price": 10572,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GYS4GKL2MR478493": {
@@ -3366,7 +3256,7 @@
   "url": "/Inventory/Details?stock=GTX478493",
   "first_price": 62997,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "ZFBCFXCB9HP528322": {
@@ -3379,7 +3269,7 @@
   "url": "/Inventory/Details?stock=GTX528322",
   "first_price": 9997,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FM5K7D86HGA12421": {
@@ -3392,20 +3282,8 @@
   "url": "/Inventory/Details?stock=GTXA12421",
   "first_price": 12302,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "1FM5K8GT3FGA50773": {
-  "vin": "1FM5K8GT3FGA50773",
-  "year": "2015",
-  "make": "FORD",
-  "model": "EXPLORER - SPORT",
-  "price": 15499,
-  "miles": 77163,
-  "url": "/Inventory/Details?stock=GTXA50773",
-  "first_seen": "2026-11-07",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "1FTYR1ZM5KKB46308": {
   "vin": "1FTYR1ZM5KKB46308",
@@ -3417,7 +3295,7 @@
   "url": "/Inventory/Details?stock=GTXB46308",
   "first_price": 20572,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCM82247A000460": {
@@ -3430,7 +3308,7 @@
   "url": "/Inventory/Details?stock=GTX000460",
   "first_price": 8472,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCV1F32NA104675": {
@@ -3443,20 +3321,8 @@
   "url": "/Inventory/Details?stock=GTC104675",
   "first_price": 18900,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "1HGCP2F62BA034648": {
-  "vin": "1HGCP2F62BA034648",
-  "year": "2011",
-  "make": "HONDA",
-  "model": "ACCORD - SE",
-  "price": 10072,
-  "miles": 88638,
-  "url": "/Inventory/Details?stock=GTX034648",
-  "first_seen": "2026-11-07",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "1N6BF0KY7GN808205": {
   "vin": "1N6BF0KY7GN808205",
@@ -3468,7 +3334,7 @@
   "url": "/Inventory/Details?stock=GTX808205",
   "first_price": 17572,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5TDJKRFH2GS505416": {
@@ -3481,32 +3347,8 @@
   "url": "/Inventory/Details?stock=GTX505416",
   "first_price": 17499,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "5TDYK3DC2CS253034": {
-  "vin": "5TDYK3DC2CS253034",
-  "year": "2012",
-  "make": "TOYOTA",
-  "model": "SIENNA - XLE",
-  "price": 16500,
-  "miles": 60139,
-  "url": "/Inventory/Details?stock=GTX253034",
-  "first_seen": "2026-11-07",
-  "last_seen": "2026-11-18",
-  "misses": 1
- },
- "5TEUU42N07Z427310": {
-  "vin": "5TEUU42N07Z427310",
-  "year": "2007",
-  "make": "TOYOTA",
-  "model": "TACOMA - ACCESS CAB",
-  "price": 15582,
-  "miles": 117010,
-  "url": "/Inventory/Details?stock=GTX427310",
-  "first_seen": "2026-11-07",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "YV4A22PKXH1122935": {
   "vin": "YV4A22PKXH1122935",
@@ -3518,7 +3360,7 @@
   "url": "/Inventory/Details?stock=GTX122935",
   "first_price": 16902,
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FA6P8TH6F5384146": {
@@ -3531,7 +3373,7 @@
   "url": "/Inventory/Details?stock=GTX384146",
   "first_price": 19572,
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTYR1YM2GKA22019": {
@@ -3544,7 +3386,7 @@
   "url": "/Inventory/Details?stock=GTXA22019",
   "first_price": 15000,
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4BJWCG6CL180752": {
@@ -3557,7 +3399,7 @@
   "url": "/Inventory/Details?stock=GTX180752",
   "first_price": 15572,
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WAUFNAF49HN056381": {
@@ -3570,7 +3412,7 @@
   "url": "/Inventory/Details?stock=GTX056381",
   "first_price": 16997,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBAFV3C57ED685888": {
@@ -3583,7 +3425,7 @@
   "url": "/Inventory/Details?stock=GTX685888",
   "first_price": 16002,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JTHFN48Y940050333": {
@@ -3596,7 +3438,7 @@
   "url": "/Inventory/Details?stock=GTX050333",
   "first_price": 15432,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3MZBN1L35HM149399": {
@@ -3609,20 +3451,8 @@
   "url": "/Inventory/Details?stock=GTX149399",
   "first_price": 10999,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "JM1BM1T70G1279031": {
-  "vin": "JM1BM1T70G1279031",
-  "year": "2016",
-  "make": "MAZDA",
-  "model": "3 - SPORT",
-  "price": 13499,
-  "miles": 34884,
-  "url": "/Inventory/Details?stock=GTX279031",
-  "first_seen": "2026-11-11",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "3MVDMBBM3RM699540": {
   "vin": "3MVDMBBM3RM699540",
@@ -3634,7 +3464,7 @@
   "url": "/Inventory/Details?stock=GTX699540",
   "first_price": 20500,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "55SWF4KB8JU252224": {
@@ -3647,7 +3477,7 @@
   "url": "/Inventory/Details?stock=GTX252224",
   "first_price": 15997,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "YSMFE3KA3RL217075": {
@@ -3661,7 +3491,7 @@
   "first_price": 21000,
   "first_seen": "2026-11-11",
   "last_seen": "2026-11-24",
-  "misses": 0
+  "misses": 1
  },
  "YSMFD3KA7RL217969": {
   "vin": "YSMFD3KA7RL217969",
@@ -3673,7 +3503,7 @@
   "url": "/Inventory/Details?stock=GTX217969",
   "first_price": 21000,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3TMJU4GN7EM166876": {
@@ -3686,7 +3516,7 @@
   "url": "/Inventory/Details?stock=GTX166876",
   "first_price": 22000,
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FM5K8AC8MNA03045": {
@@ -3694,12 +3524,13 @@
   "year": "2021",
   "make": "FORD",
   "model": "EXPLORER - POLICE INTERCEPTOR",
-  "price": 18999,
+  "price": 17997,
   "miles": 103729,
   "url": "/Inventory/Details?stock=GTCA03045",
   "first_price": 18999,
+  "drops": 1,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1BF1FK8GU577489": {
@@ -3712,7 +3543,7 @@
   "url": "/Inventory/Details?stock=GTX577489",
   "first_price": 11999,
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3GYFK62827G269823": {
@@ -3725,7 +3556,7 @@
   "url": "/Inventory/Details?stock=GTX269823",
   "first_price": 25498,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C4RC1BG6JR139555": {
@@ -3738,7 +3569,7 @@
   "url": "/Inventory/Details?stock=GTG139555",
   "first_price": 9972,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTMF1CB7JKC12340": {
@@ -3751,7 +3582,7 @@
   "url": "/Inventory/Details?stock=GTXC12340",
   "first_price": 6102,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FT7X2BA6PED11974": {
@@ -3764,20 +3595,8 @@
   "url": "/Inventory/Details?stock=GTXD11974",
   "first_price": 29902,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "19XFB2F92DE272228": {
-  "vin": "19XFB2F92DE272228",
-  "year": "2013",
-  "make": "HONDA",
-  "model": "CIVIC - EXL",
-  "price": 10499,
-  "miles": 134643,
-  "url": "/Inventory/Details?stock=GTX272228",
-  "first_seen": "2026-11-14",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "JHLRE485X8C002996": {
   "vin": "JHLRE485X8C002996",
@@ -3789,7 +3608,7 @@
   "url": "/Inventory/Details?stock=GTX002996",
   "first_price": 10599,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5LMJJ3LT6LEL00456": {
@@ -3802,7 +3621,7 @@
   "url": "/Inventory/Details?stock=GTXL00456",
   "first_price": 27999,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "W1Y70BGY2NT084975": {
@@ -3815,7 +3634,7 @@
   "url": "/Inventory/Details?stock=GTX084975",
   "first_price": 23999,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T4BF3EKXBR114300": {
@@ -3828,7 +3647,7 @@
   "url": "/Inventory/Details?stock=GTX114300",
   "first_price": 15592,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5TDJKRFH6GS230620": {
@@ -3841,7 +3660,7 @@
   "url": "/Inventory/Details?stock=GTX230620",
   "first_price": 15855,
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WBA4C9C57GG139187": {
@@ -3854,7 +3673,7 @@
   "url": "/Inventory/Details?stock=GTX139187",
   "first_price": 13497,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5UXCR6C50KLL05673": {
@@ -3867,7 +3686,7 @@
   "url": "/Inventory/Details?stock=GTXL05673",
   "first_price": 19499,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G1ZC5E19BF135953": {
@@ -3880,7 +3699,7 @@
   "url": "/Inventory/Details?stock=GTX135953",
   "first_price": 3555,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G1ZC5ST5LF028938": {
@@ -3892,7 +3711,7 @@
   "miles": 90734,
   "url": "/Inventory/Details?stock=GTX028938",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FA6P8CFXK5201372": {
@@ -3905,7 +3724,7 @@
   "url": "/Inventory/Details?stock=GTX201372",
   "first_price": 26999,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCR2F5XDA231426": {
@@ -3918,7 +3737,7 @@
   "url": "/Inventory/Details?stock=GTX231426",
   "first_price": 11253,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "SHHFK7H66MU224157": {
@@ -3931,7 +3750,7 @@
   "url": "/Inventory/Details?stock=GTX224157",
   "first_price": 17999,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3CZRU6H76GM708545": {
@@ -3944,7 +3763,7 @@
   "url": "/Inventory/Details?stock=GTT708545",
   "first_price": 11997,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3C4NJDCB2JT442497": {
@@ -3957,7 +3776,7 @@
   "url": "/Inventory/Details?stock=GTX442497",
   "first_price": 15802,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JM1NDAM78H0107624": {
@@ -3970,7 +3789,7 @@
   "url": "/Inventory/Details?stock=GTX107624",
   "first_price": 19601,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WMEFJ5DA4HK172492": {
@@ -3983,7 +3802,7 @@
   "url": "/Inventory/Details?stock=GTX172492",
   "first_price": 12855,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF1VA1C61M9812049": {
@@ -3996,7 +3815,7 @@
   "url": "/Inventory/Details?stock=GTX812049",
   "first_price": 20997,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "5YJ3E1EB6NF322651": {
@@ -4009,7 +3828,7 @@
   "url": "/Inventory/Details?stock=GTX322651",
   "first_price": 21855,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "7SAYGDEE9NF480948": {
@@ -4022,7 +3841,7 @@
   "url": "/Inventory/Details?stock=GTX480948",
   "first_price": 22997,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1M11BK5LU016965": {
@@ -4035,7 +3854,7 @@
   "url": "/Inventory/Details?stock=GTX016965",
   "first_price": 20999,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "4T1BF1FKXFU991503": {
@@ -4048,20 +3867,8 @@
   "url": "/Inventory/Details?stock=GTX991503",
   "first_price": 19855,
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
- },
- "3TMCZ5AN4KM189505": {
-  "vin": "3TMCZ5AN4KM189505",
-  "year": "2019",
-  "make": "TOYOTA",
-  "model": "TACOMA - DOUBLE CAB",
-  "price": 19999,
-  "miles": 160373,
-  "url": "/Inventory/Details?stock=GTX189505",
-  "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
-  "misses": 1
  },
  "ZARFAMAN9L7630318": {
   "vin": "ZARFAMAN9L7630318",
@@ -4073,7 +3880,7 @@
   "url": "/Inventory/Details?stock=GTX630318",
   "first_price": 19193,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1LKAFP6AA014105": {
@@ -4086,7 +3893,7 @@
   "url": "/Inventory/Details?stock=GTX014105",
   "first_price": 5999,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "WA1L2AFP1GA134967": {
@@ -4099,7 +3906,7 @@
   "url": "/Inventory/Details?stock=GTX134967",
   "first_price": 15193,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1G4ZP5SS4HU205402": {
@@ -4107,11 +3914,12 @@
   "year": "2017",
   "make": "BUICK",
   "model": "LACROSSE - ESSENCE",
-  "price": 0,
+  "price": 14497,
   "miles": 83761,
   "url": "/Inventory/Details?stock=GTX205402",
+  "first_price": 14497,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3GNKBHRS6LS698348": {
@@ -4123,7 +3931,7 @@
   "miles": 93676,
   "url": "/Inventory/Details?stock=GTX698348",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1GCNKPEC3EZ342489": {
@@ -4136,7 +3944,7 @@
   "url": "/Inventory/Details?stock=GTX342489",
   "first_price": 13193,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "2C3CDZAT0FH707204": {
@@ -4149,7 +3957,7 @@
   "url": "/Inventory/Details?stock=GTX707204",
   "first_price": 18835,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1C4RDJDG1EC978540": {
@@ -4162,7 +3970,7 @@
   "url": "/Inventory/Details?stock=GTX978540",
   "first_price": 12297,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1FTFX1EF0EFC66048": {
@@ -4175,7 +3983,7 @@
   "url": "/Inventory/Details?stock=GTXC66048",
   "first_price": 19999,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "1HGCP3F89BA026604": {
@@ -4188,7 +3996,7 @@
   "url": "/Inventory/Details?stock=GTX026604",
   "first_price": 11500,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "3LN6L5A90HR653415": {
@@ -4201,7 +4009,7 @@
   "url": "/Inventory/Details?stock=GTX653415",
   "first_price": 14999,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JN1BJ1CR2KW627470": {
@@ -4214,7 +4022,7 @@
   "url": "/Inventory/Details?stock=GTX627470",
   "first_price": 12497,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "misses": 0
  },
  "JF1VA2S69L9827565": {
@@ -4222,11 +4030,150 @@
   "year": "2020",
   "make": "SUBARU",
   "model": "WRX - STI",
-  "price": 0,
+  "price": 25497,
   "miles": 89296,
   "url": "/Inventory/Details?stock=GTX827565",
+  "first_price": 25497,
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "19UUA9F56AA009708": {
+  "vin": "19UUA9F56AA009708",
+  "year": "2010",
+  "make": "ACURA",
+  "model": "TL",
+  "price": 5999,
+  "miles": 208697,
+  "url": "/Inventory/Details?stock=GTX009708",
+  "first_price": 5999,
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "WBA3B3C56FJ985257": {
+  "vin": "WBA3B3C56FJ985257",
+  "year": "2015",
+  "make": "BMW",
+  "model": "328 - XI",
+  "price": 0,
+  "miles": 85441,
+  "url": "/Inventory/Details?stock=GTX985257",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "5UXCR6C02L9C50424": {
+  "vin": "5UXCR6C02L9C50424",
+  "year": "2020",
+  "make": "BMW",
+  "model": "X5 - XDRIVE40I",
+  "price": 23997,
+  "miles": 85572,
+  "url": "/Inventory/Details?stock=GTXC50424",
+  "first_price": 23997,
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "1G6DF8E52E0129452": {
+  "vin": "1G6DF8E52E0129452",
+  "year": "2014",
+  "make": "CADILLAC",
+  "model": "CTS - LUXURY COLLECTION",
+  "price": 0,
+  "miles": 100823,
+  "url": "/Inventory/Details?stock=GTX129452",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "1GYS4CKJ9FR242479": {
+  "vin": "1GYS4CKJ9FR242479",
+  "year": "2015",
+  "make": "CADILLAC",
+  "model": "ESCALADE - PREMIUM",
+  "price": 19497,
+  "miles": 108712,
+  "url": "/Inventory/Details?stock=GTX242479",
+  "first_price": 19497,
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "2C3CDXKT1LH200567": {
+  "vin": "2C3CDXKT1LH200567",
+  "year": "2020",
+  "make": "DODGE",
+  "model": "CHARGER - POLICE",
+  "price": 0,
+  "miles": 153471,
+  "url": "/Inventory/Details?stock=GTX200567",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "1D7RW3GP7BS648992": {
+  "vin": "1D7RW3GP7BS648992",
+  "year": "2011",
+  "make": "DODGE",
+  "model": "DAKOTA - SLT",
+  "price": 16555,
+  "miles": 40615,
+  "url": "/Inventory/Details?stock=GTX648992",
+  "first_price": 16555,
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "1C4RDJDG9LC412056": {
+  "vin": "1C4RDJDG9LC412056",
+  "year": "2020",
+  "make": "DODGE",
+  "model": "DURANGO - GT",
+  "price": 18997,
+  "miles": 108431,
+  "url": "/Inventory/Details?stock=GTX412056",
+  "first_price": 18997,
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "1FT7W2BT0LED30499": {
+  "vin": "1FT7W2BT0LED30499",
+  "year": "2020",
+  "make": "FORD",
+  "model": "F250 - SUPER DUTY",
+  "price": 0,
+  "miles": 151129,
+  "url": "/Inventory/Details?stock=GTXD30499",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "3FA6P0RU7KR129762": {
+  "vin": "3FA6P0RU7KR129762",
+  "year": "2019",
+  "make": "FORD",
+  "model": "FUSION - TITANIUM",
+  "price": 0,
+  "miles": 105929,
+  "url": "/Inventory/Details?stock=GTX129762",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "misses": 0
+ },
+ "4T1BK36B68U269553": {
+  "vin": "4T1BK36B68U269553",
+  "year": "2008",
+  "make": "TOYOTA",
+  "model": "AVALON - XL",
+  "price": 9497,
+  "miles": 105813,
+  "url": "/Inventory/Details?stock=GTX269553",
+  "first_price": 9497,
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
   "misses": 0
  }
 }
